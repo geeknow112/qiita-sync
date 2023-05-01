@@ -6,3 +6,4 @@ private: false
 -->
 
 test create sync.
+dir articles.
