@@ -30,8 +30,8 @@ jobs:
           find . -name '*.md' -not -path './.*' | xargs git add
           if ! git diff --staged --exit-code --quiet
           then
-            git config user.name github-actions
-            git config user.email github-actions@github.com
+            git config user.name geeknow112
+            git config user.email geeknow112@gmail.com
             find . -name '*.md' -not -path './.*' | xargs git add
             git commit -m "updated by qiita-sync"
             git push
