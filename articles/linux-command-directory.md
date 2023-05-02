@@ -1,6 +1,6 @@
 <!--
 title:   [linux testコマンド] ディレクトリの存在確認。多すぎるディレクトリの中に指定するものがあるかどうかを確認する際に使用する
-tags:    Linux,command,directory,test
+tags:    Linux,command,directory,テスト
 id:      b5349a98522e3d48ed0e
 private: false
 -->
