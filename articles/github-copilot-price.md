@@ -1,46 +1,46 @@
 <!--
-title: GitHub Copilot�̗����ɂ���
-tags: github, copilot, ����
+title: GitHub Copilotの料金について
+tags: github, copilot, 料金
 id: 
 private: false
 -->
 
 ---
-����ɂ��́B����́AGitHub�ɂ��ď��S�҃G���W�j�A�Ɍ����āAGitHub Copilot�̗����ɂ��ĉ�����܂��B
+こんにちは。今回は、GitHubについて初心者エンジニアに向けて、GitHub Copilotの料金について解説します。
 
-## �͂��߂�
+## はじめに
 
-GitHub Copilot�́AAI�ɂ�鎩���R�[�h�����c�[���ł���A�R�[�h�̓��͂�C���������邽�߂ɐ݌v����Ă��܂��BGitHub Copilot�́A�J���҂���萶�Y�I�ɂȂ邱�Ƃ��ł��邽�߁A���E���̑����̃v���O���}�[���璍�ڂ���Ă��܂��B
+GitHub Copilotは、AIによる自動コード生成ツールであり、コードの入力や修正を助けるために設計されています。GitHub Copilotは、開発者がより生産的になることができるため、世界中の多くのプログラマーから注目されています。
 
-�������AGitHub Copilot�͖����Œ񋟂���Ă���킯�ł͂���܂���B�����̎d�g�݂𗝉����邱�Ƃ́AGitHub Copilot�𓱓�����O�Ɍ��������ŏd�v�ȃ|�C���g�ł��B
+しかし、GitHub Copilotは無料で提供されているわけではありません。料金の仕組みを理解することは、GitHub Copilotを導入する前に検討する上で重要なポイントです。
 
-## GitHub Copilot�̗���
+## GitHub Copilotの料金
 
-GitHub Copilot�́A���݃x�[�^�łƂ��Ē񋟂���Ă���A�ȉ���3�̃v����������܂��B
+GitHub Copilotは、現在ベータ版として提供されており、以下の3つのプランがあります。
 
 - Free
 - Pro
 - Team
 
-### Free�v����
+### Freeプラン
 
-Free�v�����́AGitHub Copilot�̍ł���{�I�ȃo�[�W�����ł���A�N�ł������ŗ��p�ł��܂��B�������A�g�p����������܂��BFree�v�����ł́A1��������̃R�[�h�����̗ʂ���������Ă��܂��B�܂��AFree�v�����ł́A�ꕔ�̃v���O���~���O����ɑΉ����Ă��Ȃ��ꍇ������܂��B
+Freeプランは、GitHub Copilotの最も基本的なバージョンであり、誰でも無料で利用できます。ただし、使用制限があります。Freeプランでは、1日あたりのコード生成の量が制限されています。また、Freeプランでは、一部のプログラミング言語に対応していない場合があります。
 
-### Pro�v����
+### Proプラン
 
-Pro�v�����́AFree�v�����ɔ�ׂċ@�\���L�x�ŁA��荂�x�ȃR�[�h�����@�\��񋟂��܂��BPro�v�����ł́A��葽���̃v���O���~���O����ɑΉ����Ă��܂��B�܂��A�������ꂽ�R�[�h�ʂ𑝂₷���Ƃ��ł��܂��BPro�v�����́A���z9�h���Œ񋟂���Ă��܂��B
+Proプランは、Freeプランに比べて機能が豊富で、より高度なコード生成機能を提供します。Proプランでは、より多くのプログラミング言語に対応しています。また、制限されたコード量を増やすことができます。Proプランは、月額9ドルで提供されています。
 
-### Team�v����
+### Teamプラン
 
-Team�v�����́A�����̃��[�U�[���`�[���Ƃ��ċ��͂��ĊJ������ꍇ�ɍœK�ȃv�����ł��BTeam�v�����ł́A�`�[�����ŃR�[�h�����̃N�I�[�^�����L���邱�Ƃ��ł��܂��B�܂��A��荂�x�ȋ@�\��񋟂��A��葽���̃v���O���~���O����ɑΉ����Ă��܂��BTeam�v�����̉��i�́A���[�U�[���ɉ����Č��肳��܂��B
+Teamプランは、複数のユーザーがチームとして協力して開発する場合に最適なプランです。Teamプランでは、チーム内でコード生成のクオータを共有することができます。また、より高度な機能を提供し、より多くのプログラミング言語に対応しています。Teamプランの価格は、ユーザー数に応じて決定されます。
 
-## �܂Ƃ�
+## まとめ
 
-GitHub Copilot�́AAI�ɂ�鎩���R�[�h�����c�[���ł���A�v���O���}�[�ɂƂ��Ĕ��ɕ֗��ȃc�[���ł��B�������A�����ɂ��Ē��ӂ���K�v������܂��BFree�v�����́A��{�I�ȃR�[�h�����@�\��񋟂��܂����A����������܂��BPro�v�����́A��荂�x�ȋ@�\��񋟂��܂����A���z9�h���̗������K�v�ł��BTeam�v�����́A�����̃��[�U�[�����͂��ĊJ������ꍇ�ɍœK�ȃv�����ł���A���[�U�[���ɉ����ĉ��i�����肳��܂��B
+GitHub Copilotは、AIによる自動コード生成ツールであり、プログラマーにとって非常に便利なツールです。ただし、料金について注意する必要があります。Freeプランは、基本的なコード生成機能を提供しますが、制限があります。Proプランは、より高度な機能を提供しますが、月額9ドルの料金が必要です。Teamプランは、複数のユーザーが協力して開発する場合に最適なプランであり、ユーザー数に応じて価格が決定されます。
 
-���̋L���ŏЉ�����́AGitHub��Web�T�C�g�������ł��܂��BGitHub Copilot�𓱓�����O�ɁA�����v������@�\���\���ɗ������āA�œK�ȃv�������m�F���邱�Ƃ��������߂��܂��B
+この記事で紹介した情報は、GitHubのWebサイトから入手できます。GitHub Copilotを導入する前に、料金プランや機能を十分に理解して、最適なプランを確認することをおすすめします。
 
-### �Q�l����
+### 参考資料
 
 - [GitHub Copilot pricing](https://copilot.github.com/pricing/)
 - [How Does GitHub Copilot Work?](https://towardsdatascience.com/how-does-github-copilot-work-4f0e9c4a2483)
