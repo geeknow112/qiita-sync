@@ -1,9 +1,10 @@
 <!--
 title:   Github Copilotを使ったペアプログラミングのススメ
-tags:    Github,Copilot,ペアプログラミング
-id:      
+tags:    GitHub,copilot,ペアプログラミング
+id:      6bba47dcf3d376e8753a
 private: false
 -->
+
 
 ---
 こんにちは。今回は、Githubについて初心者エンジニアに向けて、Github Copilotを使ったペアプログラミングのススメについてお話しします。
