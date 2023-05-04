@@ -1,11 +1,10 @@
 <!--
 title: GitHub Copilotの料金について
-tags: github, copilot, 料金
+tags: github,copilot,料金
 id: 
 private: false
 -->
 
----
 こんにちは。今回は、GitHubについて初心者エンジニアに向けて、GitHub Copilotの料金について解説します。
 
 ## はじめに
