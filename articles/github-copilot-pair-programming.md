@@ -1,6 +1,6 @@
 <!--
 title:   Github Copilotを使ったペアプログラミングのススメ
-tags:    Github, Copilot, ペアプログラミング
+tags:    Github,Copilot,ペアプログラミング
 id:      
 private: false
 -->
