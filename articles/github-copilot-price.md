@@ -1,9 +1,10 @@
 <!--
-title: GitHub Copilotの料金について
-tags: github,copilot,料金
-id: 
+title:   GitHub Copilotの料金について
+tags:    GitHub,copilot,料金
+id:      a717a045c9b7d23f1686
 private: false
 -->
+
 
 こんにちは。今回は、GitHubについて初心者エンジニアに向けて、GitHub Copilotの料金について解説します。
 
