@@ -1,7 +1,7 @@
 <!--
 title: ChatGPTで自動文章作成！openAI APIの使い方
 tags: ChatGPT, OpenAI, API, 自然言語処理
-id: chatgpt-use-api
+id: 
 private: false
 -->
 
