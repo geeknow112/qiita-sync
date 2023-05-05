@@ -1,6 +1,6 @@
 <!--
 title: PythonでChatGPT APIを使って自然言語処理をする方法
-tags: chatgpt, openai, api, python, サンプルコード
+tags: chatgpt,openai,api,python,サンプルコード
 id: 
 private: false
 -->
