@@ -1,7 +1,9 @@
-<!-- TITLE: 【初心者向け】CHATGPTの使い方を学ぼう！ -->
-<!-- TAGS: CHATGPT,OPENAI,API,リファレンス -->
-<!-- ID: 123 -->
-<!-- PRIVATE: FALSE -->
+<!--
+title:  【初心者向け】OpenAIのリファレンス解説！chatGPTの使い方を学ぼう！
+tags:    API,ChatGPT,OpenAI,リファレンス
+id:      
+private: false
+-->
 
 ## はじめに
 
