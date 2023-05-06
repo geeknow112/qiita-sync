@@ -1,5 +1,5 @@
 <!-- TITLE: 【初心者向け】CHATGPTの使い方を学ぼう！ -->
-<!-- TAGS: CHATGPT, OPENAI, API, リファレンス -->
+<!-- TAGS: CHATGPT,OPENAI,API,リファレンス -->
 <!-- ID: 123 -->
 <!-- PRIVATE: FALSE -->
 
