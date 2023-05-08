@@ -1,6 +1,6 @@
 <!--
 title: ChatGPTとは？ビジネスに役立つ自然言語処理技術を解説する。
-tags: ChatGPT, ビジネス
+tags: ChatGPT,ビジネス
 id: 
 private: false
 -->
