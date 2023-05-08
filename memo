@@ -1,7 +1,7 @@
-chatgpt-ai-bot.md
+chatgpt-process-evolution.md
 
 ・下記の条件でタイトルと、ブログ記事を書いてください。
-「ChatGPT」によるAIチャットボットの設計と開発方法を解説！
+「ChatGPT」がもたらす自然言語処理技術の進化について知ろう！
 ・記事の先頭に、下記の設定コードを必ず入れてください。
 
 <!--
@@ -19,7 +19,7 @@ private: false
 
 
 ・キーワードを下記にしてください。
-	chatgpt openai api チャットボット
+	chatgpt 自然言語処理 進化
 
 ・対象者を下記にしてください。
 	chatGPTについて初心者エンジニア
