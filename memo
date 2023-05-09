@@ -1,4 +1,4 @@
-github-cli-reference.md
+github-gist-editor.md
 
 ・下記の条件でタイトルと、ブログ記事を書いてください。
 ・記事の先頭に、下記の設定コードを必ず入れてください。
@@ -18,7 +18,7 @@ private: false
 
 
 ・キーワードを下記にしてください。
-	github cli リファレンス
+	github gistをエディタで使う方法
 
 ・対象者を下記にしてください。
 	Githubについて初心者エンジニア
