@@ -75,6 +75,7 @@ request.get(tweetUrl).pipe(fs.createWriteStream(output));
 ```
 
 - サンプルコード2
+
 ```html
 <!-- HTML/JavaScriptを使用したツイートダウンロードの例 -->
 
