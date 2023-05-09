@@ -1,9 +1,10 @@
 <!--
-title: ChatGPTによるAIチャットボットの設計と開発方法を解説！
-tags: ChatGPT,OPENAI,API,チャットボット
-id: 
+title:   ChatGPTによるAIチャットボットの設計と開発方法を解説！
+tags:    API,ChatGPT,OpenAI,チャットボット
+id:      c7d8759fa6e7b19afd55
 private: false
 -->
+
 
 ---
 

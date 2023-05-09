@@ -1,9 +1,10 @@
 <!--
-title: ChatGPTとは？ビジネスに役立つ自然言語処理技術を解説する。
-tags: ChatGPT,ビジネス
-id: 
+title:   ChatGPTとは？ビジネスに役立つ自然言語処理技術を解説する。
+tags:    ChatGPT,ビジネス
+id:      8d6b78e9b9328d446952
 private: false
 -->
+
 
 ---
 

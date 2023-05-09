@@ -1,9 +1,10 @@
 <!--
-title: ChatGPTで自動文章作成！openAI APIの使い方
-tags: ChatGPT, OpenAI, API, 自然言語処理
-id: chatgpt-use-api
+title:   ChatGPTで自動文章作成！openAI APIの使い方
+tags:    API,ChatGPT,OpenAI,自然言語処理
+id:      10704a69e2a34c4402a6
 private: false
 -->
+
 
 こんにちは。今回は、ChatGPT APIについて初心者エンジニアに向けて、使い方を紹介します。
 
