@@ -55,8 +55,8 @@ Twitterは日々更新される情報の宝庫であるため、気になるツ�
 
 ツイートをダウンロードすることで、資料や情報収集などに役立てることができます。ぜひ、この方法を活用してTwitterをより効率的に活用しましょう。
 
-サンプルコード1:
-```
+- サンプルコード1
+```javascript
 // Node.jsを使用したツイートダウンロードの例
 
 const fs = require("fs");
@@ -72,8 +72,8 @@ const output = "./downloaded_tweet.mp4";
 request.get(tweetUrl).pipe(fs.createWriteStream(output));
 ```
 
-サンプルコード2:
-```
+- サンプルコード2
+```html
 <!-- HTML/JavaScriptを使用したツイートダウンロードの例 -->
 
 <!-- ダウンロードするツイートのURL -->
