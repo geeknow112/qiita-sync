@@ -1,9 +1,10 @@
 <!--
-title: Flutter入門：初心者エンジニアが知っておくべき使い方
-tags: flutter,使い方,モバイルアプリ,アプリ開発
-id: 
+title:   Flutter入門：初心者エンジニアが知っておくべき使い方
+tags:    Flutter,アプリ開発,モバイルアプリ,使い方
+id:      a3c3bb5cdf1fa4bbeb66
 private: false
 -->
+
 
 はじめに
 

@@ -1,9 +1,10 @@
 <!--
-title: JsonデータをPythonで扱う方法
-tags: Python,json,使い方
-id: 
+title:   JsonデータをPythonで扱う方法
+tags:    JSON,Python,使い方
+id:      80fed6448c7a8bfed9da
 private: false
 -->
+
 
 こんにちは。今回は、PythonでJSONを使う方法について説明します。
 

@@ -1,9 +1,10 @@
 <!--
-title: ChatGPTを使って、自社のサービスを自動化しよう！
-tags: ChatGPT,OPENAI,API,自動化
-id:
+title:   ChatGPTを使って、自社のサービスを自動化しよう！
+tags:    API,ChatGPT,OpenAI,自動化
+id:      228f81b0d5d99cdf9d3b
 private: false
 -->
+
 
 ---
 はじめに

@@ -1,8 +1,10 @@
 <!--
-title: PythonでChatGPT APIを使って自然言語処理をする方法
-tags: chatgpt, openai, api, python, サンプルコード
+title:   PythonでChatGPT APIを使って自然言語処理をする方法
+tags:    API,ChatGPT,OpenAI,Python,サンプルコード
+id:      9f258085532810facbbf
 private: false
 -->
+
 
 こんにちは。今回は、ChatGPTについて初心者エンジニアに向けて、PythonでChatGPT APIを使って自然言語処理をする方法について紹介します。
 
