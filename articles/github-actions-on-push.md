@@ -1,9 +1,10 @@
 <!--
-title: Github Actionsでpushをトリガとして実行する方法
-tags: Github,python,使い方
-id: 
+title:   Github Actionsでpushをトリガとして実行する方法
+tags:    GitHub,Python,使い方
+id:      1ab7dd60f7c1fdf9a715
 private: false
 -->
+
 
 こんにちは。今回は、githubについて初心者エンジニアに向けて、pythonを利用してgithub actionsのpush時に自動で処理を実行する方法について解説します。
 
