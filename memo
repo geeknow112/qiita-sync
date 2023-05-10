@@ -1,4 +1,4 @@
-github-gist-editor.md
+github-actions-on-push.md
 
 ・下記の条件でタイトルと、ブログ記事を書いてください。
 ・記事の先頭に、下記の設定コードを必ず入れてください。
@@ -18,7 +18,7 @@ private: false
 
 
 ・キーワードを下記にしてください。
-	github gistをエディタで使う方法
+	github actions push時に実行 python
 
 ・対象者を下記にしてください。
 	Githubについて初心者エンジニア
