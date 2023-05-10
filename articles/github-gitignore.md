@@ -1,5 +1,5 @@
 <!--
-title: Githubの.gitignoreファイルの使い方
+title: Githubのgitignoreファイルの使い方
 tags: Github,gitignore,使い方
 id:
 private: false
