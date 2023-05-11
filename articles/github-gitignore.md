@@ -1,9 +1,10 @@
 <!--
-title: Githubのgitignoreファイルの使い方
-tags: Github,gitignore,使い方
-id:
+title:   Githubのgitignoreファイルの使い方
+tags:    GitHub,gitignore,使い方
+id:      944b0ef5932adb9a6bd6
 private: false
 -->
+
 
 ---
 
@@ -54,7 +55,7 @@ test.log
 
 1. ファイルパス
    - ファイル名にマッチ
-   - ディレクトリ名にマッチ"> 
+   - ディレクトリ名にマッチ">
 1. ファイルパスとパターンを組み合わせる
 1. `#`でコメントを書くことができます
 1. `!`を先頭記号に書くことで、管理対象にすることができます

@@ -1,9 +1,10 @@
 <!--
-title: Github Actionsでsecretsを使って認証情報をセキュアに管理する方法
-tags: github,actions,python
-id: 
+title:   Github Actionsでsecretsを使って認証情報をセキュアに管理する方法
+tags:    GitHub,Python,actions
+id:      e8d0680846b8008ce995
 private: false
 -->
+
 
 こんにちは。今回は、githubについて初心者エンジニアに向けて、github actionsのsecretsの使い方についてご紹介します。
 
@@ -41,7 +42,7 @@ name: deploy
 
 on:
   push:
-    branches: 
+    branches:
       - master
 
 jobs:
@@ -50,7 +51,7 @@ jobs:
     steps:
       - name: checkout
         uses: actions/checkout@v2
-        
+
       # secretsの使い方（例）
       - name: setup python
         uses: actions/setup-python@v2

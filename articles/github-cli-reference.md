@@ -1,9 +1,10 @@
 <!--
-title: Github CLIリファレンス
-tags: Github,CLI,リファレンス
-id: 
+title:   Github CLIリファレンス
+tags:    GitHub,cli,リファレンス
+id:      b02d3b5301c2cac67452
 private: false
 -->
+
 
 ---
 
