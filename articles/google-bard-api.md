@@ -1,9 +1,10 @@
 <!--
-title:【基礎】Google BardをAPIで利用するには 
-tags: Google,Bard,API,使い方
-id: 
+title:   【基礎】Google BardをAPIで利用するには
+tags:    API,Bard,Google,使い方
+id:      a0e66cdc08c238ce7849
 private: false
 -->
+
 
 # google bard api 使い方
 
@@ -46,7 +47,7 @@ import json
 url = 'https://language.googleapis.com/v1/documents:analyzesentiment?key=your_api_key'
 headers = {'content-type': 'application/json'}
 document = {
-    'type': 'plain_text', 
+    'type': 'plain_text',
     'content': '今日は素晴らしい日です！'
 }
 data = {
