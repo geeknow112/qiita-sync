@@ -1,9 +1,10 @@
 <!--
-title:【比較】CHATGPT-3.5からCHATGPT-4はどう進化したのか？気になる料金は？
-tags: chatgpt,比較
-id: 
+title:   【比較】CHATGPT-3.5からCHATGPT-4はどう進化したのか？気になる料金は？
+tags:    ChatGPT,比較
+id:      d320b0cb5ab98954e0e5
 private: false
 -->
+
 
 ## はじめに
 こんにちは。今回は、CHATGPTについて初心者エンジニアに向けて、CHATGPT-3.5からCHATGPT-4に進化することによってどのような変化があったのか、そして気になる料金についても紹介します。
