@@ -1,9 +1,10 @@
 <!--
-title: Github Gistをエディタで使う方法 - コード共有・管理の手軽な方法
-tags: Github,Gist
-id: 
+title:   Github Gistをエディタで使う方法 - コード共有・管理の手軽な方法
+tags:    GitHub,gist
+id:      3c7bca95dcb5727086fa
 private: false
 -->
+
 
 ---
 
@@ -94,7 +95,7 @@ Gistはウェブブラウザ上での操作が前提ですが、エディタで�
     <title></title>
 </head>
 <body>
-    
+
 </body>
 </html>
 ```
