@@ -1,9 +1,10 @@
 <!--
-title: 【基礎】Google Search Consoleの使い方
-tags: google,google-search-console,使い方
-id: 
+title:   【基礎】Google Search Consoleの使い方
+tags:    Google,google-search-console,使い方
+id:      1ebf85de6f6f232f7f41
 private: false
 -->
+
 
 はじめに
 
