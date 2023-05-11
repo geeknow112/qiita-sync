@@ -1,9 +1,10 @@
 <!--
-title: 【初心者向け】wordpressテーマを爆速で作る方法
-tags: wordpress,thema,作り方
-id: 
+title:   【初心者向け】wordpressテーマを爆速で作る方法
+tags:    WordPress,thema,作り方
+id:      a403a07b6bda4225c1e3
 private: false
 -->
+
 
 ---
 
@@ -141,14 +142,14 @@ add_action( 'wp_enqueue_scripts', 'my_theme_scripts' );
 <main>
     <?php if ( have_posts() ) : ?>
         <h2><?php single_post_title(); ?></h2>
- 
+
         <?php while ( have_posts() ) : the_post(); ?>
             <article>
                 <h3><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h3>
                 <p><?php the_content(); ?></p>
             </article>
         <?php endwhile; ?>
- 
+
     <?php else : ?>
         <p>投稿がありません</p>
     <?php endif; ?>
