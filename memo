@@ -1,10 +1,10 @@
-wordpress-bitnami-table-definition.md
+wordpress-image-aws-s3.md
 
 ・下記の条件でタイトルと、ブログ記事を書いてください。
-「bitnami wordpress のmysqlテーブル定義の解説！sqlで直接編集する方法」
+【解説】wordpressの画像をAWS S3に置く方法
 
 ・キーワードを下記にしてください。
-wordpress,mysql,dump,bitnami
+wordpress,aws,s3
 
 ・対象者を下記にしてください。
 	Wordpressについて初心者エンジニア
@@ -13,32 +13,16 @@ wordpress,mysql,dump,bitnami
 
 
 
-## WordpressのDBテーブル定義
-|Tables_in_bitnami_wordpress|
-+-----------------------------+
-|wp_commentmeta|
-|wp_comments|
-|wp_links|
-|wp_options|
-|wp_postmeta|
-|wp_posts|
-|wp_term_relationships|
-|wp_term_taxonomy|
-|wp_termmeta|
-|wp_terms|
-|wp_usermeta|
-|wp_users|
-(※ここに文章を作成してください。)
-(※表形式で表示してください。)
-
-## Wordpressの記事データの格納先
-(※ここに文章を作成してください。)
-(※表形式で表示してください。)
-
-## Wordpressの記事データだけdumpで移行するには
+## AWS S3について
 (※ここに文章を作成してください。)
 
-## 注意点
+## Wordpressの画像データの格納先
+(※ここに文章を作成してください。)
+
+## Wordpressの画像データを移行するには
+(※ここに文章を作成してください。)
+
+## プラグインを使って移行する場合、おススメのプラグイン
 (※ここに文章を作成してください。)
 
 
