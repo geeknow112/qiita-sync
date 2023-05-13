@@ -1,10 +1,10 @@
-aws-workdocs-about.md
+aws-fsx-about.md
 
 ・下記の条件でタイトルと、ブログ記事を書いてください。
-【基礎】AWS Workdocsとは！？クラウドストレージの料金比較
+【基礎】AWS FSxとは！？クラウドストレージの料金比較
 
 ・キーワードを下記にしてください。
-aws,workdocs,料金,比較
+aws,fsx,料金,比較
 
 
 ・対象者を下記にしてください。
@@ -14,13 +14,13 @@ aws,workdocs,料金,比較
 
 
 
-## AWS workdocksとは？
+## AWS fsxとは？
 (※ここに文章を作成してください。)
 
-## AWS workdocsの類似サービス
+## AWS fsxとworkdocsの違い
 (※ここに文章を作成してください。)
 
-## AWS workdocsの類似サービスの料金・特徴の比較
+## AWS fsxの類似サービスの料金・特徴の比較
 (※ここに文章を作成してください。)
 (※比較を表形式で作成して下さい。)
 
