@@ -1,9 +1,10 @@
 <!--
-title: 【基礎】Wordpressの記事データだけ、dumpファイルで移行するには
-tags: wordpress,mysql,dump
-id: 
+title:   【基礎】Wordpressの記事データだけ、dumpファイルで移行するには
+tags:    MySQL,WordPress,dump
+id:      2d351b57836ffd4e7c81
 private: false
 -->
+
 
 こんにちは。今回は、Wordpressについて初心者エンジニアに向けて、Wordpressの記事データだけをdumpファイルで移行する方法について解説していきます。
 

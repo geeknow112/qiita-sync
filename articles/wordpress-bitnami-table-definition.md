@@ -1,9 +1,10 @@
 <!--
-title: 【初心者向け】bitnami wordpress のmysqlテーブル定義の解説！sqlで直接編集する方法
-tags: wordpress,mysql,dump,bitnami
-id: 
+title:   【初心者向け】bitnami wordpress のmysqlテーブル定義の解説！sqlで直接編集する方法
+tags:    BITNAMI,MySQL,WordPress,dump
+id:      dcd82c5d5382ae5aff0a
 private: false
 -->
+
 
 こんにちは。今回は、Wordpressについて初心者エンジニアに向けて、bitnami wordpressのmysqlテーブル定義の解説と、sqlで直接編集する方法について解説します。
 
@@ -60,4 +61,3 @@ WordPressのデータベースのテーブルを直接編集することは、�
 
 - [WordPressのテーブル定義について理解する - Qiita](https://qiita.com/daikiojm/items/3a9aa5e9b14c4c5a3ff1)
 - [WordPressのDBを直接操作する方法 - Qiita](https://qiita.com/tsuboko/items/2d2b9c4b8f54d1b2a50f)
-
