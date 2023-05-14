@@ -4,6 +4,9 @@ tags: aws,route53,手順
 id: 
 private: false
 -->
+
+![【基礎】aws route53でリダイレクトする方法](https://trident-capital-strage.s3.ap-northeast-1.amazonaws.com/wp-content/uploads/2022/04/25190151/graph-g9b1c0cb58_1280-1024x682.jpg)
+
 こんにちは。今回は、awsについて初心者エンジニアに向けて、aws route53でリダイレクトする方法について解説します。
 
 ## aws route53とは？
