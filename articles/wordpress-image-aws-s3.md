@@ -1,9 +1,10 @@
 <!--
-title: 【解説】wordpressの画像をAWS S3に置く方法
-tags: wordpress,aws,s3
-id: 
+title:   【解説】wordpressの画像をAWS S3に置く方法
+tags:    AWS,S3,WordPress
+id:      b4c6b0b6fcc509bcec90
 private: false
 -->
+
 
 こんにちは。今回は、wordpressについて初心者エンジニアに向けて、aws s3にwordpressの画像データを格納する方法について解説します。
 

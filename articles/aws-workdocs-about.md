@@ -1,9 +1,10 @@
 <!--
-title: 【基礎】AWS Workdocsとは！？クラウドストレージの料金比較
-tags: aws,workdocs,料金,比較
-id: 
+title:   【基礎】AWS Workdocsとは！？クラウドストレージの料金比較
+tags:    AWS,WorkDocs,料金,比較
+id:      2ffaab67d6f9d181e4f1
 private: false
 -->
+
 
 こんにちは。今回は、awsについて初心者エンジニアに向けて、aws workdocsについて解説します。
 
