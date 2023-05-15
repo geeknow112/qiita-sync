@@ -1,10 +1,10 @@
-aws-route53-url-redirect.md
+aws-lightsail-free-ssl.md
 
 ・下記の条件でタイトルと、ブログ記事を書いてください。
-【基礎】AWS Route53でリダイレクトする方法 
+【基礎】AWS lightsailで無料SSLを設定する方法
 
 ・キーワードを下記にしてください。
-aws,route53,手順
+aws,lightsail,無料,手順
 
 
 ・対象者を下記にしてください。
@@ -13,14 +13,13 @@ aws,route53,手順
 ・Qiita用のmarkdown表記してください。
 
 
-
-## AWS Route53とは？
+## AWS lightsail 無料SSLとは？
 (※ここに文章を作成してください。)
 
-## AWS Route53でリダイレクトする方法
+## AWS lightsailで無料SSLを使わない場合の選択肢
 (※ここに文章を作成してください。)
 
-## AWS Route53でリダイレクトする手順
+## AWS lightsailで無料SSLを設定する手順
 (※ここに文章を作成してください。)
 
 ## 注意点
