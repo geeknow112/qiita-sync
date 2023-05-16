@@ -61,7 +61,7 @@ print(response.choices[0].text)
 
 CHATGPT-4は、より高度な自然言語処理に対応し、文章生成の精度も向上しています。また、API利用に関してもそれなりの料金がかかる点には注意が必要ですが、個人利用であれば無料枠が設けられている場合もあるため、まずはAPIキーの取得と料金設定の確認をしてから、API利用を開始するようにしましょう。
 
-参考となるブログ記事のURLを2個以上掲載します。
+## 参考
 
 1. [OpenAIのLearning to Learnについて調べてみた](https://qiita.com/hayao_kahara/items/fec4ceb55164a31e539f)
 2. [OpenAIの新人エンジニアが「GPT-3」の転移学習に挑戦。解説してみよう！](https://pc.watch.impress.co.jp/docs/news/yajiuma/1264888.html)
