@@ -1,10 +1,10 @@
-aws-lightsail-free-ssl.md
+aws-msad-about.md
 
 ・下記の条件でタイトルと、ブログ記事を書いてください。
 【基礎】AWS lightsailで無料SSLを設定する方法
 
 ・キーワードを下記にしてください。
-aws,lightsail,無料,手順
+aws,msad,簡単,手順
 
 
 ・対象者を下記にしてください。
@@ -13,16 +13,16 @@ aws,lightsail,無料,手順
 ・Qiita用のmarkdown表記してください。
 
 
-## AWS lightsail 無料SSLとは？
+## AWS msad とは？
 (※ここに文章を作成してください。)
 
-## AWS lightsailで無料SSLを使わない場合の選択肢
+## AWS msadの料金は？
 (※ここに文章を作成してください。)
 
-## AWS lightsailで無料SSLを設定する手順
+## AWS msadとActiveDirectoryでできることの違い
 (※ここに文章を作成してください。)
 
-## 注意点
+## 使用上の注意点
 (※ここに文章を作成してください。)
 
 
