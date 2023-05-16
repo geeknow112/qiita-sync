@@ -35,7 +35,7 @@ aws msadを利用するためには、以下の点に注意する必要があり
 
 以上の点にご注意いただき、aws msadをご活用いただければ幸いです。
 
-## 参考となるブログ記事のurlを2個以上掲載してください。
+## 参考
 
 * [aws msad overview](https://aws.amazon.com/jp/directoryservice/ms_ad/)
 * [aws msadの性能とメリット・デメリットについて考える](https://aws-blog.jp/archives/8582)
