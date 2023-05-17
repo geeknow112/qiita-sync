@@ -1,9 +1,10 @@
 <!--
-title: 【簡単】google bardの始め方を解説！賢い使い方
-tags: google,bard,使い方
-id: 
+title:   【簡単】google bardの始め方を解説！賢い使い方
+tags:    Bard,Google,使い方
+id:      0fe0996e65a36c972da3
 private: false
 -->
+
 
 こんにちは。今回は、google bardについて初心者エンジニアに向けて、簡単な始め方を解説していきます。
 
@@ -76,4 +77,3 @@ google bardを一歩進んだ使い方としては、自分が開発したアプ
 ## 0円でプログラミングを学ぶという選択
 - [techacademyの無料体験](//af.moshimo.com/af/c/click?a_id=2612475&amp;p_id=1555&amp;pc_id=2816&amp;pl_id=22706&amp;url=https%3a%2f%2ftechacademy.jp%2fhtmlcss-trial%3futm_source%3dmoshimo%26utm_medium%3daffiliate%26utm_campaign%3dtextad)
 - [オンラインスクール dmm webcamp pro](//af.moshimo.com/af/c/click?a_id=2612482&amp;p_id=1363&amp;pc_id=2297&amp;pl_id=39999&amp;guid=on)
-
