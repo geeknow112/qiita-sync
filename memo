@@ -1,11 +1,11 @@
-google-bard-productivity-improvement.md
+google-bard-dx-example.md
 
 ・下記の条件でタイトルと、ブログ記事を書いてください。
-【起業家向け】Google Bardで実現する生産性の向上とコスト削減
+【起業家向け】企業のDXを加速するGoogle Bardの活用事例とメリット
 
 ・キーワードを下記にしてください。
-google,bard,ワークフロー,データ処理
- 
+google,bard,サーバーレス,イベント駆動
+
 ・対象者を下記にしてください。
         Google Bardについて初心者エンジニア
 
