@@ -1,9 +1,10 @@
 <!--
-title: 【起業家向け】google bardで実現する生産性の向上とコスト削減
-tags: google,bard,起業
-id: 
+title:   【起業家向け】google bardで実現する生産性の向上とコスト削減
+tags:    Bard,Google,起業
+id:      29f8bde418b7c846a4e7
 private: false
 -->
+
 
 # 【起業家向け】google bardで実現する生産性の向上とコスト削減
 
@@ -45,10 +46,9 @@ google bardを使うことで、コスト削減につながる方法もありま
 今回は、google bardを使うことで、起業家向けの生産性の向上とコスト削減についてお話しました。google bardを使うことで、業務の自動化やデータ処理の自動化を図ることができます。また、これにより、労働時間の削減やミスやエラーの防止につながります。是非、ビジネスのワークフローを自動化するために、google bardを活用してください。
 
 【参考文献】
-- [google apps scriptの入門コース](https://qiita.com/zaburo/items/8d7efb19ae590ed0fd0b) 
+- [google apps scriptの入門コース](https://qiita.com/zaburo/items/8d7efb19ae590ed0fd0b)
 - [【google apps scriptで】gmailから特定のフォルダに入ったメールだけ処理するコード](https://qiita.com/ryounagaoka/items/88009af49aad062d6f16)
 
 ## 0円でプログラミングを学ぶという選択
 - [techacademyの無料体験](//af.moshimo.com/af/c/click?a_id=2612475&amp;p_id=1555&amp;pc_id=2816&amp;pl_id=22706&amp;url=https%3a%2f%2ftechacademy.jp%2fhtmlcss-trial%3futm_source%3dmoshimo%26utm_medium%3daffiliate%26utm_campaign%3dtextad)
 - [オンラインスクール dmm webcamp pro](//af.moshimo.com/af/c/click?a_id=2612482&amp;p_id=1363&amp;pc_id=2297&amp;pl_id=39999&amp;guid=on)
-
