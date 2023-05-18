@@ -1,10 +1,10 @@
-google-bard-web-app.md
+google-bard-managed-strage.md
 
 ・下記の条件でタイトルと、ブログ記事を書いてください。
-【起業家向け】Google Bardを使ったスケーラブルWebアプリの構築
+【起業家向け】Google Bardで実現するセキュアなデータ処理とストレージの管理
 
 ・キーワードを下記にしてください。
-google,bard,マイクロサービス,コンテナ
+google,bard,暗号化,監査ログ
 
 ・対象者を下記にしてください。
         Google Bardについて初心者エンジニア
