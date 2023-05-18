@@ -1,10 +1,10 @@
-google-bard-dx-example.md
+google-bard-web-app.md
 
 ・下記の条件でタイトルと、ブログ記事を書いてください。
-【起業家向け】企業のDXを加速するGoogle Bardの活用事例とメリット
+【起業家向け】Google Bardを使ったスケーラブルWebアプリの構築
 
 ・キーワードを下記にしてください。
-google,bard,サーバーレス,イベント駆動
+google,bard,マイクロサービス,コンテナ
 
 ・対象者を下記にしてください。
         Google Bardについて初心者エンジニア
