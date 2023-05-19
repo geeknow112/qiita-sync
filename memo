@@ -1,10 +1,10 @@
-google-bard-rpa.md
+google-bard-global-app.md
 
 ・下記の条件でタイトルと、ブログ記事を書いてください。
-【起業家向け】Google Bardを活用して業務プロセスの自動化と簡素化を実現する
+【起業家向け】Google Bardで実現するグローバル展開に向けたアプリケーションのグローバル化
 
 ・キーワードを下記にしてください。
-google,bard,ワークフロー,RPA
+google,bard,グローバルロードバランシング,地理的負荷分散
 
 ・対象者を下記にしてください。
         Google Bardについて初心者エンジニア
