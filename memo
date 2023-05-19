@@ -1,10 +1,10 @@
-google-bard-auto-ml.md
+google-bard-rpa.md
 
 ・下記の条件でタイトルと、ブログ記事を書いてください。
-【起業家向け】Google Bardで実現する高速な機械学習のモデルトレーニングと推論
+【起業家向け】Google Bardを活用して業務プロセスの自動化と簡素化を実現する
 
 ・キーワードを下記にしてください。
-google,bard,カスタムトレーニングジョブ,AutoML
+google,bard,ワークフロー,RPA
 
 ・対象者を下記にしてください。
         Google Bardについて初心者エンジニア
