@@ -1,9 +1,10 @@
 <!--
-title: 【起業家向け】企業のdxを加速するgoogle bardの活用事例とメリット
-tags: google,bard,起業,dx
-id: 
+title:   【起業家向け】企業のdxを加速するgoogle bardの活用事例とメリット
+tags:    Bard,DX,Google,起業
+id:      98b0451b17e51f40dedc
 private: false
 -->
+
 
 # 【起業家向け】企業のdxを加速するgoogle bardの活用事例とメリット
 
@@ -52,4 +53,3 @@ google bardは、企業のdxを加速するために重要な役割を担って�
 ## 0円でプログラミングを学ぶという選択
 - [techacademyの無料体験](//af.moshimo.com/af/c/click?a_id=2612475&amp;p_id=1555&amp;pc_id=2816&amp;pl_id=22706&amp;url=https%3a%2f%2ftechacademy.jp%2fhtmlcss-trial%3futm_source%3dmoshimo%26utm_medium%3daffiliate%26utm_campaign%3dtextad)
 - [オンラインスクール dmm webcamp pro](//af.moshimo.com/af/c/click?a_id=2612482&amp;p_id=1363&amp;pc_id=2297&amp;pl_id=39999&amp;guid=on)
-
