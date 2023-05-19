@@ -1,9 +1,10 @@
 <!--
-title: 【起業家向け】google bardを活用して業務プロセスの自動化と簡素化を実現する
-tags: google,bard,起業
-id: 
+title:   【起業家向け】google bardを活用して業務プロセスの自動化と簡素化を実現する
+tags:    Bard,Google,起業
+id:      4f74c898f3ebd55f1aad
 private: false
 -->
+
 
 こんにちは。今回は、google bardについて初心者エンジニアに向けて、業務プロセスの自動化と簡素化について紹介します。
 
@@ -51,4 +52,3 @@ google bardを使うことで、業務プロセスを自動化し、簡素化す
 ## 0円でプログラミングを学ぶという選択
 - [techacademyの無料体験](//af.moshimo.com/af/c/click?a_id=2612475&amp;p_id=1555&amp;pc_id=2816&amp;pl_id=22706&amp;url=https%3a%2f%2ftechacademy.jp%2fhtmlcss-trial%3futm_source%3dmoshimo%26utm_medium%3daffiliate%26utm_campaign%3dtextad)
 - [オンラインスクール dmm webcamp pro](//af.moshimo.com/af/c/click?a_id=2612482&amp;p_id=1363&amp;pc_id=2297&amp;pl_id=39999&amp;guid=on)
-
