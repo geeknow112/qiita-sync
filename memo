@@ -1,10 +1,10 @@
-google-bard-managed-strage.md
+google-bard-firebase.md
 
 ・下記の条件でタイトルと、ブログ記事を書いてください。
-【起業家向け】Google Bardで実現するセキュアなデータ処理とストレージの管理
+【起業家向け】Google BardとFirebaseを連携して実現するリアルタイムアプリケーションの開発
 
 ・キーワードを下記にしてください。
-google,bard,暗号化,監査ログ
+google,bard,リアルタイムデータベース,プッシュ通知
 
 ・対象者を下記にしてください。
         Google Bardについて初心者エンジニア
