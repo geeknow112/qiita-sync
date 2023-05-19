@@ -1,9 +1,10 @@
 <!--
-title: 【起業家向け】google bardで実現する高速な機械学習のモデルトレーニングと推論
-tags: google,bard,起業
-id: 
+title:   【起業家向け】google bardで実現する高速な機械学習のモデルトレーニングと推論
+tags:    Bard,Google,起業
+id:      59578506da64b3f8785a
 private: false
 -->
+
 
 # 【起業家向け】google bardで実現する高速な機械学習のモデルトレーニングと推論
 
@@ -62,4 +63,3 @@ google bardは、初めてのエンジニアにも利用しやすいプラット
 ## 0円でプログラミングを学ぶという選択
 - [techacademyの無料体験](//af.moshimo.com/af/c/click?a_id=2612475&amp;p_id=1555&amp;pc_id=2816&amp;pl_id=22706&amp;url=https%3a%2f%2ftechacademy.jp%2fhtmlcss-trial%3futm_source%3dmoshimo%26utm_medium%3daffiliate%26utm_campaign%3dtextad)
 - [オンラインスクール dmm webcamp pro](//af.moshimo.com/af/c/click?a_id=2612482&amp;p_id=1363&amp;pc_id=2297&amp;pl_id=39999&amp;guid=on)
-
