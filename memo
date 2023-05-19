@@ -1,10 +1,10 @@
-google-bard-firebase.md
+google-bard-auto-ml.md
 
 ・下記の条件でタイトルと、ブログ記事を書いてください。
-【起業家向け】Google BardとFirebaseを連携して実現するリアルタイムアプリケーションの開発
+【起業家向け】Google Bardで実現する高速な機械学習のモデルトレーニングと推論
 
 ・キーワードを下記にしてください。
-google,bard,リアルタイムデータベース,プッシュ通知
+google,bard,カスタムトレーニングジョブ,AutoML
 
 ・対象者を下記にしてください。
         Google Bardについて初心者エンジニア
