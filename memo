@@ -1,13 +1,13 @@
-aws-workspaces-cli-wakeup.md
+aws-ec2-to-active-directory.md
 
 ・下記の条件でタイトルと、ブログ記事を書いてください。
-【簡単】AWSの作業をCLIで効率化する - Workspaces編
+【便利】AWS EC2を Active Directory として使う方法
 
 ・キーワードを下記にしてください。
-aws,workspaces,cli,起動,効率化
+aws,ec2,active-directory,便利
 
 ・対象者を下記にしてください。
-        AWSについて初心者エンジニア
+  AWSについて初心者エンジニア
 
 
 ・日本語で、必ず2,000文字以上で作ってください。
