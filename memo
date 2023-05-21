@@ -1,10 +1,11 @@
-aws-ec2-to-active-directory.md
+aws-ec2-public-dns-not-found.md
 
 ・下記の条件でタイトルと、ブログ記事を書いてください。
-【便利】AWS EC2を Active Directory として使う方法
+【解決】AWS EC2でパブリックDNS/IPが割り当てられない問題
 
 ・キーワードを下記にしてください。
 aws,ec2,active-directory,便利
+aws,ec2,dns,問題
 
 ・対象者を下記にしてください。
   AWSについて初心者エンジニア
