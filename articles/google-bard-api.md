@@ -70,3 +70,15 @@ print(sentiment)
 参考
 - [google cloud natural language apiを徹底解剖！ドキュメント解析で文書の感情を取得する](https://qiita.com/innovator-japan/items/a04f808e53fa7a51af30)
 - [【google cloud codelab】cloud natural language apiでテキストを解析する](https://www.scalajapan.com/blog/2018/09/10/google-cloud-codelab-cloud-natural-language-api/)
+
+## AIでスキルを強化
+bardやchatGPTを使ってて思うのは、まだ仕事が奪われる段階ではないってことです。
+むしろAIを使ってスキルを強化していけるという思いが強くなりました。
+今まで手間だった簡単なプログラミングはAIに任せて、
+より高度なものをやったり、ディレクションしたりが、人間の仕事になると思います。
+
+AIでいかに単純作業を効率化していけるかが技術力の分岐点になるので、
+今のうちに基礎固めにプログラミングスクールを使ってみるのもありだと思います。
+参考に載せておきます。
+https://hack-note.com/programming-schools/#toc13
+
