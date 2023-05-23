@@ -96,3 +96,14 @@ Pythonでは、jsonモジュールを使用することでJSONデータを扱う
 参考:
 - [PythonでJSONを扱う方法](https://techacademy.jp/magazine/34829)
 - [PythonでJSONを扱う方法](https://www.atmarkit.co.jp/ait/articles/1912/13/news024.html)
+
+## データサイエンティストスクール 無料部分あります
+PythonやRなどのプログラミングを学ぶなら、
+さらに統計分野を学習してデータサイエンティストを目指すのがおすすめ！
+
+ディープラーニングやビックデータ分析などの高額システム案件の受注にも有利になります。
+
+システム開発より、分析がやりたい方向けですが、下記載せておきます。
+
+https://hack-note.com/programming-schools/#toc17
+ 
