@@ -73,3 +73,16 @@ ChatGPTを使ったAIチャットボットの設計について、簡単に解�
 参考文献:
 - [https://pub.towardsai.net/how-to-build-a-dialogue-chatbot-using-deep-learning-b0e6e3bf5ca4](https://pub.towardsai.net/how-to-build-a-dialogue-chatbot-using-deep-learning-b0e6e3bf5ca4)
 - [https://huggingface.co/blog/how-to-generate](https://huggingface.co/blog/how-to-generate)
+
+## AIでスキルを強化
+bardやchatGPTを使ってて思うのは、まだ仕事が奪われる段階ではないってことです。
+むしろAIを使ってスキルを強化していけるという思いが強くなりました。
+今まで手間だった簡単なプログラミングはAIに任せて、
+より高度なものをやったり、ディレクションしたりが、人間の仕事になると思います。
+
+AIでいかに単純作業を効率化していけるかが技術力の分岐点になるので、
+今のうちに基礎固めにプログラミングスクールを使ってみるのもありだと思います。
+参考に載せておきます。
+
+https://hack-note.com/programming-schools/#toc13
+

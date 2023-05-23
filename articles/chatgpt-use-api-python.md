@@ -70,3 +70,16 @@ ChatGPT APIは、OpenAIが提供するサービスの1つです。APIを使用�
 
 - [OpenAI](https://openai.com/)
 - [ChatGPT API Documentation](https://beta.openai.com/docs/api-reference/completions/create)
+
+## AIでスキルを強化
+bardやchatGPTを使ってて思うのは、まだ仕事が奪われる段階ではないってことです。
+むしろAIを使ってスキルを強化していけるという思いが強くなりました。
+今まで手間だった簡単なプログラミングはAIに任せて、
+より高度なものをやったり、ディレクションしたりが、人間の仕事になると思います。
+
+AIでいかに単純作業を効率化していけるかが技術力の分岐点になるので、
+今のうちに基礎固めにプログラミングスクールを使ってみるのもありだと思います。
+参考に載せておきます。
+
+https://hack-note.com/programming-schools/#toc13
+

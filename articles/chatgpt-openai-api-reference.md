@@ -101,3 +101,16 @@ CHATGPT APIは、言語生成を中心に様々なタスクに利用できます
 2. [openai - PyPI](https://pypi.org/project/openai/)
 3. [OpenAI APIを使って自然言語を生成してみる - Qiita](https://qiita.com/kijima_m/items/29be326b9452ce78013c)
 4. [Pythonを用いたOpenAI GPT-3 APIの使い方 - Qiita](https://qiita.com/yoheikikuta/items/e240e331fcbe8bcc81be)
+
+## AIでスキルを強化
+bardやchatGPTを使ってて思うのは、まだ仕事が奪われる段階ではないってことです。
+むしろAIを使ってスキルを強化していけるという思いが強くなりました。
+今まで手間だった簡単なプログラミングはAIに任せて、
+より高度なものをやったり、ディレクションしたりが、人間の仕事になると思います。
+
+AIでいかに単純作業を効率化していけるかが技術力の分岐点になるので、
+今のうちに基礎固めにプログラミングスクールを使ってみるのもありだと思います。
+参考に載せておきます。
+
+https://hack-note.com/programming-schools/#toc13
+
