@@ -1,9 +1,10 @@
 <!--
-title: 【解決】aws fsxをセルフマネージドadで起動時にestablishエラー
-tags: aws,fsx,active-directory,問題
-id: 
+title:   【解決】aws fsxをセルフマネージドadで起動時にestablishエラー
+tags:    AWS,active-directory,fsx,問題
+id:      1ee7e028dc78b760907a
 private: false
 -->
+
 
 こんにちは。今回は、awsについて初心者エンジニアに向けて、aws fsxをセルフマネージドadで起動時にestablishエラーが発生してしまった場合の解決方法についてお話しします。
 
@@ -12,7 +13,7 @@ aws fsxは、windowsファイルサーバをクイックにデプロイできる
 エラーメッセージの内容は、以下の通りです。
 
 ```
-file system creation failed. 
+file system creation failed.
 amazon fsx is unable to establish a connection with your microsoft active directory domain controller(s).
 this is because the organizational unit you specified either doesn't exist or isn't accessible to the service account provided. to fix this problem, delete your file system and create a new one specifying an organizational unit
  to which the service account can join the file system
@@ -37,4 +38,3 @@ https://docs.aws.amazon.com/ja_jp/fsx/latest/windowsguide/self-manage-prereqs.ht
 ## 0円でプログラミングを学ぶという選択
 - [techacademyの無料体験](//af.moshimo.com/af/c/click?a_id=2612475&amp;p_id=1555&amp;pc_id=2816&amp;pl_id=22706&amp;url=https%3a%2f%2ftechacademy.jp%2fhtmlcss-trial%3futm_source%3dmoshimo%26utm_medium%3daffiliate%26utm_campaign%3dtextad)
 - [オンラインスクール dmm webcamp pro](//af.moshimo.com/af/c/click?a_id=2612482&amp;p_id=1363&amp;pc_id=2297&amp;pl_id=39999&amp;guid=on)
-

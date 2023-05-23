@@ -1,9 +1,10 @@
 <!--
-title: 【手順】backlogで問題が発生した場合の対処方法
-tags: backlog,問題
-id: 
+title:   【手順】backlogで問題が発生した場合の対処方法
+tags:    Backlog,問題
+id:      d35e351404d7aa3ab15e
 private: false
 -->
+
 
 こんにちは。今回は、backlogについて初心者エンジニアに向けて、問題が発生した場合の解決手順について紹介します。
 
@@ -40,4 +41,3 @@ https://www.vector.co.jp/ast/blog/office-software/20160105.html
 ## 0円でプログラミングを学ぶという選択
 - [techacademyの無料体験](//af.moshimo.com/af/c/click?a_id=2612475&amp;p_id=1555&amp;pc_id=2816&amp;pl_id=22706&amp;url=https%3a%2f%2ftechacademy.jp%2fhtmlcss-trial%3futm_source%3dmoshimo%26utm_medium%3daffiliate%26utm_campaign%3dtextad)
 - [オンラインスクール dmm webcamp pro](//af.moshimo.com/af/c/click?a_id=2612482&amp;p_id=1363&amp;pc_id=2297&amp;pl_id=39999&amp;guid=on)
-

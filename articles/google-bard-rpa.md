@@ -1,9 +1,10 @@
 <!--
-title: 【起業家向け】google bardを活用して業務プロセスの自動化と簡素化を実現する
-tags: google,bard,起業
-id: 
+title:   【起業家向け】google bardを活用して業務プロセスの自動化と簡素化を実現する
+tags:    Bard,Google,起業
+id:      4f74c898f3ebd55f1aad
 private: false
 -->
+
 
 こんにちは。今回は、google bardについて初心者エンジニアに向けて、業務プロセスの自動化と簡素化について紹介します。
 
@@ -63,4 +64,3 @@ AIでいかに単純作業を効率化していけるかが技術力の分岐点
 参考に載せておきます。
 
 https://hack-note.com/programming-schools/#toc13
-
