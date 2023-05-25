@@ -1,9 +1,10 @@
 <!--
-title: 【手順】google bardを始める手順を簡単にまとめました！
-tags: google,bard,簡単,手順
-id: 
+title:   【手順】google bardを始める手順を簡単にまとめました！
+tags:    Bard,Google,手順,簡単
+id:      9df7243a77672fea1bcf
 private: false
 -->
+
 
 こんにちは。今回は、google bardについて初心者エンジニアに向けて、簡単な手順をまとめました！
 
@@ -95,4 +96,3 @@ AIでいかに単純作業を効率化していけるかが技術力の分岐点
 参考に載せておきます。
 
 https://hack-note.com/programming-schools/#toc13
-
