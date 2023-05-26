@@ -9,7 +9,7 @@ private: false
 
 awsとは、amazon web servicesの略称で、クラウドコンピューティングサービスを提供しています。aws quicksightとは、awsが提供するbiツールで、データ分析に必要な様々な機能を備えたツールです。この記事では、aws quicksightの使い方について、具体的な手順を紹介します。
 
-【aws quicksightの使い方】
+## 【aws quicksightの使い方】
 
 aws quicksightは、aws management consoleから利用することができます。aws management consoleにログインし、quicksightを選択します。
 
@@ -59,7 +59,7 @@ aws quicksightでは、ユーザーを管理することができます。ユー
 
 以上の手順で、ユーザーを管理することができます。
 
-【おすすめの使い方】
+## 【おすすめの使い方】
 
 aws quicksightは、様々な使い方があります。ここでは、おすすめの使い方を紹介します。
 
@@ -75,11 +75,11 @@ aws quicksightは、定期的にダッシュボードを更新することがで
 
 aws quicksightには、スマホアプリがあります。スマホアプリを利用すると、いつでもどこでも、ダッシュボードを観覧することが可能です。また、qrコードやurlを共有することで、ダッシュボードを簡単に共有することができます。
 
-【まとめ】
+## 【まとめ】
 
 aws quicksightは、簡単にデータを分析できる優れたツールです。データの可視化と自動化において、効果的に利用することができます。また、スマホアプリでの観覧が可能であるため、ビジネスシーンにおいても、利用頻度が高いツールの一つです。awsを使っている方は、ぜひaws quicksightの活用を検討してみてください。
 
-参考ブログ：
+## 参考ブログ：
 
 1.【入門】aws quicksightを使い始めるための基礎知識を解説 - https://dev.classmethod.jp/articles/quicksight-beginners-tutorial/
 
