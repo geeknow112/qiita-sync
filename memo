@@ -1,10 +1,10 @@
-aws-quicksight-about.md
+aws-quicksight-how-to-use.md
 
 ・下記の条件でタイトルと、ブログ記事を書いてください。
-【比較】AWS QuickSightとGoogle analyticsとの違い！相乗効果で分析力アップ
+【基礎】AWS QuickSightによる簡単BI分析！おススメ使い方
 
 ・キーワードを下記にしてください。
-AWs,quicksight,google,analytics,比較
+AWs,quicksight,使い方
 
 ・対象者を下記にしてください。
   AWSについて初心者エンジニア
