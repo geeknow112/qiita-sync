@@ -1,9 +1,10 @@
 <!--
-title: 【基礎】flutterのサンプルコードまとめ
-tags: flutter,サンプルコード
-id: 
+title:   【基礎】flutterのサンプルコードまとめ
+tags:    Flutter,サンプルコード
+id:      348d04853f945ef4f369
 private: false
 -->
+
 
 こんにちは。今回は、flutterについて初心者エンジニアに向けて、flutterのサンプルコードまとめについて紹介したいと思います。flutterは、googleが開発したモバイルアプリ開発フレームワークであり、開発者に多くの便利な機能を提供しています。flutterを学ぶためには、サンプルコードを実際に試してみることが大切です。そこで、今回はflutterのサンプルコードをまとめて紹介します。
 
@@ -349,4 +350,3 @@ flutterのサンプルコードについて紹介しました。flutterを学ぶ
 ## 0円でプログラミングを学ぶという選択
 - [techacademyの無料体験](//af.moshimo.com/af/c/click?a_id=2612475&amp;p_id=1555&amp;pc_id=2816&amp;pl_id=22706&amp;url=https%3a%2f%2ftechacademy.jp%2fhtmlcss-trial%3futm_source%3dmoshimo%26utm_medium%3daffiliate%26utm_campaign%3dtextad)
 - [オンラインスクール dmm webcamp pro](//af.moshimo.com/af/c/click?a_id=2612482&amp;p_id=1363&amp;pc_id=2297&amp;pl_id=39999&amp;guid=on)
-
