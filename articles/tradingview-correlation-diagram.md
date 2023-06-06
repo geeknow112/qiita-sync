@@ -1,9 +1,10 @@
 <!--
-title: 【解説】tradingviewで相関図を表示する時のpineコード
-tags: “tradingview,pine,投資”
-id: 
+title:   【解説】tradingviewで相関図を表示する時のpineコード
+tags:    pine,“tradingview,投資”
+id:      5bbb26e64859d5869c2f
 private: false
 -->
+
 
 こんにちは。今回は、tradingviewについて初心者エンジニアに向けて、相関図を表示するためのpineコードについて解説します。
 
@@ -69,7 +70,7 @@ s2 = security(src2, timeframe.period, close)
 s3 = security(src3, timeframe.period, close)
 s4 = security(src4, timeframe.period, close)
 ```
-「security関数」は、別のシンボル（銘柄）のデータを取得するための関数です。ここで使用しているcloseは、その銘柄の終値を示します。 
+「security関数」は、別のシンボル（銘柄）のデータを取得するための関数です。ここで使用しているcloseは、その銘柄の終値を示します。
 
 ```
 pair1 = correlation(s1, s2, 252, 1)
@@ -112,4 +113,3 @@ hline(0)
 ## 0円でプログラミングを学ぶという選択
 - [techacademyの無料体験](//af.moshimo.com/af/c/click?a_id=2612475&amp;p_id=1555&amp;pc_id=2816&amp;pl_id=22706&amp;url=https%3a%2f%2ftechacademy.jp%2fhtmlcss-trial%3futm_source%3dmoshimo%26utm_medium%3daffiliate%26utm_campaign%3dtextad)
 - [オンラインスクール dmm webcamp pro](//af.moshimo.com/af/c/click?a_id=2612482&amp;p_id=1363&amp;pc_id=2297&amp;pl_id=39999&amp;guid=on)
-
