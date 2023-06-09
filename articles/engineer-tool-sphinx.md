@@ -1,9 +1,10 @@
 <!--
-title: ドキュメント生成ツールSphinxを使って技術文書を作成する方法
-tags: ドキュメント生成ツール,Sphinx,技術文書,Python
-id: 
+title:   ドキュメント生成ツールSphinxを使って技術文書を作成する方法
+tags:    Python,Sphinx,ドキュメント生成ツール,技術文書
+id:      ee9a4c58e2c1f2eb8e40
 private: false
 -->
+
 
 こんにちは。本記事では、ドキュメント生成ツールのSphinxを使って、技術文書を作成する方法について解説します。Sphinxは、Pythonのドキュメンテーションツールとして開発されたもので、多言語対応やドキュメントの自動生成など、様々な機能を持っています。
 
@@ -32,10 +33,10 @@ Please enter values for the following settings (just press Enter to
 accept a default value, if one is given in brackets).
 
 Enter the root path for documentation.
-> Root path for the documentation [.]: 
+> Root path for the documentation [.]:
 
 Enter a name for the project.
-> Project name: 
+> Project name:
 
 ...
 
