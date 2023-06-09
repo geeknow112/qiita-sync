@@ -1,6 +1,6 @@
 <!--
 title: 【比較】フリーランスエンジニア向けwordpress案件まとめ６選
-topics: フリーランスエンジニア,wordpress,案件,まとめ
+tags: フリーランスエンジニア,wordpress,案件,まとめ
 id: 
 private: false
 -->
