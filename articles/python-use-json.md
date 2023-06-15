@@ -4,8 +4,6 @@ tags:    JSON,Python,使い方
 id:      80fed6448c7a8bfed9da
 private: false
 -->
-
-
 こんにちは。今回は、PythonでJSONを使う方法について説明します。
 
 はじめに
@@ -33,9 +31,9 @@ print(json_string)
 上記のプログラムでは、dataという辞書オブジェクトをJSON文字列に変換しています。json.dumps()メソッドはオブジェクトをJSON文字列に変換し、変換された文字列を返します。
 
 実行結果：
-```
+`
 {"name": "John", "age": 30, "city": "New York"}
-```
+`
 
 JSONのデコード
 JSONデータをPythonのオブジェクトに変換するには、json.loads()メソッドを使用します。以下のように使用します。
@@ -53,9 +51,9 @@ print(data)
 上記のプログラムでは、json_stringというJSON文字列を辞書オブジェクトに変換しています。json.loads()メソッドはJSON形式の文字列をPython形式のオブジェクトに変換します。変換されたデータは変数dataに代入されます。
 
 実行結果：
-```
+`
 {'name': 'John', 'age': 30, 'city': 'New York'}
-```
+`
 
 データの書き込みと読み込み
 Pythonでは、JSON形式のデータをファイルに書き込むことができます。書き込みには、json.dump()メソッドを使用し、読み込みには、json.load()メソッドを使用します。
@@ -106,4 +104,3 @@ PythonやRなどのプログラミングを学ぶなら、
 システム開発より、分析がやりたい方向けですが、下記載せておきます。
 
 https://hack-note.com/programming-schools/#toc17
- 
