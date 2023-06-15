@@ -4,8 +4,6 @@ tags:    Bard,Google,使い方
 id:      0fe0996e65a36c972da3
 private: false
 -->
-
-
 こんにちは。今回は、google bardについて初心者エンジニアに向けて、簡単な始め方を解説していきます。
 
 ## google bard を使うための最初の準備
@@ -50,19 +48,19 @@ print(message)
 google bardは、様々なプロンプトを使用することができます。以下に、オススメのプロンプトをいくつか紹介します。
 
 ・「once upon a time」で始まるストーリーを生成する
-```
+`
 prompt = (f"once upon a time")
-```
+`
 
 ・科学的な文章を生成する
-```
+`
 prompt = (f"the laws of thermodynamics state")
-```
+`
 
 ・会話を生成する
-```
+`
 prompt = (f"person 1: hello, how are you? \nperson 2: ")
-```
+`
 
 ## google bard 一歩進んだ使い方の提案
 google bardを一歩進んだ使い方としては、自分が開発したアプリケーションに統合することが挙げられます。bardはapiとして提供されており、多くのプログラミング言語に対応しています。apiを使うことで、自分が開発したアプリケーションに文生成の機能を追加することができます。
@@ -89,4 +87,3 @@ AIでいかに単純作業を効率化していけるかが技術力の分岐点
 参考に載せておきます。
 
 https://hack-note.com/programming-schools/#toc13
-
