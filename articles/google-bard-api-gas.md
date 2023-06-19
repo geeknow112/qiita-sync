@@ -1,9 +1,10 @@
 <!--
-title: 【google】bard apiとgasを使ったseoに強い文章作成自動化の手法
-tags: google,bard,api,gas
-id: 
+title:   【google】bard apiとgasを使ったseoに強い文章作成自動化の手法
+tags:    API,Bard,GAS,Google
+id:      9847ad708df681dc8163
 private: false
 -->
+
 
 こんにちは。今回は、google bardについて初心者エンジニアに向けて、bard apiとgasを使ったseoに強い文章作成自動化の手法について紹介します。
 
@@ -125,4 +126,3 @@ https://hack-note.com/programming-schools/
 ## 0円でプログラミングを学ぶという選択
 - [techacademyの無料体験](//af.moshimo.com/af/c/click?a_id=2612475&amp;p_id=1555&amp;pc_id=2816&amp;pl_id=22706&amp;url=https%3a%2f%2ftechacademy.jp%2fhtmlcss-trial%3futm_source%3dmoshimo%26utm_medium%3daffiliate%26utm_campaign%3dtextad)
 - [オンラインスクール dmm webcamp pro](//af.moshimo.com/af/c/click?a_id=2612482&amp;p_id=1363&amp;pc_id=2297&amp;pl_id=39999&amp;guid=on)
-
