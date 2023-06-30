@@ -1,9 +1,10 @@
 <!--
-title: 【aws】 route53のメリットとは？ユーザーにとっての利点を紹介
-tags: aws,route53
-id: 
+title:   【aws】 route53のメリットとは？ユーザーにとっての利点を紹介
+tags:    AWS,route53
+id:      b493df759fdb7a01e267
 private: false
 -->
+
 
 ## aws route53のメリットとは？ユーザーにとっての利点を紹介
 
@@ -77,23 +78,22 @@ route 53では、ドメイン名の登録と管理も行うことができます
 
 まとめると、route 53は高速性と信頼性、スケーラビリティ、セキュリティ性、機能拡張性、コストパフォーマンスなどのメリットを持つ強力なサービスです。初心者エンジニアの方は、route 53を使うことで、自社のウェブサイトやアプリケーションのパフォーマンスを向上させることができるでしょう。
 
-参考: 
+参考:
 - [【初心者向け】amazon route 53とは？独自ドメインの設定方法と注意点](https://tech-lab.sios.jp/archives/22149)
 - [aws以外のコンテンツをamazon route 53でホストする方法とは](https://techblog.nhn-techorus.com/archives/9009)
 
-　
+
 
 ## AWS Route53関連のまとめ
 https://hack-note.com/summary/aws-route53-summary/
 
-　
+
 
 ## オンラインスクールを講師として活用する！
 https://hack-note.com/programming-schools/
 
-　
+
 
 ## 0円でプログラミングを学ぶという選択
 - [techacademyの無料体験](//af.moshimo.com/af/c/click?a_id=2612475&amp;p_id=1555&amp;pc_id=2816&amp;pl_id=22706&amp;url=https%3a%2f%2ftechacademy.jp%2fhtmlcss-trial%3futm_source%3dmoshimo%26utm_medium%3daffiliate%26utm_campaign%3dtextad)
 - [オンラインスクール dmm webcamp pro](//af.moshimo.com/af/c/click?a_id=2612482&amp;p_id=1363&amp;pc_id=2297&amp;pl_id=39999&amp;guid=on)
-

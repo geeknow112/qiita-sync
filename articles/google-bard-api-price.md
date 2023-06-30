@@ -1,9 +1,10 @@
 <!--
-title: 【google】bard apiの料金について
-tags: google,bard,api,price
-id: 
+title:   【google】bard apiの料金について
+tags:    API,Bard,Google,Price
+id:      53b33f47dcff5fa6c459
 private: false
 -->
+
 
 こんにちは。今回は、google bardについて初心者エンジニアに向けて、bard apiの料金について解説します。bard apiは、音声翻訳を行うためのapiで、音声をテキストに変換することができます。今回は、bard apiの料金について詳しく解説していきます。
 
@@ -40,19 +41,18 @@ bard apiを活用することで、音声をテキストに変換することが
 - [bard apiの料金について - google cloud platform](https://cloud.google.com/speech-to-text/pricing?hl=ja)
 - [google cloud platformの課金方法について - google cloud platform](https://cloud.google.com/billing/docs/how-to/payment-methods?hl=ja)
 
-　
+
 
 ## Google Bard 関連まとめ
 https://hack-note.com/summary/google-bard-summary/
 
-　
+
 
 ## オンラインスクールを講師として活用する！
 https://hack-note.com/programming-schools/
 
-　
+
 
 ## 0円でプログラミングを学ぶという選択
 - [techacademyの無料体験](//af.moshimo.com/af/c/click?a_id=2612475&amp;p_id=1555&amp;pc_id=2816&amp;pl_id=22706&amp;url=https%3a%2f%2ftechacademy.jp%2fhtmlcss-trial%3futm_source%3dmoshimo%26utm_medium%3daffiliate%26utm_campaign%3dtextad)
 - [オンラインスクール dmm webcamp pro](//af.moshimo.com/af/c/click?a_id=2612482&amp;p_id=1363&amp;pc_id=2297&amp;pl_id=39999&amp;guid=on)
-

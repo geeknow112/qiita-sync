@@ -1,9 +1,10 @@
 <!--
-title: 【aws】route53とは何か？使い方や機能を解説
-tags: aws,route53
-id: 
+title:   【aws】route53とは何か？使い方や機能を解説
+tags:    AWS,route53
+id:      485b382fcc0c03937ca4
 private: false
 -->
+
 
 ## aws route53とは？主な機能
 
@@ -119,19 +120,18 @@ aws route53では、アクセスログを取得して分析することができ
 - [aws公式ドキュメント - amazon route 53](https://docs.aws.amazon.com/ja_jp/route53/latest/developerguide/welcome.html)
 - [awsome cloud dns - route53を徹底理解する](https://qiita.com/katzueno/items/cc807402cf917910f6b5)
 
-　
+
 
 ## AWS Route53関連のまとめ
 https://hack-note.com/summary/aws-route53-summary/
 
-　
+
 
 ## オンラインスクールを講師として活用する！
 https://hack-note.com/programming-schools/
 
-　
+
 
 ## 0円でプログラミングを学ぶという選択
 - [techacademyの無料体験](//af.moshimo.com/af/c/click?a_id=2612475&amp;p_id=1555&amp;pc_id=2816&amp;pl_id=22706&amp;url=https%3a%2f%2ftechacademy.jp%2fhtmlcss-trial%3futm_source%3dmoshimo%26utm_medium%3daffiliate%26utm_campaign%3dtextad)
 - [オンラインスクール dmm webcamp pro](//af.moshimo.com/af/c/click?a_id=2612482&amp;p_id=1363&amp;pc_id=2297&amp;pl_id=39999&amp;guid=on)
-
