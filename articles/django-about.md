@@ -1,9 +1,10 @@
 <!--
-title: 【django】pythonでwebアプリケーションを開発するためのフレームワーク
-tags: python,django
-id: 
+title:   【django】pythonでwebアプリケーションを開発するためのフレームワーク
+tags:    Django,Python
+id:      4e54d28fad7dc49e146d
 private: false
 -->
+
 
 ## djangoとは？
 
@@ -35,9 +36,9 @@ djangoは、mtv（model-template-view）アーキテクチャを採用してい�
 
 このようなmvcアーキテクチャにより、アプリケーションの各要素が分離され、保守性や再利用性が向上します。また、開発者はそれぞれの役割に特化したコーディングを行うことができ、開発の効率化が図られます。
 
-参考: 
-- [djangoとは？基礎からわかりやすく解説！](https://itnavi.com/development/web-solution/django) 
-- [djangoの基本的な使い方](https://qiita.com/akabei/items/3384e4f93f890cbbb349) 
+参考:
+- [djangoとは？基礎からわかりやすく解説！](https://itnavi.com/development/web-solution/django)
+- [djangoの基本的な使い方](https://qiita.com/akabei/items/3384e4f93f890cbbb349)
 
 ## djangoでのデータベース操作方法
 
@@ -51,7 +52,7 @@ djangoでは、データベースの操作をオブジェクト指向のイン�
 
 4. トランザクションの管理: djangoでは、データベース操作をトランザクションの単位で行うことができます。トランザクションは、複数のデータベース操作をまとめて処理する際に使用され、全体が成功するか失敗するかのいずれかとして処理されます。
 
-参考: 
+参考:
 - [django orm 操作まとめ](https://qiita.com/ryosukepbl2016/items/e2841a92748093670722)
 - [djangoのデータベース操作](http://python.zombie-hunting-club.com/entry/2017/08/20/190732)
 
@@ -89,19 +90,18 @@ djangoは、セキュリティに対して高いレベルの保護機能を提�
 - [djangoでセキュアなwebアプリを開発するための10の基本設定](https://qiita.com/okoppe8/items/3d51442c358aeb7541d8)
 - [djangoエンジニアのためのセキュリティガイドライン](https://qiita.com/podhmo/items/ff3908c955deb5d07ea6)
 
-　
+
 
 ## Django 関連のまとめ
 https://hack-note.com/summary/django-summary/
 
-　
+
 
 ## オンラインスクールを講師として活用する！
 https://hack-note.com/programming-schools/
 
-　
+
 
 ## 0円でプログラミングを学ぶという選択
 - [techacademyの無料体験](//af.moshimo.com/af/c/click?a_id=2612475&amp;p_id=1555&amp;pc_id=2816&amp;pl_id=22706&amp;url=https%3a%2f%2ftechacademy.jp%2fhtmlcss-trial%3futm_source%3dmoshimo%26utm_medium%3daffiliate%26utm_campaign%3dtextad)
 - [オンラインスクール dmm webcamp pro](//af.moshimo.com/af/c/click?a_id=2612482&amp;p_id=1363&amp;pc_id=2297&amp;pl_id=39999&amp;guid=on)
-
