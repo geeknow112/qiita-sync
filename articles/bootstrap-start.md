@@ -1,9 +1,10 @@
 <!--
-title: 【bootstrap】webデザイン初心者でも簡単に始められる方法
-tags: bootstrap,webデザイン
-id: 
+title:   【bootstrap】webデザイン初心者でも簡単に始められる方法
+tags:    Bootstrap,Webデザイン
+id:      e9ff3ef6c32b011ca2c0
 private: false
 -->
+
 
 ## bootstrapとは？
 
@@ -109,20 +110,19 @@ bootstrapは、webデザイン初心者でも簡単に使えるフレームワ�
 
 この記事で紹介したブログ記事や公式ドキュメントを参考にしながら、実際に試してみてください。少しずつ慣れていくと、より素晴らしいwebデザインを実現することができるでしょう。
 
-　
+
 
 ## Bootstrap 関連のまとめ
 https://hack-note.com/summary/bootstrap-summary/
 
-　
+
 
 ## オンラインスクールを講師として活用する！
 https://hack-note.com/programming-schools/
 
-　
+
 
 ## 0円でプログラミングを学ぶという選択
 - [techacademyの無料体験](//af.moshimo.com/af/c/click?a_id=2612475&amp;p_id=1555&amp;pc_id=2816&amp;pl_id=22706&amp;url=https%3a%2f%2ftechacademy.jp%2fhtmlcss-trial%3futm_source%3dmoshimo%26utm_medium%3daffiliate%26utm_campaign%3dtextad)
 - [オンラインスクール dmm webcamp pro](//af.moshimo.com/af/c/click?a_id=2612482&amp;p_id=1363&amp;pc_id=2297&amp;pl_id=39999&amp;guid=on)
-
 
