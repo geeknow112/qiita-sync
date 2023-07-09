@@ -1,7 +1,7 @@
 <!--
 title:   【bootstrap】コンポーネントを活用して効率的なwebデザインを実現しよう
 tags:    Bootstrap,Webデザイン
-id:      80631a9ef137ae54dd96
+id:      
 private: false
 -->
 
