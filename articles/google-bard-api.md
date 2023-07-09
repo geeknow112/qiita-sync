@@ -4,8 +4,6 @@ tags:    API,Bard,Google,使い方
 id:      a0e66cdc08c238ce7849
 private: false
 -->
-
-
 # google bard api 使い方
 
 ## はじめに
@@ -18,9 +16,9 @@ google bardは、googleが提供する自然語生成（nlg）プラットフォ
 google bard apiを利用するには、google cloud platformのアカウントが必要です。アカウントを作成することで、google bard apiのキーを取得することができます。キーはダッシュボードから生成されます。キーを取得したら、apiリクエストを送信する準備が整います。
 
 apiリクエストは、下記のapiエンドポイントに送信することができます。
-```
+`
 https://language.googleapis.com/v1/documents:analyzesentiment?key=your_api_key
-```
+`
 
 上記のエンドポイントは、google cloud natural languageを利用したセンチメント分析を実行する場合のものです。他にも、要約、分類、エンティティ検出、構文分析など、様々な自然語タスクを実行するエンドポイントが提供されています。
 
@@ -82,4 +80,3 @@ AIでいかに単純作業を効率化していけるかが技術力の分岐点
 参考に載せておきます。
 
 https://hack-note.com/programming-schools/#toc13
-

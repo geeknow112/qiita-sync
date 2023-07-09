@@ -1,9 +1,10 @@
 <!--
-title: 【twitter】api自動投稿 github actionsがおススメ
-tags: twitter,api,github-actions
-id: 
+title:   【twitter】api自動投稿 github actionsがおススメ
+tags:    API,GitHub-Actions,Twitter
+id:      dbe4872f44ff08587c8b
 private: false
 -->
+
 
 こんにちは。今回は、twitterについて初心者エンジニアに向けて、twitterのapiを使った自動投稿の方法について説明します。
 twitterは、世界中で使われているsnsの一つであり、多くの人々が日々使っています。しかし、自分で毎日投稿するのは大変ですよね。そこでTwitter API + github actionsを使って自動投稿する方法を紹介しますので、是非参考にしてください。
@@ -70,4 +71,3 @@ https://hack-note.com/tools/twitter-summary/
 ## 0円でプログラミングを学ぶという選択
 - [techacademyの無料体験](//af.moshimo.com/af/c/click?a_id=2612475&amp;p_id=1555&amp;pc_id=2816&amp;pl_id=22706&amp;url=https%3a%2f%2ftechacademy.jp%2fhtmlcss-trial%3futm_source%3dmoshimo%26utm_medium%3daffiliate%26utm_campaign%3dtextad)
 - [オンラインスクール dmm webcamp pro](//af.moshimo.com/af/c/click?a_id=2612482&amp;p_id=1363&amp;pc_id=2297&amp;pl_id=39999&amp;guid=on)
-

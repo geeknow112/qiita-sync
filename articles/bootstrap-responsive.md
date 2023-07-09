@@ -1,9 +1,10 @@
 <!--
-title: 【bootstrap】美しいレスポンシブデザインを実現する5つの基本テクニック
-tags: bootstrap,webデザイン
-id: 
+title:   【bootstrap】美しいレスポンシブデザインを実現する5つの基本テクニック
+tags:    Bootstrap,Webデザイン
+id:      476b6e5667f7820252db
 private: false
 -->
+
 
 ## レスポンシブデザインの基本とは？
 
@@ -67,19 +68,18 @@ bootstrapをカスタマイズする際のポイントは、スタイルシー�
 
 以上が、bootstrapについて初心者エンジニアに向けて、美しいレスポンシブデザインを実現する5つの基本テクニックです。これらをマスターすることで、より魅力的で使いやすいウェブサイトを作ることができるでしょう。是非、実際に手を動かして試してみてください。
 
-　
+
 
 ## Bootstrap 関連のまとめ
 https://hack-note.com/summary/bootstrap-summary/
 
-　
+
 
 ## オンラインスクールを講師として活用する！
 https://hack-note.com/programming-schools/
 
-　
+
 
 ## 0円でプログラミングを学ぶという選択
 - [techacademyの無料体験](//af.moshimo.com/af/c/click?a_id=2612475&amp;p_id=1555&amp;pc_id=2816&amp;pl_id=22706&amp;url=https%3a%2f%2ftechacademy.jp%2fhtmlcss-trial%3futm_source%3dmoshimo%26utm_medium%3daffiliate%26utm_campaign%3dtextad)
 - [オンラインスクール dmm webcamp pro](//af.moshimo.com/af/c/click?a_id=2612482&amp;p_id=1363&amp;pc_id=2297&amp;pl_id=39999&amp;guid=on)
-
