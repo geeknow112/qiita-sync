@@ -1,6 +1,9 @@
-【bootstrap】コンポーネントを活用して効率的なwebデザインを実現しよう
-bootstrap,webデザイン
-bootstrap-component
+<!--
+title: 【bootstrap】コンポーネントを活用して効率的なwebデザインを実現しよう
+tags: bootstrap,webデザイン
+id: 
+private: false
+-->
 
 ## bootstrapのコンポーネントとは？基本的な使い方とメリット
 
