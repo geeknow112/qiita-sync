@@ -1,9 +1,10 @@
 <!--
-title: 【chatgpt】プロンプトを練っていい応答をもらう方法
-tags: “chatgpt,プロンプト,いい文章”
-id: 
+title:   【chatgpt】プロンプトを練っていい応答をもらう方法
+tags:    “chatgpt,いい文章”,プロンプト
+id:      8f25aa2016a636b3c60f
 private: false
 -->
+
 
 こんにちは。今回は、chatgptについて初心者エンジニアに向けて、プロンプトを練っていい応答をもらう方法についてお伝えします。
 
@@ -42,4 +43,3 @@ chatgptの応用に関する記事として以下2つを推薦します。smartn
 ## 0円でプログラミングを学ぶという選択
 - [techacademyの無料体験](//af.moshimo.com/af/c/click?a_id=2612475&amp;p_id=1555&amp;pc_id=2816&amp;pl_id=22706&amp;url=https%3a%2f%2ftechacademy.jp%2fhtmlcss-trial%3futm_source%3dmoshimo%26utm_medium%3daffiliate%26utm_campaign%3dtextad)
 - [オンラインスクール dmm webcamp pro](//af.moshimo.com/af/c/click?a_id=2612482&amp;p_id=1363&amp;pc_id=2297&amp;pl_id=39999&amp;guid=on)
-

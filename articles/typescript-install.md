@@ -1,9 +1,10 @@
 <!--
-title: 【typescript】インストールする方法とコツ
-tags: typescript,インストール
-id: 
+title:   【typescript】インストールする方法とコツ
+tags:    TypeScript,インストール
+id:      282e7f42b9c8663b1306
 private: false
 -->
+
 
 こんにちは。今回は、typescriptについて初心者エンジニアに向けて、npmを使ったインストール方法とコツについて紹介します。
 
@@ -99,11 +100,11 @@ javascriptのライブラリやフレームワークには、typescriptの型定
 
 以下は、よくあるエラーとその対処法です。
 
-- `error: cannot find module 'typescript'`  
+- `error: cannot find module 'typescript'`
 `npm install typescript`コマンドを実行して、typescriptをインストールしましょう。
-- `unable to resolve signature of property or method declaration`  
+- `unable to resolve signature of property or method declaration`
 型定義ファイルが不足している場合は、型定義ファイルを作成するか、自動生成ツールを使用して生成しましょう。
-- `property x does not exist on type y`  
+- `property x does not exist on type y`
 型定義ファイルに不備がある場合は、修正するか、別の型定義ファイルを探すようにしましょう。
 
 以上が、typescriptをインストールする方法とコツについての解説となります。
@@ -124,4 +125,3 @@ https://hack-note.com/programming-schools/
 ## 0円でプログラミングを学ぶという選択
 - [techacademyの無料体験](//af.moshimo.com/af/c/click?a_id=2612475&amp;p_id=1555&amp;pc_id=2816&amp;pl_id=22706&amp;url=https%3a%2f%2ftechacademy.jp%2fhtmlcss-trial%3futm_source%3dmoshimo%26utm_medium%3daffiliate%26utm_campaign%3dtextad)
 - [オンラインスクール dmm webcamp pro](//af.moshimo.com/af/c/click?a_id=2612482&amp;p_id=1363&amp;pc_id=2297&amp;pl_id=39999&amp;guid=on)
-

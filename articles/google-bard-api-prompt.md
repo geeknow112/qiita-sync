@@ -1,9 +1,10 @@
 <!--
-title: 【google】bard apiに最適なプロンプト
-tags: google,bard,api,prompt
-id: 
+title:   【google】bard apiに最適なプロンプト
+tags:    API,Bard,Google,prompt
+id:      9f35b832acc9e3c56923
 private: false
 -->
+
 
 ## google bardでのプロンプトについて
 
@@ -79,19 +80,18 @@ chatgptでは、対話的な流れを生成することが目的であるため�
 
 以上を踏まえて、より効果的なプロンプトの設定に取り組んでいただければと思います。
 
-　
+
 
 ## Google Bard 関連まとめ
 https://hack-note.com/summary/google-bard-summary/
 
-　
-　
+
+
 ## オンラインスクールを講師として活用する！
 https://hack-note.com/programming-schools/
 
-　
+
 
 ## 0円でプログラミングを学ぶという選択
 - [techacademyの無料体験](//af.moshimo.com/af/c/click?a_id=2612475&amp;p_id=1555&amp;pc_id=2816&amp;pl_id=22706&amp;url=https%3a%2f%2ftechacademy.jp%2fhtmlcss-trial%3futm_source%3dmoshimo%26utm_medium%3daffiliate%26utm_campaign%3dtextad)
 - [オンラインスクール dmm webcamp pro](//af.moshimo.com/af/c/click?a_id=2612482&amp;p_id=1363&amp;pc_id=2297&amp;pl_id=39999&amp;guid=on)
-

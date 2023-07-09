@@ -4,8 +4,6 @@ tags:    pine,“tradingview,投資”
 id:      5bbb26e64859d5869c2f
 private: false
 -->
-
-
 こんにちは。今回は、tradingviewについて初心者エンジニアに向けて、相関図を表示するためのpineコードについて解説します。
 
 投資する際には、複数の銘柄の動向を把握することが重要です。特定の銘柄が上がったり下がったりする要因は多岐にわたりますが、株価や為替レートなど、相関する銘柄があることがあります。そのため、投資家は複数の銘柄の相関関係を把握し、リスクを分散させた投資をする必要があります。
@@ -50,51 +48,51 @@ hline(0)
 
 以下に、pineコードの各行の解説を示します。
 
-```
+`
 //@version=4
 study("correlation chart", overlay=true)
-```
+`
 「//@version=4」は、pineコードのバージョンを示しています。「study("correlation chart", overlay=true)」は、チャートに反映される指標のタイトルを設定しています。
 
-```
+`
 src1=input(title='symbol1', type=input.string, defval='aapl')
 src2=input(title='symbol2', type=input.string, defval='goog')
 src3=input(title='symbol3', type=input.string, defval='tsla')
 src4=input(title='symbol4', type=input.string, defval='msft')
-```
+`
 「input関数」は、ユーザーが指定したパラメーターを入力するための関数です。ここでは、比較したい銘柄を指定できるようにするために使用しています。
 
-```
+`
 s1 = security(src1, timeframe.period, close)
 s2 = security(src2, timeframe.period, close)
 s3 = security(src3, timeframe.period, close)
 s4 = security(src4, timeframe.period, close)
-```
+`
 「security関数」は、別のシンボル（銘柄）のデータを取得するための関数です。ここで使用しているcloseは、その銘柄の終値を示します。
 
-```
+`
 pair1 = correlation(s1, s2, 252, 1)
 pair2 = correlation(s1, s3, 252, 1)
 pair3 = correlation(s1, s4, 252, 1)
 pair4 = correlation(s2, s3, 252, 1)
 pair5 = correlation(s2, s4, 252, 1)
 pair6 = correlation(s3, s4, 252, 1)
-```
+`
 「correlation関数」は、2つのシンボル間の相関を計算するための関数です。ここでは、それぞれのシンボルの組み合わせで相関を計算しています。
 
-```
+`
 plot(pair1)
 plot(pair2)
 plot(pair3)
 plot(pair4)
 plot(pair5)
 plot(pair6)
-```
+`
 「plot関数」は、チャートに指標を表示するための関数です。ここでは、計算した相関を表示しています。
 
-```
+`
 hline(0)
-```
+`
 「hline関数」は、横線を引くための関数です。ここでは、相関係数0の横線を引いています。
 
 【まとめ】

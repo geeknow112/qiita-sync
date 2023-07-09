@@ -1,9 +1,10 @@
 <!--
-title: 【django】mvcパターンを理解する：model, view, controllerとは？
-tags: python,django
-id: 
+title:   【django】mvcパターンを理解する：model, view, controllerとは？
+tags:    Django,Python
+id:      4a7b1e6da69242b76e83
 private: false
 -->
+
 
 ## こんにちは。今回は、djangoについて初心者エンジニアに向けて、ルーティングとurl設計について解説します。
 
@@ -56,19 +57,18 @@ url設計は、ユーザビリティやseoの観点から重要な要素です�
 
 以上がdjangoのルーティングとurl設計についての解説でした。ルーティングとurl設計は、django開発において非常に重要な要素であり、正しく理解して使いこなすことが求められます。初心者エンジニアの皆さんは、ぜひこの記事を参考にして、効果的なルーティングとurl設計を行いましょう。これからの開発で成功を収めるために、応用力を高めていきましょう。
 
-　
+
 
 ## Django 関連のまとめ
 https://hack-note.com/summary/django-summary/
 
-　
+
 
 ## オンラインスクールを講師として活用する！
 https://hack-note.com/programming-schools/
 
-　
+
 
 ## 0円でプログラミングを学ぶという選択
 - [techacademyの無料体験](//af.moshimo.com/af/c/click?a_id=2612475&amp;p_id=1555&amp;pc_id=2816&amp;pl_id=22706&amp;url=https%3a%2f%2ftechacademy.jp%2fhtmlcss-trial%3futm_source%3dmoshimo%26utm_medium%3daffiliate%26utm_campaign%3dtextad)
 - [オンラインスクール dmm webcamp pro](//af.moshimo.com/af/c/click?a_id=2612482&amp;p_id=1363&amp;pc_id=2297&amp;pl_id=39999&amp;guid=on)
-

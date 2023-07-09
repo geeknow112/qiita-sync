@@ -4,8 +4,6 @@ tags:    Bard,Google,比較
 id:      8654aa062e1ff1422ffa
 private: false
 -->
-
-
 ## はじめに
 
 こんにちは。今回は、google bardについて初心者エンジニアに向けて、chatgptとの比較を交えながら解説していきます。最近注目を浴びている自然言語処理技術の中でも、bardはgoogleが開発したもので、人工知能を活用し、文章内に含まれる意図や目的を理解し、状況に応じた回答を生成することができます。chatgptとの比較からそれぞれの特徴を掴んで、どちらを使うか検討するための情報を提供します。
@@ -31,7 +29,7 @@ google bardとchatgptは、共通点と異なる点があります。
 ## サンプルコード１
 
 ### bard apiの使い方
-```
+`
 #gcpの認証情報を環境変数に設定する
 export google_application_credentials="my first project-1234567abcdef.json"
 
@@ -57,7 +55,7 @@ response = client.annotate_text(request={'document': document})
 answer = response.answer
 confidence = response.confidence
 print(f'answer: {answer}\nconfidence: {confidence}')
-```
+`
 
 ## サンプルコード２
 
