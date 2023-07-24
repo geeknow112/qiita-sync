@@ -1,9 +1,10 @@
 <!--
-title: 【django】管理サイトの使い方：データの追加や編集、削除方法
-tags: python,django
-id: 
+title:   【django】管理サイトの使い方：データの追加や編集、削除方法
+tags:    Django,Python
+id:      c890d9fb274afeecb1e4
 private: false
 -->
+
 
 ## djangoの管理サイトの概要と設定方法
 djangoの管理サイトは、データの追加や編集、削除などの機能を提供するための強力なツールです。初心者エンジニアの方にとっては、データベース操作の知識がなくても簡単に操作することができるため、非常に便利です。
@@ -121,20 +122,19 @@ blog.delete()
 - [djangoのデータベース操作入門](https://qiita.com/kaki_k/items/2a7869c65dc0703c4f8c)
 - [djangoで簡単なwebアプリを作成してみよう](https://qiita.com/kaki_k/items/7ee5660d7c5f3bed9b03)
 
-　
+
 
 ## Django 関連のまとめ
 https://hack-note.com/summary/django-summary/
 
-　
+
 
 ## オンラインスクールを講師として活用する！
 https://hack-note.com/programming-schools/
 
-　
+
 
 ## 0円でプログラミングを学ぶという選択
 - [techacademyの無料体験](//af.moshimo.com/af/c/click?a_id=2612475&amp;p_id=1555&amp;pc_id=2816&amp;pl_id=22706&amp;url=https%3a%2f%2ftechacademy.jp%2fhtmlcss-trial%3futm_source%3dmoshimo%26utm_medium%3daffiliate%26utm_campaign%3dtextad)
 - [オンラインスクール dmm webcamp pro](//af.moshimo.com/af/c/click?a_id=2612482&amp;p_id=1363&amp;pc_id=2297&amp;pl_id=39999&amp;guid=on)
 - [レバテックカレッジ｜大学生向け 無料説明会](//af.moshimo.com/af/c/click?a_id=4071793&p_id=3198&pc_id=7488&pl_id=41848)
-
