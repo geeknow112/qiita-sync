@@ -1,9 +1,10 @@
 <!--
-title: 【google colaboratory】入門：機械学習の基礎と簡単なモデルの作成
-tags: google,colaboratory,python
-id: 
+title:   【google colaboratory】入門：機械学習の基礎と簡単なモデルの作成
+tags:    Google,Python,colaboratory
+id:      fbc3660b42134806b2c6
 private: false
 -->
+
 
 ## google colaboratory入門：機械学習の基礎と簡単なモデルの作成
 
@@ -129,20 +130,19 @@ accuracy = accuracy_score(y_test, y_pred)
 
 これから機械学習の分野に進む初心者エンジニアにとって、google colaboratoryは素晴らしいツールです。ぜひ、colabを使って機械学習の基礎を学ぶことから始めてみてください。
 
-　
+
 
 ## 【Google Colaboratory】まとめ
 https://hack-note.com/summary/gcolab-summary/
 
-　
+
 
 ## オンラインスクールを講師として活用する！
 https://hack-note.com/programming-schools/
 
-　
+
 
 ## 0円でプログラミングを学ぶという選択
 - [techacademyの無料体験](//af.moshimo.com/af/c/click?a_id=2612475&amp;p_id=1555&amp;pc_id=2816&amp;pl_id=22706&amp;url=https%3a%2f%2ftechacademy.jp%2fhtmlcss-trial%3futm_source%3dmoshimo%26utm_medium%3daffiliate%26utm_campaign%3dtextad)
 - [オンラインスクール dmm webcamp pro](//af.moshimo.com/af/c/click?a_id=2612482&amp;p_id=1363&amp;pc_id=2297&amp;pl_id=39999&amp;guid=on)
 - [レバテックカレッジ｜大学生向け 無料説明会](//af.moshimo.com/af/c/click?a_id=4071793&p_id=3198&pc_id=7488&pl_id=41848)
-
