@@ -1,9 +1,10 @@
 <!--
-title: 【amazon connect】音声認識活用: 効率的なカスタマーサポートを実現する方法
-tags: amazon,connect
-id: 
+title:   【amazon connect】音声認識活用: 効率的なカスタマーサポートを実現する方法
+tags:    Amazon,connect
+id:      77a6cea93f00aefab7e3
 private: false
 -->
+
 
 ## 音声認識の基礎と仕組み
 
@@ -19,7 +20,7 @@ private: false
 言語モデルは、テキストの文法や単語の出現確率などを表現したモデルです。音声データをテキストに変換する際には、言語モデルを使用して、音声データがどのような文脈にあるかを考慮してテキストを生成します。
 
 ### amazon connectでの音声認識設定手順
- 
+
 amazon connectを利用して音声認識を活用するためには、以下の手順に従います。
 
 1. aws management consoleにサインインします。
@@ -71,20 +72,19 @@ amazon connectを利用して音声認識を活用するためには、以下の
 - [building a custom language model for amazon transcribe medical](https://aws.amazon.com/jp/blogs/machine-learning/building-a-custom-language-model-for-amazon-transcribe-medical/)
 - [how aws transcribe makes your life easier](https://aws.amazon.com/jp/blogs/machine-learning/how-aws-transcribe-makes-your-life-easier/)
 
-　
+
 
 ## 【Amazon Connect】まとめ
 https://hack-note.com/summary/aws-connect-summary/
 
-　
+
 
 ## オンラインスクールを講師として活用する！
 https://hack-note.com/programming-schools/
 
-　
+
 
 ## 0円でプログラミングを学ぶという選択
 - [techacademyの無料体験](//af.moshimo.com/af/c/click?a_id=2612475&amp;p_id=1555&amp;pc_id=2816&amp;pl_id=22706&amp;url=https%3a%2f%2ftechacademy.jp%2fhtmlcss-trial%3futm_source%3dmoshimo%26utm_medium%3daffiliate%26utm_campaign%3dtextad)
 - [オンラインスクール dmm webcamp pro](//af.moshimo.com/af/c/click?a_id=2612482&amp;p_id=1363&amp;pc_id=2297&amp;pl_id=39999&amp;guid=on)
 - [レバテックカレッジ｜大学生向け 無料説明会](//af.moshimo.com/af/c/click?a_id=4071793&p_id=3198&pc_id=7488&pl_id=41848)
-
