@@ -1,9 +1,10 @@
 <!--
-title: 【django】プラグイン開発入門：カスタム機能を追加しよう
-tags: django,python
-id: 
+title:   【django】プラグイン開発入門：カスタム機能を追加しよう
+tags:    Django,Python
+id:      177f08aad3192552b766
 private: false
 -->
+
 
 ## djangoプラグイン開発入門：カスタム機能を追加しよう
 
@@ -170,20 +171,19 @@ djangoプラグインのテストとデバッグは、開発者の信頼性の�
 - [djangoでテンプレートタグを作成して利用する方法](https://qiita.com/kimihiro_n/items/3191c0d8a376395addc7)
 - [djangoにおけるテストの書き方と実行方法](https://qiita.com/kimihiro_n/items/d56c7161844c2e752350)
 
-　
+
 
 ## 【Django】関連のまとめ
 https://hack-note.com/summary/django-summary/
 
-　
+
 
 ## オンラインスクールを講師として活用する！
 https://hack-note.com/programming-schools/
 
-　
+
 
 ## 0円でプログラミングを学ぶという選択
 - [techacademyの無料体験](//af.moshimo.com/af/c/click?a_id=2612475&amp;p_id=1555&amp;pc_id=2816&amp;pl_id=22706&amp;url=https%3a%2f%2ftechacademy.jp%2fhtmlcss-trial%3futm_source%3dmoshimo%26utm_medium%3daffiliate%26utm_campaign%3dtextad)
 - [オンラインスクール dmm webcamp pro](//af.moshimo.com/af/c/click?a_id=2612482&amp;p_id=1363&amp;pc_id=2297&amp;pl_id=39999&amp;guid=on)
 - [レバテックカレッジ｜大学生向け 無料説明会](//af.moshimo.com/af/c/click?a_id=4071793&p_id=3198&pc_id=7488&pl_id=41848)
-
