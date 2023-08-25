@@ -1,9 +1,10 @@
 <!--
-title: 【tradingview】スクリプトエディターの使い方と自動売買戦略の作成
-tags: tradingview,python,pine
-id: 
+title:   【tradingview】スクリプトエディターの使い方と自動売買戦略の作成
+tags:    Python,TradingView,pine
+id:      33f65142eec1dc696875
 private: false
 -->
+
 
 # tradingviewについて初心者エンジニアに向けて
 
@@ -214,20 +215,19 @@ plot(strategy.equity)
 4. バックテスト結果の分析と改善点の特定: [https://tradingterminal.jp/backtest_analysis](https://tradingterminal.jp/backtest_analysis)
 5. ポートフォリオバックテストの実施と複数戦略の評価: [https://tradingterminal.jp/portfolio_backtest](https://tr
 
-　
+
 
 ## 【TradingView】関連のまとめ
 https://hack-note.com/summary/tradingview-summary/
 
-　
+
 
 ## オンラインスクールを講師として活用する！
 https://hack-note.com/programming-schools/
 
-　
+
 
 ## 0円でプログラミングを学ぶという選択
 - [techacademyの無料体験](//af.moshimo.com/af/c/click?a_id=2612475&amp;p_id=1555&amp;pc_id=2816&amp;pl_id=22706&amp;url=https%3a%2f%2ftechacademy.jp%2fhtmlcss-trial%3futm_source%3dmoshimo%26utm_medium%3daffiliate%26utm_campaign%3dtextad)
 - [オンラインスクール dmm webcamp pro](//af.moshimo.com/af/c/click?a_id=2612482&amp;p_id=1363&amp;pc_id=2297&amp;pl_id=39999&amp;guid=on)
 - [レバテックカレッジ｜大学生向け 無料説明会](//af.moshimo.com/af/c/click?a_id=4071793&p_id=3198&pc_id=7488&pl_id=41848)
-
