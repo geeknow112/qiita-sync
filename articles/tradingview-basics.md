@@ -1,9 +1,10 @@
 <!--
-title: 【tradingview】基本機能と使い方の解説
-tags: tradingview,python,pine
-id: 
+title:   【tradingview】基本機能と使い方の解説
+tags:    Python,TradingView,pine
+id:      0f1e34863f56c17395d3
 private: false
 -->
+
 
 ## チャートの表示とカスタマイズ
 
@@ -180,20 +181,19 @@ ta.share_layout(layout_id)  # レイアウトを共有
 
 以上で、tradingviewの基本機能と使い方の解説を終わります。tradingviewを使いこなすことで、エンジニアでも効率的にトレードを行うことができるようになりますので、ぜひ活用してみてください。
 
-　
+
 
 ## 【TradingView】関連のまとめ
 https://hack-note.com/summary/tradingview-summary/
 
-　
+
 
 ## オンラインスクールを講師として活用する！
 https://hack-note.com/programming-schools/
 
-　
+
 
 ## 0円でプログラミングを学ぶという選択
 - [techacademyの無料体験](//af.moshimo.com/af/c/click?a_id=2612475&amp;p_id=1555&amp;pc_id=2816&amp;pl_id=22706&amp;url=https%3a%2f%2ftechacademy.jp%2fhtmlcss-trial%3futm_source%3dmoshimo%26utm_medium%3daffiliate%26utm_campaign%3dtextad)
 - [オンラインスクール dmm webcamp pro](//af.moshimo.com/af/c/click?a_id=2612482&amp;p_id=1363&amp;pc_id=2297&amp;pl_id=39999&amp;guid=on)
 - [レバテックカレッジ｜大学生向け 無料説明会](//af.moshimo.com/af/c/click?a_id=4071793&p_id=3198&pc_id=7488&pl_id=41848)
-

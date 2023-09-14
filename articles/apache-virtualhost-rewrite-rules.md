@@ -1,9 +1,10 @@
 <!--
-title: 【apache】rewriteルールの活用：virtualhostでurlリダイレクトを設定する方法
-tags: apache,virtualhost
-id: 
+title:   【apache】rewriteルールの活用：virtualhostでurlリダイレクトを設定する方法
+tags:    Apache,VirtualHost
+id:      4ff7f04127d75e16cb60
 private: false
 -->
+
 
 ## urlリダイレクトの基本：rewriteルールの概要と設定方法
 
@@ -19,7 +20,7 @@ apacheの設定ファイルであるhttpd.confファイルに、以下のよう�
 <virtualhost *:80>
     servername yourdomain.com
     documentroot /var/www/html
-    
+
     rewriteengine on
     rewritecond %{http_host} ^www\.yourdomain\.com [nc]
     rewriterule ^(.*)$ http://yourdomain.com/$1 [l,r=301]
@@ -40,7 +41,7 @@ apacheでは、複数のドメインに対して異なるurlリダイレクト�
 <virtualhost *:80>
     servername example.com
     documentroot /var/www/html
-    
+
     rewriteengine on
     rewriterule ^old-page$ /new-page.html [r=301]
 </virtualhost>
@@ -48,7 +49,7 @@ apacheでは、複数のドメインに対して異なるurlリダイレクト�
 <virtualhost *:80>
     servername example.jp
     documentroot /var/www/html
-    
+
     rewriteengine on
     rewriterule ^old-file$ /new-file.html [r=301]
 </virtualhost>
@@ -72,7 +73,7 @@ apacheでは、複数のドメインに対して異なるurlリダイレクト�
 <virtualhost *:80>
     servername example.com
     documentroot /var/www/html
-    
+
     rewriteengine on
     rewriterule ^old-page$ /new-page.html [r=301]
     rewriterule ^temporary-page$ /temporary-page.html [r=302]
@@ -93,7 +94,7 @@ rewriteルールでは、ワイルドカードや正規表現を使用して、�
 <virtualhost *:80>
     servername example.com
     documentroot /var/www/html
-    
+
     rewriteengine on
     rewriterule ^category/(.*)$ /new-category/$1 [r=301]
     rewriterule ^product/(.*)$ /new-product/$1 [r=301]
@@ -122,20 +123,19 @@ rewriteルールを設定する際には、リダイレクトのテストとデ�
 - [apache urlリダイレクトの基本 - qiita](https://qiita.com/daisukehiratake/items/affd998e7d785b97c1db)
 - [apacheのrewriteruleでurlを書き換える - qiita](https://qiita.com/civic/items/6149b35809ff94c2b057)
 
-　
+
 
 ## 【Apache】関連のまとめ
 https://hack-note.com/summary/apache-summary/
 
-　
+
 
 ## オンラインスクールを講師として活用する！
 https://hack-note.com/programming-schools/
 
-　
+
 
 ## 0円でプログラミングを学ぶという選択
 - [techacademyの無料体験](//af.moshimo.com/af/c/click?a_id=2612475&amp;p_id=1555&amp;pc_id=2816&amp;pl_id=22706&amp;url=https%3a%2f%2ftechacademy.jp%2fhtmlcss-trial%3futm_source%3dmoshimo%26utm_medium%3daffiliate%26utm_campaign%3dtextad)
 - [オンラインスクール dmm webcamp pro](//af.moshimo.com/af/c/click?a_id=2612482&amp;p_id=1363&amp;pc_id=2297&amp;pl_id=39999&amp;guid=on)
 - [レバテックカレッジ｜大学生向け 無料説明会](//af.moshimo.com/af/c/click?a_id=4071793&p_id=3198&pc_id=7488&pl_id=41848)
-

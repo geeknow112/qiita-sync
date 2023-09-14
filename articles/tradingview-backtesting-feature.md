@@ -1,9 +1,10 @@
 <!--
-title: 【tradingview】バックテスト機能の活用と戦略の評価方法
-tags: tradingview,python,pine
-id: 
+title:   【tradingview】バックテスト機能の活用と戦略の評価方法
+tags:    Python,TradingView,pine
+id:      fd327a6031ba6d433e37
 private: false
 -->
+
 
 ## tradingviewについて初心者エンジニアに向けて、バックテスト機能の活用と戦略の評価方法
 
@@ -89,20 +90,19 @@ tradingviewのバックテスト機能は、トレーダーが自身のトレー
 - [tradingviewでのバックテストの基本と活用方法](https://www.tradingview.jp/script/nxsytncx-バックテストの基本と活用方法)
 - [tradingviewのバックテスト機能を活用した戦略評価方法](https://www.tradingview.jp/script/7fxionra-バックテスト機能を活用した戦略評価方法)
 
-　
+
 
 ## 【TradingView】関連のまとめ
 https://hack-note.com/summary/tradingview-summary/
 
-　
+
 
 ## オンラインスクールを講師として活用する！
 https://hack-note.com/programming-schools/
 
-　
+
 
 ## 0円でプログラミングを学ぶという選択
 - [techacademyの無料体験](//af.moshimo.com/af/c/click?a_id=2612475&amp;p_id=1555&amp;pc_id=2816&amp;pl_id=22706&amp;url=https%3a%2f%2ftechacademy.jp%2fhtmlcss-trial%3futm_source%3dmoshimo%26utm_medium%3daffiliate%26utm_campaign%3dtextad)
 - [オンラインスクール dmm webcamp pro](//af.moshimo.com/af/c/click?a_id=2612482&amp;p_id=1363&amp;pc_id=2297&amp;pl_id=39999&amp;guid=on)
 - [レバテックカレッジ｜大学生向け 無料説明会](//af.moshimo.com/af/c/click?a_id=4071793&p_id=3198&pc_id=7488&pl_id=41848)
-

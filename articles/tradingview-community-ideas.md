@@ -1,9 +1,10 @@
 <!--
-title: 【tradingview】コミュニティとアイデアの共有プラットフォームの活用方法
-tags: tradingview,python,pine
-id: 
+title:   【tradingview】コミュニティとアイデアの共有プラットフォームの活用方法
+tags:    Python,TradingView,pine
+id:      9d2810c009edfa2fca34
 private: false
 -->
+
 
 ## こんにちは。今回は、tradingviewについて初心者エンジニアに向けて、コミュニティとアイデアの共有プラットフォームの活用方法についてご紹介します。
 
@@ -90,20 +91,19 @@ tradingviewの活用方法については、公式のドキュメントやトレ
 - tradingview公式ブログ：[tradingviewでのチャート分析の基本と応用を解説](https://www.tradingview.com/blog/jp/guide/chart-analysis-101-201816/)
 - qiita記事：[pythonとpine scriptを使ったtradingviewの活用方法](https://qiita.com/jp_tradingview/items/xxxxxxxxxxx)
 
-　
+
 
 ## 【TradingView】関連のまとめ
 https://hack-note.com/summary/tradingview-summary/
 
-　
+
 
 ## オンラインスクールを講師として活用する！
 https://hack-note.com/programming-schools/
 
-　
+
 
 ## 0円でプログラミングを学ぶという選択
 - [techacademyの無料体験](//af.moshimo.com/af/c/click?a_id=2612475&amp;p_id=1555&amp;pc_id=2816&amp;pl_id=22706&amp;url=https%3a%2f%2ftechacademy.jp%2fhtmlcss-trial%3futm_source%3dmoshimo%26utm_medium%3daffiliate%26utm_campaign%3dtextad)
 - [オンラインスクール dmm webcamp pro](//af.moshimo.com/af/c/click?a_id=2612482&amp;p_id=1363&amp;pc_id=2297&amp;pl_id=39999&amp;guid=on)
 - [レバテックカレッジ｜大学生向け 無料説明会](//af.moshimo.com/af/c/click?a_id=4071793&p_id=3198&pc_id=7488&pl_id=41848)
-
