@@ -1,9 +1,10 @@
 <!--
-title: 【vue.js】ドラッグ可能なリストを作成するためのdraggableの活用方法
-tags: javascript,vue.js
-id: 
+title:   【vue.js】ドラッグ可能なリストを作成するためのdraggableの活用方法
+tags:    JavaScript,Vue.js
+id:      4d272135d1b5793c1203
 private: false
 -->
+
 
 こんにちは。今回は、
 vue.jsについて初心者エンジニアに向けて、ドラッグ可能なリストを作成するためのdraggableの活用方法についてご紹介します。
@@ -167,20 +168,19 @@ export default {
 - [vue.jsでドラッグ＆ドロップ可能なリスト作成](https://www.webprofessional.jp/drag-drop-vue-js/)
 - [vue.draggable - レジェンダリーなドラッグ&ドロップリスト！](https://qiita.com/ryo2132/items/3e5281f6d7147f3b277c)
 
-　
+
 
 ## 【Vue.js】関連のまとめ
 https://hack-note.com/summary/vuejs-summary/
 
-　
+
 
 ## オンラインスクールを講師として活用する！
 https://hack-note.com/programming-schools/
 
-　
+
 
 ## 0円でプログラミングを学ぶという選択
 - [techacademyの無料体験](//af.moshimo.com/af/c/click?a_id=2612475&amp;p_id=1555&amp;pc_id=2816&amp;pl_id=22706&amp;url=https%3a%2f%2ftechacademy.jp%2fhtmlcss-trial%3futm_source%3dmoshimo%26utm_medium%3daffiliate%26utm_campaign%3dtextad)
 - [オンラインスクール dmm webcamp pro](//af.moshimo.com/af/c/click?a_id=2612482&amp;p_id=1363&amp;pc_id=2297&amp;pl_id=39999&amp;guid=on)
 - [レバテックカレッジ｜大学生向け 無料説明会](//af.moshimo.com/af/c/click?a_id=4071793&p_id=3198&pc_id=7488&pl_id=41848)
-

@@ -1,9 +1,10 @@
 <!--
-title: 【apache】ディレクトリ別の仮想ホスト設定：複数のブログを管理
-tags: apache,virtualhost
-id: 
+title:   【apache】ディレクトリ別の仮想ホスト設定：複数のブログを管理
+tags:    Apache,VirtualHost
+id:      cf10d16de8e6bea29f04
 private: false
 -->
+
 
 ## ブログ管理のためのディレクトリ別仮想ホスト設定手法
 
@@ -90,7 +91,7 @@ deny from all
 <virtualhost *:443>
     servername www.blog1.com
     documentroot /var/www/html/blog1/
-    
+
     sslengine on
     sslcertificatefile /etc/apache2/ssl/blog1.crt
     sslcertificatekeyfile /etc/apache2/ssl/blog1.key
@@ -133,7 +134,7 @@ customlog /var/log/apache2/access.log common
 <virtualhost *:80>
     servername www.blog1.com
     documentroot /var/www/html/blog1/
-    
+
     rewriteengine on
     rewritecond %{request_filename} !-f
     rewritecond %{request_filename} !-d
@@ -149,7 +150,7 @@ customlog /var/log/apache2/access.log common
 <virtualhost *:80>
     servername www.blog1.com
     documentroot /var/www/html/blog1/
-    
+
     <location "/">
         fileetag none
         expiresactive on

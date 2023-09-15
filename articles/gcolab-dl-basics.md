@@ -1,9 +1,10 @@
 <!--
-title: 【google colaboratory】入門：ディープラーニングの基礎と簡単なモデルの作成
-tags: google,colaboratory,python
-id: 
+title:   【google colaboratory】入門：ディープラーニングの基礎と簡単なモデルの作成
+tags:    Google,Python,colaboratory
+id:      7914f85bea6c947d8a29
 private: false
 -->
+
 
 ## google colaboratoryについて初心者エンジニアに向けて
 
@@ -98,20 +99,19 @@ model.fit(train_images, train_labels, epochs=10, validation_data=(test_images, t
 - [tensorflowでの始め方 (初心者向け)](https://qiita.com/kurozumi/items/9bfe1016b92fa565a2a3)
 - [ディープラーニングを始める人のためのtensorflow入門](https://qiita.com/taki_tflare/items/333facc8f5384ab2bc89)
 
-　
+
 
 ## 【Google Colaboratory】まとめ
 https://hack-note.com/summary/gcolab-summary/
 
-　
+
 
 ## オンラインスクールを講師として活用する！
 https://hack-note.com/programming-schools/
 
-　
+
 
 ## 0円でプログラミングを学ぶという選択
 - [techacademyの無料体験](//af.moshimo.com/af/c/click?a_id=2612475&amp;p_id=1555&amp;pc_id=2816&amp;pl_id=22706&amp;url=https%3a%2f%2ftechacademy.jp%2fhtmlcss-trial%3futm_source%3dmoshimo%26utm_medium%3daffiliate%26utm_campaign%3dtextad)
 - [オンラインスクール dmm webcamp pro](//af.moshimo.com/af/c/click?a_id=2612482&amp;p_id=1363&amp;pc_id=2297&amp;pl_id=39999&amp;guid=on)
 - [レバテックカレッジ｜大学生向け 無料説明会](//af.moshimo.com/af/c/click?a_id=4071793&p_id=3198&pc_id=7488&pl_id=41848)
-

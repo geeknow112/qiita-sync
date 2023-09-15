@@ -1,9 +1,10 @@
 <!--
-title: 【django】セキュリティ対策：クロスサイトスクリプティングやsqlインジェクションへの対策
-tags: python,django
-id: 
+title:   【django】セキュリティ対策：クロスサイトスクリプティングやsqlインジェクションへの対策
+tags:    Django,Python
+id:      4792c8b7409294733d20
 private: false
 -->
+
 
 ## djangoにおけるセキュリティ対策の重要性
 セキュリティ対策は、webアプリケーション開発において非常に重要な要素です。特に業務で使用されるwebアプリケーションでは、データの機密性、信頼性、可用性を保つために効果的なセキュリティ対策が必要です。djangoはpythonで開発されたwebフレームワークであり、セキュリティ対策にも力を入れています。本記事では、djangoにおける主なセキュリティ対策について解説します。
@@ -171,20 +172,19 @@ secure_ssl_redirect = true  # 全てのリクエストをhttpsにリダイレク
 
 以上が、djangoにおけるセキュリティ対策の概要と具体的な対策方法です。初心者エンジニアの方にとっては、セキュリティ対策は難しいかもしれませんが、djangoのセキュリティ機能を積極的に活用することで、安全なwebアプリケーションを開発することができます。是非、実際の開発に応用してみてください。
 
-　
+
 
 ## Django 関連のまとめ
 https://hack-note.com/summary/django-summary/
 
-　
+
 
 ## オンラインスクールを講師として活用する！
 https://hack-note.com/programming-schools/
 
-　
+
 
 ## 0円でプログラミングを学ぶという選択
 - [techacademyの無料体験](//af.moshimo.com/af/c/click?a_id=2612475&amp;p_id=1555&amp;pc_id=2816&amp;pl_id=22706&amp;url=https%3a%2f%2ftechacademy.jp%2fhtmlcss-trial%3futm_source%3dmoshimo%26utm_medium%3daffiliate%26utm_campaign%3dtextad)
 - [オンラインスクール dmm webcamp pro](//af.moshimo.com/af/c/click?a_id=2612482&amp;p_id=1363&amp;pc_id=2297&amp;pl_id=39999&amp;guid=on)
 - [レバテックカレッジ｜大学生向け 無料説明会](//af.moshimo.com/af/c/click?a_id=4071793&p_id=3198&pc_id=7488&pl_id=41848)
-

@@ -1,9 +1,10 @@
 <!--
-title: 【amazon connect】機能解説: ビジネスの効率化と改善に使える
-tags: amazon,connect
-id: 
+title:   【amazon connect】機能解説: ビジネスの効率化と改善に使える
+tags:    Amazon,connect
+id:      008f6d406953ea23cd82
 private: false
 -->
+
 
 ## amazon connectについて初心者エンジニアに向けて
 
@@ -24,7 +25,7 @@ import json
 def lambda_handler(event, context):
     # ユーザーからの入力を取得
     dtmf_digits = event['details']['contactdata']['attributes']['dtmfdigits']
-    
+
     # 入力に応じて処理を分岐
     if dtmf_digits == '1':
         response = {'message': '1を入力した場合の処理'}
@@ -32,7 +33,7 @@ def lambda_handler(event, context):
         response = {'message': '2を入力した場合の処理'}
     else:
         response = {'message': 'その他の入力の場合の処理'}
-    
+
     return {
         'statuscode': 200,
         'body': json.dumps(response)
@@ -56,14 +57,14 @@ import boto3
 
 def enqueue_call(phone_number, queue_id):
     connect = boto3.client('connect')
-  
+
     response = connect.start_outbound_voice_contact(
         destinationphonenumber=phone_number,
         contactflowid='your_contact_flow_id',
         instanceid='your_instance_id',
         queueid=queue_id
     )
-    
+
     return response
 ```
 
@@ -85,7 +86,7 @@ import boto3
 
 def get_metrics(instance_id, start_time, end_time):
     connect = boto3.client('connect')
-    
+
     response = connect.get_metric_data(
         instanceid=instance_id,
         starttime=start_time,
@@ -112,7 +113,7 @@ def get_metrics(instance_id, start_time, end_time):
         ],
         period=300
     )
-    
+
     return response
 ```
 
@@ -134,12 +135,12 @@ import boto3
 
 def update_agent_skill(agent_id, skill_id):
     connect = boto3.client('connect')
-    
+
     response = connect.update_user_hierarchy(
         userid=agent_id,
         hierarchygroupid=skill_id
     )
-    
+
     return response
 ```
 
@@ -161,13 +162,13 @@ import boto3
 
 def create_contact_flow(name, routing_profile_id):
     connect = boto3.client('connect')
-    
+
     response = connect.create_contact_flow(
         name=name,
         type='contact_flow',
         routingprofileid=routing_profile_id
     )
-    
+
     return response
 ```
 
@@ -206,20 +207,19 @@ def create_cti_adapter(name, instance_id):
 
 以上がamazon connectの機能解説となります。初めて触る方でも理解しやすいように、具体的な手順やサンプルコードを紹介しました。amazon connectを使ってビジネスの効率化と改善を実現しましょう。是非、ご活用ください。
 
-　
+
 
 ## 【Amazon Connect】まとめ
 https://hack-note.com/summary/aws-connect-summary/
 
-　
+
 
 ## オンラインスクールを講師として活用する！
 https://hack-note.com/programming-schools/
 
-　
+
 
 ## 0円でプログラミングを学ぶという選択
 - [techacademyの無料体験](//af.moshimo.com/af/c/click?a_id=2612475&amp;p_id=1555&amp;pc_id=2816&amp;pl_id=22706&amp;url=https%3a%2f%2ftechacademy.jp%2fhtmlcss-trial%3futm_source%3dmoshimo%26utm_medium%3daffiliate%26utm_campaign%3dtextad)
 - [オンラインスクール dmm webcamp pro](//af.moshimo.com/af/c/click?a_id=2612482&amp;p_id=1363&amp;pc_id=2297&amp;pl_id=39999&amp;guid=on)
 - [レバテックカレッジ｜大学生向け 無料説明会](//af.moshimo.com/af/c/click?a_id=4071793&p_id=3198&pc_id=7488&pl_id=41848)
-

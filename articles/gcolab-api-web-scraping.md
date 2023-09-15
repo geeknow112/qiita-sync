@@ -1,9 +1,10 @@
 <!--
-title: 【google colaboratory】入門：googleのapiを使った自動化とwebスクレイピングの基礎
-tags: google,colaboratory,python
-id: 
+title:   【google colaboratory】入門：googleのapiを使った自動化とwebスクレイピングの基礎
+tags:    Google,Python,colaboratory
+id:      bf69f99fd53a9ce20816
 private: false
 -->
+
 
 ## google colaboratoryとは？
 
@@ -127,20 +128,19 @@ pythonでは、以下のような最適化手法があります。
 
 以上が、google colaboratoryについて初心者エンジニアに向けたお話でした。googleのapiを使った自動化とwebスクレイピングの基礎について、概要や実装方法、最適化手法についてご紹介しました。colabの便利な機能を活用して、pythonを使った自動化とwebスクレイピングを楽しんでください。
 
-　
+
 
 ## 【Google Colaboratory】まとめ
 https://hack-note.com/summary/gcolab-summary/
 
-　
+
 
 ## オンラインスクールを講師として活用する！
 https://hack-note.com/programming-schools/
 
-　
+
 
 ## 0円でプログラミングを学ぶという選択
 - [techacademyの無料体験](//af.moshimo.com/af/c/click?a_id=2612475&amp;p_id=1555&amp;pc_id=2816&amp;pl_id=22706&amp;url=https%3a%2f%2ftechacademy.jp%2fhtmlcss-trial%3futm_source%3dmoshimo%26utm_medium%3daffiliate%26utm_campaign%3dtextad)
 - [オンラインスクール dmm webcamp pro](//af.moshimo.com/af/c/click?a_id=2612482&amp;p_id=1363&amp;pc_id=2297&amp;pl_id=39999&amp;guid=on)
 - [レバテックカレッジ｜大学生向け 無料説明会](//af.moshimo.com/af/c/click?a_id=4071793&p_id=3198&pc_id=7488&pl_id=41848)
-
