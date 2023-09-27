@@ -1,9 +1,10 @@
 <!--
-title: 【vue.js】ドラッグアンドドロップの制約と制限：制御されたドラッグ操作の実装手法
-tags: javascript,vue.js
-id: 
+title:   【vue.js】ドラッグアンドドロップの制約と制限：制御されたドラッグ操作の実装手法
+tags:    JavaScript,Vue.js
+id:      ad90d4ae80ba897f12e6
 private: false
 -->
+
 
 ## ドラッグ操作の制約と許可条件の設定方法
 
@@ -71,13 +72,13 @@ export default {
         const allowdrag = binding.value.allowdrag;
         const handle = binding.value.handle;
         const containment = binding.value.containment;
-        
+
         if (allowdrag) {
           if (handle) {
             const handleelement = el.queryselector(handle);
             handleelement.classlist.add("handle");
           }
-          
+
           if (containment) {
             const containmentelement = el.queryselector(containment);
             el.style.left = "0";
@@ -135,47 +136,47 @@ export default {
         const maxleft = binding.value.maxleft;
         const mintop = binding.value.mintop;
         const maxtop = binding.value.maxtop;
-        
+
         if (allowdrag) {
           el.addeventlistener("mousedown", handlemousedown);
-          
+
           function handlemousedown(e) {
             e.preventdefault();
             const startx = e.clientx;
             const starty = e.clienty;
             const startleft = parseint(getcomputedstyle(el).left, 10) || 0;
             const starttop = parseint(getcomputedstyle(el).top, 10) || 0;
-            
+
             document.addeventlistener("mousemove", handlemousemove);
             document.addeventlistener("mouseup", handlemouseup);
-              
+
             function handlemousemove(e) {
               const diffx = e.clientx - startx;
               const diffy = e.clienty - starty;
-              
+
               let newleft = startleft + diffx;
               let newtop = starttop + diffy;
-              
+
               if (minleft !== undefined && newleft < minleft) {
                 newleft = minleft;
               }
-              
+
               if (maxleft !== undefined && newleft > maxleft) {
                 newleft = maxleft;
               }
-              
+
               if (mintop !== undefined && newtop < mintop) {
                 newtop = mintop;
               }
-              
+
               if (maxtop !== undefined && newtop > maxtop) {
                 newtop = maxtop;
               }
-              
+
               el.style.left = `${newleft}px`;
               el.style.top = `${newtop}px`;
             }
-            
+
             function handlemouseup(e) {
               document.removeeventlistener("mousemove", handlemousemove);
               document.removeeventlistener("mouseup", handlemouseup);
@@ -228,27 +229,27 @@ export default {
         const allowdrag = binding.value.allowdrag;
         const boundaryx = binding.value.boundaryx;
         const boundaryy = binding.value.boundaryy;
-        
+
         if (allowdrag) {
           el.addeventlistener("mousedown", handlemousedown);
-          
+
           function handlemousedown(e) {
             e.preventdefault();
             const startx = e.clientx;
             const starty = e.clienty;
             const startleft = parseint(getcomputedstyle(el).left, 10) || 0;
             const starttop = parseint(getcomputedstyle(el).top, 10) || 0;
-            
+
             document.addeventlistener("mousemove", handlemousemove);
             document.addeventlistener("mouseup", handlemouseup);
-              
+
             function handlemousemove(e) {
               const diffx = e.clientx - startx;
               const diffy = e.clienty - starty;
-              
+
               let newleft = startleft + diffx;
               let newtop = starttop + diffy;
-              
+
               if (boundaryx !== undefined) {
                 if (newleft <= boundaryx) {
                   newleft = boundaryx;
@@ -256,7 +257,7 @@ export default {
                   newleft = window.innerwidth - boundaryx - el.offsetwidth;
                 }
               }
-              
+
               if (boundaryy !== undefined) {
                 if (newtop <= boundaryy) {
                   newtop = boundaryy;
@@ -264,11 +265,11 @@ export default {
                   newtop = window.innerheight - boundaryy - el.offsetheight;
                 }
               }
-              
+
               el.style.left = `${newleft}px`;
               el.style.top = `${newtop}px`;
             }
-            
+
             function handlemouseup(e) {
               document.removeeventlistener("mousemove", handlemousemove);
               document.removeeventlistener("mouseup", handlemouseup);
@@ -326,9 +327,9 @@ export default {
     draggable: {
       bind(el) {
         el.setattribute("draggable", true);
-        
+
         el.addeventlistener("dragstart", handledragstart);
-        
+
         function handledragstart(e) {
           e.datatransfer.setdata("text", el.innertext);
         }
@@ -340,20 +341,20 @@ export default {
         el.addeventlistener("dragover", handledragover);
         el.addeventlistener("dragleave", handledragleave);
         el.addeventlistener("drop", handledrop);
-        
+
         function handledragenter(e) {
           e.preventdefault();
           el.classlist.add("active");
         }
-        
+
         function handledragover(e) {
           e.preventdefault();
         }
-        
+
         function handledragleave() {
           el.classlist.remove("active");
         }
-        
+
         function handledrop(e) {
           e.preventdefault();
           const data = e.datatransfer.getdata("text");
@@ -412,9 +413,9 @@ export default {
     draggable: {
       bind(el) {
         el.setattribute("draggable", true);
-        
+
         el.addeventlistener("dragstart", handledragstart);
-        
+
         function handledragstart(e) {
           e.datatransfer.setdata("text", el.innertext);
         }
@@ -425,16 +426,16 @@ export default {
         el.addeventlistener("dragenter", handledragenter);
         el.addeventlistener("dragover", handledragover);
         el.addeventlistener("dragleave", handledragleave);
-        
+
         function handledragenter(e) {
           e.preventdefault();
           el.classlist.add("active");
         }
-        
+
         function handledragover(e) {
           e.preventdefault();
         }
-        
+
         function handledragleave() {
           el.classlist.remove("active");
         }
@@ -445,26 +446,25 @@ export default {
     handledrop(e) {
       e.preventdefault();
       const data = e.datatransfer.getdata("text");
-      
+
       if (data === "ドラッグ可能な要素") {
         this.$refs.droppable.innertext = data;
         this.$refs.droppable.classlist.remove("active");
 
 
-　
+
 
 ## 【Vue.js】関連のまとめ
 https://hack-note.com/summary/vuejs-summary/
 
-　
+
 
 ## オンラインスクールを講師として活用する！
 https://hack-note.com/programming-schools/
 
-　
+
 
 ## 0円でプログラミングを学ぶという選択
 - [techacademyの無料体験](//af.moshimo.com/af/c/click?a_id=2612475&amp;p_id=1555&amp;pc_id=2816&amp;pl_id=22706&amp;url=https%3a%2f%2ftechacademy.jp%2fhtmlcss-trial%3futm_source%3dmoshimo%26utm_medium%3daffiliate%26utm_campaign%3dtextad)
 - [オンラインスクール dmm webcamp pro](//af.moshimo.com/af/c/click?a_id=2612482&amp;p_id=1363&amp;pc_id=2297&amp;pl_id=39999&amp;guid=on)
 - [レバテックカレッジ｜大学生向け 無料説明会](//af.moshimo.com/af/c/click?a_id=4071793&p_id=3198&pc_id=7488&pl_id=41848)
-
