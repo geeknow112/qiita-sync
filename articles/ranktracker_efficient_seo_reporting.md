@@ -1,9 +1,10 @@
 <!--
-title: 【ranktracker】効率的なseoレポート生成手法
-tags: seo,ranktracker
-id: 
+title:   【ranktracker】効率的なseoレポート生成手法
+tags:    SEO,ranktracker
+id:      a7c89e243339db0bc927
 private: false
 -->
+
 
 こんにちは。今回は、ranktrackerについて初心者エンジニアに向けて、効率的なseoレポート生成手法についてご紹介します。
 
@@ -73,7 +74,7 @@ for keyword in keywords:
     rank = rank_data[keyword]
     dates = list(rank.keys())
     values = list(rank.values())
-    
+
     plt.plot(dates, values, label=keyword)
 
 plt.title("キーワードの順位推移")
@@ -106,7 +107,7 @@ for keyword in keywords:
     max_rank = max(rank.values())
     min_rank = min(rank.values())
     current_rank = rank[max(rank.keys())]
-    
+
     print(f"{keyword}の順位データ:")
     print(f"最高順位: {max_rank}")
     print(f"最低順位: {min_rank}")
@@ -133,13 +134,13 @@ for keyword in keywords:
     max_rank = max(rank.values())
     min_rank = min(rank.values())
     current_rank = rank[max(rank.keys())]
-    
+
     comment = f"{keyword}の順位の変動は以下の通りです。"
     comment += f"最高順位: {max_rank}, 最低順位: {min_rank}, 現在の順位: {current_rank}"
-    
+
     improvement = f"{keyword}の順位を上げるためには、以下の施策が有効です。"
     improvement += "1. コンテンツの最適化, 2. 外部サイトへのリンクを増やす"
-    
+
     report.add_comment(comment)
     report.add_improvement(improvement)
 
@@ -151,20 +152,19 @@ report.save()
 - [seoレポートの作成方法と重要な指標の選択](https://example.com/seo-report-creation)
 - [データの可視化によるseoレポートの効果的な活用方法](https://example.com/seo-report-visualization)
 
-　
+
 
 ## 【RankTracker】関連のまとめ
 https://hack-note.com/summary/ranktracker-summary/
 
-　
+
 
 ## オンラインスクールを講師として活用する！
 https://hack-note.com/programming-schools/
 
-　
+
 
 ## 0円でプログラミングを学ぶという選択
 - [techacademyの無料体験](//af.moshimo.com/af/c/click?a_id=2612475&amp;p_id=1555&amp;pc_id=2816&amp;pl_id=22706&amp;url=https%3a%2f%2ftechacademy.jp%2fhtmlcss-trial%3futm_source%3dmoshimo%26utm_medium%3daffiliate%26utm_campaign%3dtextad)
 - [オンラインスクール dmm webcamp pro](//af.moshimo.com/af/c/click?a_id=2612482&amp;p_id=1363&amp;pc_id=2297&amp;pl_id=39999&amp;guid=on)
 - [レバテックカレッジ｜大学生向け 無料説明会](//af.moshimo.com/af/c/click?a_id=4071793&p_id=3198&pc_id=7488&pl_id=41848)
-
