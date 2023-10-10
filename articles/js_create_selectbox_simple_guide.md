@@ -1,9 +1,10 @@
 <!--
-title: 【javascript】シンプルで使いやすい！createselectbox関数を使ったセレクトボックスの作成ガイド
-tags: javascript
-id: 
+title:   【javascript】シンプルで使いやすい！createselectbox関数を使ったセレクトボックスの作成ガイド
+tags:    JavaScript
+id:      cc6d6da357244e3166e5
 private: false
 -->
+
 
 ## javascriptについて初心者エンジニアに向けて、createselectbox関数を使ったセレクトボックスの作成ガイド
 
@@ -20,12 +21,12 @@ createselectbox関数は、javascriptのライブラリやフレームワーク�
 function createselectbox() {
   // セレクトボックスの要素を作成
   var selectbox = document.createelement('select');
-  
+
   // 選択肢の要素を作成
   var option1 = document.createelement('option');
   option1.value = 'option1';
   option1.text = 'option 1';
-  
+
   var option2 = document.createelement('option');
   option2.value = 'option2';
   option2.text = 'option 2';
@@ -47,7 +48,7 @@ function createselectbox() {
 ```javascript
 function createselectbox() {
   var selectbox = document.createelement('select');
-  
+
   // 選択肢の静的な作成と表示方法のカスタマイズ
   var options = ['option 1', 'option 2', 'option 3'];
   options.foreach(function(optiontext){
@@ -69,13 +70,13 @@ function createselectbox() {
 function createselectbox() {
   var selectbox = document.createelement('select');
   selectbox.id = 'dynamicselectbox'; // idを設定
-  
+
   // 初期選択肢の作成
   var option1 = document.createelement('option');
   option1.value = 'option1';
   option1.text = 'option 1';
   selectbox.appendchild(option1);
-  
+
   // 追加ボタンの作成
   var addbutton = document.createelement('button');
   addbutton.textcontent = 'add option';
@@ -88,7 +89,7 @@ function createselectbox() {
       selectbox.appendchild(newoption);
     }
   };
-  
+
   // 削除ボタンの作成
   var removebutton = document.createelement('button');
   removebutton.textcontent = 'remove option';
@@ -112,18 +113,18 @@ function createselectbox() {
 function createselectbox() {
   var selectbox = document.createelement('select');
   selectbox.id = 'eventhandlingselectbox'; // idを設定
-  
+
   // 選択肢の作成
   var option1 = document.createelement('option');
   option1.value = 'option1';
   option1.text = 'option 1';
   selectbox.appendchild(option1);
-  
+
   var option2 = document.createelement('option');
   option2.value = 'option2';
   option2.text = 'option 2';
   selectbox.appendchild(option2);
-  
+
   // イベントハンドラ関数の設定
   selectbox.onchange = function() {
     var selectedoptionvalue = this.value;
@@ -143,18 +144,18 @@ function createselectbox() {
 function createselectbox() {
   var selectbox = document.createelement('select');
   selectbox.id = 'designselectbox'; // idを設定
-  
+
   // 選択肢の作成
   var option1 = document.createelement('option');
   option1.value = 'option1';
   option1.text = 'option 1';
   selectbox.appendchild(option1);
-  
+
   var option2 = document.createelement('option');
   option2.value = 'option2';
   option2.text = 'option 2';
   selectbox.appendchild(option2);
-  
+
   selectbox.style.padding = '10px'; // パディングを設定
   selectbox.style.border = '1px solid #ccc'; // ボーダーを設定
   selectbox.style.borderradius = '5px'; // 角丸を設定
@@ -171,21 +172,20 @@ function createselectbox() {
 - [javascriptでセレクトボックスを作成する方法](https://murashun.jp/blog/20191025-01.html)
 - [javascriptでセレクトボックスを動的に追加・削除・読み込み](https://uxmilk.jp/14160)
 
-　
+
 
 ## 【Javascript】関連のまとめ
 https://hack-note.com/summary/javascript-summary/
 
-　
+
 
 ## オンラインスクールを講師として活用する！
 https://hack-note.com/programming-schools/
 
-　
+
 
 ## 0円でプログラミングを学ぶという選択
 - [techacademyの無料体験](//af.moshimo.com/af/c/click?a_id=2612475&amp;p_id=1555&amp;pc_id=2816&amp;pl_id=22706&amp;url=https%3a%2f%2ftechacademy.jp%2fhtmlcss-trial%3futm_source%3dmoshimo%26utm_medium%3daffiliate%26utm_campaign%3dtextad)
 - [オンラインスクール dmm webcamp pro](//af.moshimo.com/af/c/click?a_id=2612482&amp;p_id=1363&amp;pc_id=2297&amp;pl_id=39999&amp;guid=on)
 - [レバテックカレッジ｜大学生向け 無料説明会](//af.moshimo.com/af/c/click?a_id=4071793&p_id=3198&pc_id=7488&pl_id=41848)
-
 
