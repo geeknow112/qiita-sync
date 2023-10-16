@@ -1,9 +1,10 @@
 <!--
-title: 【javascript】簡単にrssフィードをパース！ライブラリとテクニック
-tags: javascript,rss
-id: 
+title:   【javascript】簡単にrssフィードをパース！ライブラリとテクニック
+tags:    JavaScript,RSS
+id:      d0a9324ed552705af8ae
 private: false
 -->
+
 
 ## ライブラリの選定と導入：簡単なrssパーサーの紹介
 
@@ -203,7 +204,7 @@ parser.parseurl(feedurl, function(err, feed) {
     const articleelement = document.createelement("article");
     articleelement.appendchild(titleelement);
     articleelement.appendchild(linkelement);
-    
+
     container.appendchild(articleelement);
   });
 });
@@ -350,20 +351,19 @@ feedparser.on('readable', function() {
 
 これらの記事は、より詳細な情報や応用的なテクニックを学ぶのに役立つでしょう。是非、実際にコードを書いて試してみてください。javascriptの理解が深まり、rssフィードのパースに対する理解も高まることでしょう。
 
-　
+
 
 ## 【Javascript】関連のまとめ
 https://hack-note.com/summary/javascript-summary/
 
-　
+
 
 ## オンラインスクールを講師として活用する！
 https://hack-note.com/programming-schools/
 
-　
+
 
 ## 0円でプログラミングを学ぶという選択
 - [techacademyの無料体験](//af.moshimo.com/af/c/click?a_id=2612475&amp;p_id=1555&amp;pc_id=2816&amp;pl_id=22706&amp;url=https%3a%2f%2ftechacademy.jp%2fhtmlcss-trial%3futm_source%3dmoshimo%26utm_medium%3daffiliate%26utm_campaign%3dtextad)
 - [オンラインスクール dmm webcamp pro](//af.moshimo.com/af/c/click?a_id=2612482&amp;p_id=1363&amp;pc_id=2297&amp;pl_id=39999&amp;guid=on)
 - [レバテックカレッジ｜大学生向け 無料説明会](//af.moshimo.com/af/c/click?a_id=4071793&p_id=3198&pc_id=7488&pl_id=41848)
-
