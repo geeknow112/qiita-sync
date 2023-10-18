@@ -1,9 +1,10 @@
 <!--
-title: 【javascript】カスタムrssウィジェットの開発！実装手法
-tags: javascript,rss
-id: 
+title:   【javascript】カスタムrssウィジェットの開発！実装手法
+tags:    JavaScript,RSS
+id:      c5f8a271ac4c064f16bf
 private: false
 -->
+
 
 ## ウィジェットの基本設計と要件定義
 
@@ -82,12 +83,12 @@ function fetchrssfeed(url) {
       const parser = new domparser();
       const xmldoc = parser.parsefromstring(data, "text/xml");
       const items = xmldoc.getelementsbytagname("item");
-      
+
       for (let i = 0; i < items.length; i++) {
         const title = items[i].getelementsbytagname("title")[0].textcontent;
         const link = items[i].getelementsbytagname("link")[0].textcontent;
         const pubdate = items[i].getelementsbytagname("pubdate")[0]?.textcontent;
-        
+
         displayrssitem(title, link, pubdate);
       }
     })
@@ -101,11 +102,11 @@ function displayrssitem(title, link, pubdate) {
   const listitem = document.createelement("li");
   const titlelink = document.createelement("a");
   const pubdatespan = document.createelement("span");
-  
+
   titlelink.href = link;
   titlelink.innertext = title;
   pubdatespan.innertext = pubdate ?? "";
-  
+
   listitem.appendchild(titlelink);
   listitem.appendchild(pubdatespan);
   rsslist.appendchild(listitem);
@@ -121,31 +122,31 @@ function displayrssitem(title, link, pubdate) {
 ```javascript
 function refreshwidget() {
   const widgetelement = document.getelementbyid("custom-rss-widget");
-  
+
   while (widgetelement.firstchild) {
     widgetelement.firstchild.remove();
   }
-  
+
   const feedurl = document.getelementbyid("feed-url").value;
-  
+
   if (!feedurl) {
     return;
   }
-  
+
   const widgetwidth = document.getelementbyid("widget-width").value;
   const widgetcolor = document.getelementbyid("widget-color").value;
-  
+
   widgetelement.style.width = widgetwidth + "px";
   widgetelement.style.backgroundcolor = widgetcolor;
-  
+
   const titleelement = document.createelement("h2");
   titleelement.innertext = "最新記事";
   widgetelement.appendchild(titleelement);
-  
+
   const rsslist = document.createelement("ul");
   rsslist.id = "rss-list";
   widgetelement.appendchild(rsslist);
-  
+
   fetchrssfeed(feedurl);
 }
 ```
@@ -165,14 +166,14 @@ function refreshwidget() {
 ```javascript
 function enableextensionfeatures() {
   const extensioncheckbox = document.getelementbyid("extension-checkbox");
-  
+
   if (extensioncheckbox.checked) {
     const extensionelement = document.createelement("p");
     extensionelement.innertext = "拡張機能が有効になりました！";
     document.body.appendchild(extensionelement);
   } else {
     const extensionelement = document.queryselector("p");
-    
+
     if (extensionelement) {
       extensionelement.remove();
     }
@@ -183,16 +184,16 @@ function customizewidget() {
   const widgetelement = document.getelementbyid("custom-rss-widget");
   const widgetwidthinput = document.getelementbyid("widget-width");
   const widgetcolorinput = document.getelementbyid("widget-color");
-  
+
   const newsize = prompt("ウィジェットの幅を入力してください（単位：px）");
-  
+
   if (newsize) {
     widgetwidthinput.value = newsize;
     widgetelement.style.width = newsize + "px";
   }
-  
+
   const newcolor = prompt("ウィジェットの背景色を入力してください（cssの色名またはカラーコード）");
-  
+
   if (newcolor) {
     widgetcolorinput.value = newcolor;
     widgetelement.style.backgroundcolor = newcolor;
@@ -211,20 +212,19 @@ function customizewidget() {
 - [javascriptでrssフィードの取得とパース処理を行う方法](https://www.example.com/rss-parsing-in-javascript)
 - [javascriptでウィジェットを作成するための基本的なhtmlとcssの書き方](https://www.example.com/basic-html-css-for-widget-creation)
 
-　
+
 
 ## 【Javascript】関連のまとめ
 https://hack-note.com/summary/javascript-summary/
 
-　
+
 
 ## オンラインスクールを講師として活用する！
 https://hack-note.com/programming-schools/
 
-　
+
 
 ## 0円でプログラミングを学ぶという選択
 - [techacademyの無料体験](//af.moshimo.com/af/c/click?a_id=2612475&amp;p_id=1555&amp;pc_id=2816&amp;pl_id=22706&amp;url=https%3a%2f%2ftechacademy.jp%2fhtmlcss-trial%3futm_source%3dmoshimo%26utm_medium%3daffiliate%26utm_campaign%3dtextad)
 - [オンラインスクール dmm webcamp pro](//af.moshimo.com/af/c/click?a_id=2612482&amp;p_id=1363&amp;pc_id=2297&amp;pl_id=39999&amp;guid=on)
 - [レバテックカレッジ｜大学生向け 無料説明会](//af.moshimo.com/af/c/click?a_id=4071793&p_id=3198&pc_id=7488&pl_id=41848)
-
