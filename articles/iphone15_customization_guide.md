@@ -1,9 +1,10 @@
 <!--
-title: 【iphone15】カスタマイズ方法：ホーム画面とウィジェットの設定
-tags: iphone,iphone15
-id: 
+title:   【iphone15】カスタマイズ方法：ホーム画面とウィジェットの設定
+tags:    iPhone,iphone15
+id:      74fa32269e0c99df0bb7
 private: false
 -->
+
 
 ## 【iphone15】カスタマイズ方法：ホーム画面とウィジェットの設定
 
@@ -162,20 +163,19 @@ iphone15では、ホーム画面の背景をカスタマイズすることがで
 
 以上で、iphone15のホーム画面とウィジェットの設定方法についてのガイドを終わります。初心者エンジニアの方にも分かりやすく解説できたかと思います。iphone15のカスタマイズ機能を活用して、自分だけのオリジナルなスマートフォンを作り上げてみてください。詳細な設定やカスタマイズ方法については、公式ドキュメントや参考記事をご覧ください。
 
-　
+
 
 ## 【iPhone 15】関連のまとめ
 https://hack-note.com/summary/iphone15-summary/
 
-　
+
 
 ## オンラインスクールを講師として活用する！
 https://hack-note.com/programming-schools/
 
-　
+
 
 ## 0円でプログラミングを学ぶという選択
 - [techacademyの無料体験](//af.moshimo.com/af/c/click?a_id=2612475&amp;p_id=1555&amp;pc_id=2816&amp;pl_id=22706&amp;url=https%3a%2f%2ftechacademy.jp%2fhtmlcss-trial%3futm_source%3dmoshimo%26utm_medium%3daffiliate%26utm_campaign%3dtextad)
 - [オンラインスクール dmm webcamp pro](//af.moshimo.com/af/c/click?a_id=2612482&amp;p_id=1363&amp;pc_id=2297&amp;pl_id=39999&amp;guid=on)
 - [レバテックカレッジ｜大学生向け 無料説明会](//af.moshimo.com/af/c/click?a_id=4071793&p_id=3198&pc_id=7488&pl_id=41848)
-

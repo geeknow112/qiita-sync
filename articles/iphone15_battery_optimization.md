@@ -1,9 +1,10 @@
 <!--
-title: 【iphone15】バッテリー最適化：長持ちさせる設定と節電テクニック
-tags: iphone,iphone15
-id: 
+title:   【iphone15】バッテリー最適化：長持ちさせる設定と節電テクニック
+tags:    iPhone,iphone15
+id:      630ed81b5e8faea7a6e0
 private: false
 -->
+
 
 ## バッテリー最適化モード：長時間使用するための設定
 
@@ -99,20 +100,19 @@ iphone15では、通知や位置情報などがバッテリーの消費を大き
 - [iphone バッテリー最適化とは？使い方や設定方法を解説](https://www.appbank.net/2021/09/15/iphone-application/2331057.php)
 - [【2021年最新】iphoneバッテリー持ちを良くする設定・節約方法](https://iphone-mania.jp/news-375439)
 
-　
+
 
 ## 【iPhone 15】関連のまとめ
 https://hack-note.com/summary/iphone15-summary/
 
-　
+
 
 ## オンラインスクールを講師として活用する！
 https://hack-note.com/programming-schools/
 
-　
+
 
 ## 0円でプログラミングを学ぶという選択
 - [techacademyの無料体験](//af.moshimo.com/af/c/click?a_id=2612475&amp;p_id=1555&amp;pc_id=2816&amp;pl_id=22706&amp;url=https%3a%2f%2ftechacademy.jp%2fhtmlcss-trial%3futm_source%3dmoshimo%26utm_medium%3daffiliate%26utm_campaign%3dtextad)
 - [オンラインスクール dmm webcamp pro](//af.moshimo.com/af/c/click?a_id=2612482&amp;p_id=1363&amp;pc_id=2297&amp;pl_id=39999&amp;guid=on)
 - [レバテックカレッジ｜大学生向け 無料説明会](//af.moshimo.com/af/c/click?a_id=4071793&p_id=3198&pc_id=7488&pl_id=41848)
-

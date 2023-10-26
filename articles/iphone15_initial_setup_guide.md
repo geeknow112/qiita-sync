@@ -1,9 +1,10 @@
 <!--
-title: 【iphone15】初期設定ガイド：使い始めの手順と基本設定
-tags: iphone,iphone15
-id: 
+title:   【iphone15】初期設定ガイド：使い始めの手順と基本設定
+tags:    iPhone,iphone15
+id:      05e074c32c8270dbb729
 private: false
 -->
+
 
 ## 初めてのiphone15：アンボックスから始めるセットアップ
 
@@ -72,20 +73,19 @@ iphone15の初期設定ガイドは以上です。初めて使用する方にと
 - [iphoneを初めて使う方向け：基本的な使い方と設定方法](https://blog.goo.ne.jp/hiro24/e/4f7995f12b1bc8835497a402695f486f)
 - [iphone/ipadの使い方ガイド〜初期設定から便利な機能まで〜](https://www.au.com/support/mobile/guide/iphone/firstsettings/)
 
-　
+
 
 ## 【iPhone 15】関連のまとめ
 https://hack-note.com/summary/iphone15-summary/
 
-　
+
 
 ## オンラインスクールを講師として活用する！
 https://hack-note.com/programming-schools/
 
-　
+
 
 ## 0円でプログラミングを学ぶという選択
 - [techacademyの無料体験](//af.moshimo.com/af/c/click?a_id=2612475&amp;p_id=1555&amp;pc_id=2816&amp;pl_id=22706&amp;url=https%3a%2f%2ftechacademy.jp%2fhtmlcss-trial%3futm_source%3dmoshimo%26utm_medium%3daffiliate%26utm_campaign%3dtextad)
 - [オンラインスクール dmm webcamp pro](//af.moshimo.com/af/c/click?a_id=2612482&amp;p_id=1363&amp;pc_id=2297&amp;pl_id=39999&amp;guid=on)
 - [レバテックカレッジ｜大学生向け 無料説明会](//af.moshimo.com/af/c/click?a_id=4071793&p_id=3198&pc_id=7488&pl_id=41848)
-
