@@ -1,9 +1,10 @@
 <!--
-title: 【iphone15】写真とカメラ設定：撮影機能と写真ライブラリの活用法
-tags: iphone,iphone15
-id: 
+title:   【iphone15】写真とカメラ設定：撮影機能と写真ライブラリの活用法
+tags:    iPhone,iphone15
+id:      936a1a7869360a0c3044
 private: false
 -->
+
 
 ## カメラの基本設定：解像度、露出、フラッシュなどの調整方法
 
@@ -17,7 +18,7 @@ iphone15では、撮影する写真の解像度を設定することができま
 
 ```swift
 // 解像度の設定
-camera.setresolution(resolution: .high) 
+camera.setresolution(resolution: .high)
 ```
 
 #### 露出の調整方法
@@ -54,7 +55,7 @@ camera.setflash(flash: .off) // フラッシュを常時オフにする
 
 ```swift
 // ポートレートモードの設定
-camera.setmode(mode: .portrait) 
+camera.setmode(mode: .portrait)
 ```
 
 ポートレートモードでは、被写体と背景の距離を適切に設定することが重要です。被写体が距離的に離れすぎると、ボケ効果が弱くなり、背景が鮮明になってしまいます。逆に、被写体が距離的に近すぎると、ボケ効果が強くなりすぎてしまいます。適切な距離を見極めることが、ポートレートモードを上手に活用するポイントです。
@@ -67,7 +68,7 @@ camera.setmode(mode: .portrait)
 
 ```swift
 // ナイトモードの設定
-camera.setmode(mode: .night) 
+camera.setmode(mode: .night)
 ```
 
 ナイトモードでは、カメラの手ブレが影響を及ぼすことがあります。そのため、できるだけ手ブレを防ぐようにしましょう。三脚や固定台を使用する、手を体に密着させる、シャッタースピードを上げるなどの対策を取ることで、よりクリアなナイトモード写真を撮影することができます。
@@ -140,20 +141,19 @@ iphone15では、写真を簡単に共有することができます。写真ア
 - [iphone15カメラ機能の解説](https://example.com/article1)
 - [iphone15写真ライブラリの活用法](https://example.com/article2)
 
-　
+
 
 ## 【iPhone 15】関連のまとめ
 https://hack-note.com/summary/iphone15-summary/
 
-　
+
 
 ## オンラインスクールを講師として活用する！
 https://hack-note.com/programming-schools/
 
-　
+
 
 ## 0円でプログラミングを学ぶという選択
 - [techacademyの無料体験](//af.moshimo.com/af/c/click?a_id=2612475&amp;p_id=1555&amp;pc_id=2816&amp;pl_id=22706&amp;url=https%3a%2f%2ftechacademy.jp%2fhtmlcss-trial%3futm_source%3dmoshimo%26utm_medium%3daffiliate%26utm_campaign%3dtextad)
 - [オンラインスクール dmm webcamp pro](//af.moshimo.com/af/c/click?a_id=2612482&amp;p_id=1363&amp;pc_id=2297&amp;pl_id=39999&amp;guid=on)
 - [レバテックカレッジ｜大学生向け 無料説明会](//af.moshimo.com/af/c/click?a_id=4071793&p_id=3198&pc_id=7488&pl_id=41848)
-
