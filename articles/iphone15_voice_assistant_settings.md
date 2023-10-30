@@ -1,9 +1,10 @@
 <!--
-title: 【iphone15】音声アシスタント設定：siriのカスタマイズと便利な機能
-tags: iphone,iphone15
-id: 
+title:   【iphone15】音声アシスタント設定：siriのカスタマイズと便利な機能
+tags:    iPhone,iphone15
+id:      867ee83c63e15932d554
 private: false
 -->
+
 
 ## iphone15の音声アシスタント設定：siriのカスタマイズと便利な機能
 
@@ -106,20 +107,19 @@ siriは、スマートホームデバイスと連携することで、家の電�
 - [siriの使い方 - iphone解説](https://sampleblog.com/siri-iphone-how-to-use)
 - [iphone15の新機能まとめ - 最新ニュース](https://sampleblog.com/iphone15-new-features)
 
-　
+
 
 ## 【iPhone 15】関連のまとめ
 https://hack-note.com/summary/iphone15-summary/
 
-　
+
 
 ## オンラインスクールを講師として活用する！
 https://hack-note.com/programming-schools/
 
-　
+
 
 ## 0円でプログラミングを学ぶという選択
 - [techacademyの無料体験](//af.moshimo.com/af/c/click?a_id=2612475&amp;p_id=1555&amp;pc_id=2816&amp;pl_id=22706&amp;url=https%3a%2f%2ftechacademy.jp%2fhtmlcss-trial%3futm_source%3dmoshimo%26utm_medium%3daffiliate%26utm_campaign%3dtextad)
 - [オンラインスクール dmm webcamp pro](//af.moshimo.com/af/c/click?a_id=2612482&amp;p_id=1363&amp;pc_id=2297&amp;pl_id=39999&amp;guid=on)
 - [レバテックカレッジ｜大学生向け 無料説明会](//af.moshimo.com/af/c/click?a_id=4071793&p_id=3198&pc_id=7488&pl_id=41848)
-
