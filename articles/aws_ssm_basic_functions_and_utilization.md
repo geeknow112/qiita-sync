@@ -1,9 +1,10 @@
 <!--
-title: 【aws system manager】基本機能と活用方法
-tags: aws,ssm,system_manager
-id: 
+title:   【aws system manager】基本機能と活用方法
+tags:    AWS,SSM,system_manager
+id:      8b25fa005fb06e6858f7
 private: false
 -->
+
 
 ## aws system manager【基本機能と活用方法】
 
@@ -161,20 +162,19 @@ aws system managerでは、スクリプトの管理も行うことができま�
 
 - カスタムドキュメントにスクリプトを埋め込む：カスタムドキュメント内の`runshellscript`コマンドを使用してスクリプトを埋め込むことができます。この場合、スクリプトの修正や管理が容易になります。
 
-　
+
 
 ## 【AWS System Manager】関連のまとめ
 https://hack-note.com/summary/aws-ssm-summary/
 
-　
+
 
 ## オンラインスクールを講師として活用する！
 https://hack-note.com/programming-schools/
 
-　
+
 
 ## 0円でプログラミングを学ぶという選択
 - [techacademyの無料体験](//af.moshimo.com/af/c/click?a_id=2612475&amp;p_id=1555&amp;pc_id=2816&amp;pl_id=22706&amp;url=https%3a%2f%2ftechacademy.jp%2fhtmlcss-trial%3futm_source%3dmoshimo%26utm_medium%3daffiliate%26utm_campaign%3dtextad)
 - [オンラインスクール dmm webcamp pro](//af.moshimo.com/af/c/click?a_id=2612482&amp;p_id=1363&amp;pc_id=2297&amp;pl_id=39999&amp;guid=on)
 - [レバテックカレッジ｜大学生向け 無料説明会](//af.moshimo.com/af/c/click?a_id=4071793&p_id=3198&pc_id=7488&pl_id=41848)
-
