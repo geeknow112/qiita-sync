@@ -1,9 +1,10 @@
 <!--
-title: 【aws system manager】セッションマネージャーの活用法
-tags: aws,ssm,system_manager
-id: 
+title:   【aws system manager】セッションマネージャーの活用法
+tags:    AWS,SSM,system_manager
+id:      771f542ceb35681c2586
 private: false
 -->
+
 
 ## セッションマネージャーの概要と利点
 awsについて初心者エンジニアに向けて、セッションマネージャーの概要と利点について紹介します。
@@ -115,20 +116,19 @@ $ ssm-session-manager-plugin run-command --document-name "aws-runshellscript" --
 - [aws systems manager session managerの使用方法](https://dev.classmethod.jp/articles/aws-systems-manager-session-manager-usage/)
 - [aws re:invent 2018: [repeat 1] gain operational insights and take action on aws resources with aws systems manager (sid201-r1)](https://www.youtube.com/watch?v=dhzvz5ruebu)
 
-　
+
 
 ## 【AWS System Manager】関連のまとめ
 https://hack-note.com/summary/aws-ssm-summary/
 
-　
+
 
 ## オンラインスクールを講師として活用する！
 https://hack-note.com/programming-schools/
 
-　
+
 
 ## 0円でプログラミングを学ぶという選択
 - [techacademyの無料体験](//af.moshimo.com/af/c/click?a_id=2612475&amp;p_id=1555&amp;pc_id=2816&amp;pl_id=22706&amp;url=https%3a%2f%2ftechacademy.jp%2fhtmlcss-trial%3futm_source%3dmoshimo%26utm_medium%3daffiliate%26utm_campaign%3dtextad)
 - [オンラインスクール dmm webcamp pro](//af.moshimo.com/af/c/click?a_id=2612482&amp;p_id=1363&amp;pc_id=2297&amp;pl_id=39999&amp;guid=on)
 - [レバテックカレッジ｜大学生向け 無料説明会](//af.moshimo.com/af/c/click?a_id=4071793&p_id=3198&pc_id=7488&pl_id=41848)
-

@@ -1,9 +1,10 @@
 <!--
-title: 【aws system manager】インスタンス管理とモニタリング
-tags: aws,ssm,system_manager
-id: 
+title:   【aws system manager】インスタンス管理とモニタリング
+tags:    AWS,SSM,system_manager
+id:      742868474563af3a1cd9
 private: false
 -->
+
 
 ## インスタンス管理の基本と重要な機能
 
@@ -200,20 +201,19 @@ print(security_group_id)
 
 以上で、インスタンス管理とモニタリングに関する基本的な機能と、それぞれの機能を実現するためのサンプルコードを説明しました。初心者エンジニアの皆さんは、これらの機能をバランスよく活用することで、aws上のインスタンス管理とモニタリングを効果的に行うことができるでしょう。
 
-　
+
 
 ## 【AWS System Manager】関連のまとめ
 https://hack-note.com/summary/aws-ssm-summary/
 
-　
+
 
 ## オンラインスクールを講師として活用する！
 https://hack-note.com/programming-schools/
 
-　
+
 
 ## 0円でプログラミングを学ぶという選択
 - [techacademyの無料体験](//af.moshimo.com/af/c/click?a_id=2612475&amp;p_id=1555&amp;pc_id=2816&amp;pl_id=22706&amp;url=https%3a%2f%2ftechacademy.jp%2fhtmlcss-trial%3futm_source%3dmoshimo%26utm_medium%3daffiliate%26utm_campaign%3dtextad)
 - [オンラインスクール dmm webcamp pro](//af.moshimo.com/af/c/click?a_id=2612482&amp;p_id=1363&amp;pc_id=2297&amp;pl_id=39999&amp;guid=on)
 - [レバテックカレッジ｜大学生向け 無料説明会](//af.moshimo.com/af/c/click?a_id=4071793&p_id=3198&pc_id=7488&pl_id=41848)
-
