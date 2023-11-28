@@ -1,9 +1,10 @@
 <!--
-title: 【ios 17】新しいアプリケーションと統合機能
-tags: ios,ios17
-id: 
+title:   【ios 17】新しいアプリケーションと統合機能
+tags:    iOS,iOS17
+id:      86e6d822266c4e74fa10
 private: false
 -->
+
 
 ## 新機能「app connect」の活用方法
 
@@ -19,16 +20,16 @@ import appconnect
 class viewcontroller: uiviewcontroller {
     override func viewdidload() {
         super.viewdidload()
-        
+
         // app connectの初期化
         appconnect.initialize(apikey: "your_api_key")
-        
+
         // 他のアプリケーションとのデータ共有を設定
         appconnect.enabledatasharing()
     }
-    
+
     // 他のアプリケーションとの連携のための処理
-    
+
     // データ共有のための処理
 }
 ```
@@ -66,13 +67,13 @@ import appgroup
 class viewcontroller: uiviewcontroller {
     override func viewdidload() {
         super.viewdidload()
-        
+
         // app groupの追加
         appgroup.add(groupidentifier: "group.com.yourcompany.appgroup")
     }
-    
+
     // 他のアプリケーションとの連携のための処理
-    
+
     // データ共有のための処理
 }
 ```
@@ -130,7 +131,7 @@ import intents
 class viewcontroller: uiviewcontroller {
     override func viewdidload() {
         super.viewdidload()
-        
+
         // siriへのアクセスを設定
         inpreferences.requestsiriauthorization { _ in }
     }
@@ -197,7 +198,7 @@ ios 17では、アプリサンドボックスの拡張とデータセキュリ�
 class viewcontroller: uiviewcontroller {
     override func viewdidload() {
         super.viewdidload()
-        
+
         // アプリサンドボックスへのアクセス許可を要求
         filemanager.default.requestaccess(to: .downloads) { granted in
             if granted {
@@ -255,10 +256,10 @@ import storekit
 class viewcontroller: uiviewcontroller {
     override func viewdidload() {
         super.viewdidload()
-        
+
         // 新着アプリの取得
         storekit.skstorereviewcontroller.requestreview()
-        
+
         // 注目アプリの取得
         storekit.skstoreproductviewcontroller.loadproduct(withparameters: [storekit.skstoreproductparameteritunesitemidentifier: app_id]) { (result, error) in
             if let error = error {
@@ -278,20 +279,19 @@ class viewcontroller: uiviewcontroller {
 - [app storeの公式ドキュメント](https://developer.apple.com/documentation/storekit)
 - [ios 17でのアプリストアの新着アプリと注目アプリの紹介についてのqiita記事](https://qiita.com/xxxxxxx)
 
-　
+
 
 ## 【iOS 17】関連のまとめ
 https://hack-note.com/summary/ios17-summary/
 
-　
+
 
 ## オンラインスクールを講師として活用する！
 https://hack-note.com/programming-schools/
 
-　
+
 
 ## 0円でプログラミングを学ぶという選択
 - [techacademyの無料体験](//af.moshimo.com/af/c/click?a_id=2612475&amp;p_id=1555&amp;pc_id=2816&amp;pl_id=22706&amp;url=https%3a%2f%2ftechacademy.jp%2fhtmlcss-trial%3futm_source%3dmoshimo%26utm_medium%3daffiliate%26utm_campaign%3dtextad)
 - [オンラインスクール dmm webcamp pro](//af.moshimo.com/af/c/click?a_id=2612482&amp;p_id=1363&amp;pc_id=2297&amp;pl_id=39999&amp;guid=on)
 - [レバテックカレッジ｜大学生向け 無料説明会](//af.moshimo.com/af/c/click?a_id=4071793&p_id=3198&pc_id=7488&pl_id=41848)
-
