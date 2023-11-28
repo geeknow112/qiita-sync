@@ -1,9 +1,10 @@
 <!--
-title: 【ios 17】画面デザインとユーザーインターフェースの変更点
-tags: ios,ios17
-id: 
+title:   【ios 17】画面デザインとユーザーインターフェースの変更点
+tags:    iOS,iOS17
+id:      e88d3672f60e1b7a25ac
 private: false
 -->
+
 
 # 【ios 17】画面デザインとユーザーインターフェースの変更点
 
@@ -20,13 +21,13 @@ class iconviewcontroller: uiviewcontroller {
         imageview.contentmode = .scaleaspectfit
         return imageview
     }()
-    
+
     override func viewdidload() {
         super.viewdidload()
-        
+
         view.addsubview(iconimageview)
         iconimageview.translatesautoresizingmaskintoconstraints = false
-        
+
         nslayoutconstraint.activate([
             iconimageview.centerxanchor.constraint(equalto: view.centerxanchor),
             iconimageview.centeryanchor.constraint(equalto: view.centeryanchor),
@@ -61,7 +62,7 @@ homescreen.setappicon(appicon)
 // ダークモードの有効化
 override func viewwillappear(_ animated: bool) {
     super.viewwillappear(animated)
-    
+
     overrideuserinterfacestyle = .dark
 }
 
@@ -142,20 +143,19 @@ navigationcontroller?.interactivepopgesturerecognizer?.delegate = self
 以上が、ios 17における画面デザインとユーザーインターフェースの変更点についての紹介でした。初心者のエンジニアの方でも理解しやすいように、各変更点に対してサンプルコードを用意しましたので、ぜひ参考にしてみてください。
 より美しいデザイン、使いやすいインターフェースによって、ios 17はますます魅力的なバージョンとなっています。
 
-　
+
 
 ## 【iOS 17】関連のまとめ
 https://hack-note.com/summary/ios17-summary/
 
-　
+
 
 ## オンラインスクールを講師として活用する！
 https://hack-note.com/programming-schools/
 
-　
+
 
 ## 0円でプログラミングを学ぶという選択
 - [techacademyの無料体験](//af.moshimo.com/af/c/click?a_id=2612475&amp;p_id=1555&amp;pc_id=2816&amp;pl_id=22706&amp;url=https%3a%2f%2ftechacademy.jp%2fhtmlcss-trial%3futm_source%3dmoshimo%26utm_medium%3daffiliate%26utm_campaign%3dtextad)
 - [オンラインスクール dmm webcamp pro](//af.moshimo.com/af/c/click?a_id=2612482&amp;p_id=1363&amp;pc_id=2297&amp;pl_id=39999&amp;guid=on)
 - [レバテックカレッジ｜大学生向け 無料説明会](//af.moshimo.com/af/c/click?a_id=4071793&p_id=3198&pc_id=7488&pl_id=41848)
-
