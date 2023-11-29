@@ -1,9 +1,10 @@
 <!--
-title: 【ios 17】カメラと写真機能の進化
-tags: ios,ios17
-id: 
+title:   【ios 17】カメラと写真機能の進化
+tags:    iOS,iOS17
+id:      2e9e0819bba64ed115e5
 private: false
 -->
+
 
 ## 新たなカメラ機能と写真撮影のクオリティ向上
 
@@ -20,44 +21,44 @@ import uikit
 import avfoundation
 
 class cameraviewcontroller: uiviewcontroller, avcapturephotocapturedelegate {
-    
+
     var capturesession: avcapturesession!
     var cameraoutput: avcapturephotooutput!
     var previewlayer: avcapturevideopreviewlayer!
-    
+
     override func viewdidload() {
         super.viewdidload()
-                
+
         capturesession = avcapturesession()
         cameraoutput = avcapturephotooutput()
-        
+
         guard let device = avcapturedevice.default(for: .video) else { return }
-        
+
         do {
             let input = try avcapturedeviceinput(device: device)
-            
+
             if capturesession.canaddinput(input) && capturesession.canaddoutput(cameraoutput) {
                 capturesession.addinput(input)
                 capturesession.addoutput(cameraoutput)
-                
+
                 previewlayer = avcapturevideopreviewlayer(session: capturesession)
                 previewlayer.frame = view.bounds
                 previewlayer.videogravity = .resizeaspectfill
                 view.layer.addsublayer(previewlayer)
-                
+
                 capturesession.startrunning()
             }
         } catch {
             print(error.localizeddescription)
         }
     }
-    
+
     // ボタンが押された時のアクション
     @ibaction func capturebuttontapped(_ sender: uibutton) {
         let settings = avcapturephotosettings()
         cameraoutput.capturephoto(with: settings, delegate: self)
     }
-    
+
     func photooutput(_ output: avcapturephotooutput, didfinishprocessingphoto photo: avcapturephoto, error: error?) {
         if let imagedata = photo.filedatarepresentation() {
             let image = uiimage(data: imagedata)
@@ -84,32 +85,32 @@ import uikit
 import coreimage
 
 class photoeditviewcontroller: uiviewcontroller {
-    
+
     @iboutlet weak var imageview: uiimageview!
-    
+
     override func viewdidload() {
         super.viewdidload()
-        
+
         // 編集前の写真を表示する
         let originalimage = uiimage(named: "original.jpg")
         imageview.image = originalimage
     }
-    
+
     // ボタンが押された時のアクション
     @ibaction func editbuttontapped(_ sender: uibutton) {
         guard let originalimage = imageview.image else { return }
-        
+
         let context = cicontext(options: nil)
         let ciimage = ciimage(image: originalimage)
-        
+
         // エフェクトやフィルターの追加
         let filter = cifilter(name: "ciphotoeffectnoir")
         filter?.setvalue(ciimage, forkey: kciinputimagekey)
         let filteredimage = uiimage(ciimage: (filter?.outputimage)!)
-        
+
         // 画像の明度調整
         let adjustedimage = filteredimage.adjustbrightness(value: 0.5)
-        
+
         imageview.image = adjustedimage
     }
 }
@@ -145,47 +146,47 @@ import uikit
 import avfoundation
 
 class cameraviewcontroller: uiviewcontroller, avcapturephotocapturedelegate {
-    
+
     @iboutlet weak var cameramodebutton: uibutton!
-    
+
     var capturesession: avcapturesession!
     var cameraoutput: avcapturephotooutput!
     var previewlayer: avcapturevideopreviewlayer!
     var currentmode: cameramode = .normal
-    
+
     enum cameramode {
         case normal
         case portrait
         case monochrome
     }
-    
+
     override func viewdidload() {
         super.viewdidload()
-        
+
         capturesession = avcapturesession()
         cameraoutput = avcapturephotooutput()
-        
+
         guard let device = avcapturedevice.default(for: .video) else { return }
-        
+
         do {
             let input = try avcapturedeviceinput(device: device)
-            
+
             if capturesession.canaddinput(input) && capturesession.canaddoutput(cameraoutput) {
                 capturesession.addinput(input)
                 capturesession.addoutput(cameraoutput)
-                
+
                 previewlayer = avcapturevideopreviewlayer(session: capturesession)
                 previewlayer.frame = view.bounds
                 previewlayer.videogravity = .resizeaspectfill
                 view.layer.addsublayer(previewlayer)
-                
+
                 capturesession.startrunning()
             }
         } catch {
             print(error.localizeddescription)
         }
     }
-    
+
     // ボタンが押された時のアクション
     @ibaction func cameramodebuttontapped(_ sender: uibutton) {
         switch currentmode {
@@ -200,10 +201,10 @@ class cameraviewcontroller: uiviewcontroller, avcapturephotocapturedelegate {
             currentmode = .normal
         }
     }
-    
+
     @ibaction func capturebuttontapped(_ sender: uibutton) {
         let settings = avcapturephotosettings()
-        
+
         switch currentmode {
         case .normal:
             break
@@ -214,10 +215,10 @@ class cameraviewcontroller: uiviewcontroller, avcapturephotocapturedelegate {
             filter?.setvalue(1.0, forkey: kciinputintensitykey)
             settings.photofilters = [ciimage(image: uiimage(ciimage: (filter?.outputimage)!))!]
         }
-        
+
         cameraoutput.capturephoto(with: settings, delegate: self)
     }
-    
+
     func photooutput(_ output: avcapturephotooutput, didfinishprocessingphoto photo: avcapturephoto, error: error?) {
         if let imagedata = photo.filedatarepresentation() {
             let image = uiimage(data: imagedata)
@@ -246,33 +247,33 @@ import uikit
 import photosui
 
 class photoviewcontroller: uiviewcontroller, phpickerviewcontrollerdelegate {
-    
+
     @iboutlet weak var livephotoview: phlivephotoview!
-    
+
     override func viewdidload() {
         super.viewdidload()
-        
+
         livephotoview.contentmode = .scaleaspectfit
     }
-    
+
     // ボタンが押された時のアクション
     @ibaction func pickerbuttontapped(_ sender: uibutton) {
         var configuration = phpickerconfiguration()
         configuration.filter = .livephotos
         configuration.selectionlimit = 1
-        
+
         let picker = phpickerviewcontroller(configuration: configuration)
         picker.delegate = self
         present(picker, animated: true, completion: nil)
     }
-    
+
     // phpickerviewcontrollerdelegate
-    
+
     func picker(_ picker: phpickerviewcontroller, didfinishpicking results: [phpickerresult]) {
         picker.dismiss(animated: true, completion: nil)
-        
+
         guard !results.isempty else { return }
-        
+
         let itemprovider = results.first!.itemprovider
         if itemprovider.canloadobject(ofclass: phlivephoto.self) {
             itemprovider.loadobject(ofclass: phlivephoto.self) { [weak self] (livephoto, error) in
@@ -295,20 +296,19 @@ phpickerviewcontrollerdelegateのpicker(_:didfinishpicking:)メソッド内で�
 ## クラウドストレージと写真バックアップの最適化
 
 
-　
+
 
 ## 【iOS 17】関連のまとめ
 https://hack-note.com/summary/ios17-summary/
 
-　
+
 
 ## オンラインスクールを講師として活用する！
 https://hack-note.com/programming-schools/
 
-　
+
 
 ## 0円でプログラミングを学ぶという選択
 - [techacademyの無料体験](//af.moshimo.com/af/c/click?a_id=2612475&amp;p_id=1555&amp;pc_id=2816&amp;pl_id=22706&amp;url=https%3a%2f%2ftechacademy.jp%2fhtmlcss-trial%3futm_source%3dmoshimo%26utm_medium%3daffiliate%26utm_campaign%3dtextad)
 - [オンラインスクール dmm webcamp pro](//af.moshimo.com/af/c/click?a_id=2612482&amp;p_id=1363&amp;pc_id=2297&amp;pl_id=39999&amp;guid=on)
 - [レバテックカレッジ｜大学生向け 無料説明会](//af.moshimo.com/af/c/click?a_id=4071793&p_id=3198&pc_id=7488&pl_id=41848)
-
