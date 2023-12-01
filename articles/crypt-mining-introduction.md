@@ -1,9 +1,10 @@
 <!--
-title: 【暗号資産マイニング】基礎知識と始め方
-tags: crypt,mining
-id: 
+title:   【暗号資産マイニング】基礎知識と始め方
+tags:    crypt,mining
+id:      3536c74bd2759d9bf3dc
 private: false
 -->
+
 
 ## 暗号資産マイニングとは？
 
@@ -67,20 +68,19 @@ start_mining()
 
 以上が、暗号資産マイニングの基礎知識と始め方についての記事です。初心者エンジニアの方にとって分かりやすい情報を提供できたかと思います。今後のマイニングの動向にも注目が必要ですが、この記事を参考にして、暗号資産マイニングにチャレンジしてみてください。
 
-　
+
 
 ## 【暗号資産マイニング】関連のまとめ
 https://hack-note.com/summary/crypt-mining-summary/
 
-　
+
 
 ## オンラインスクールを講師として活用する！
 https://hack-note.com/programming-schools/
 
-　
+
 
 ## 0円でプログラミングを学ぶという選択
 - [techacademyの無料体験](//af.moshimo.com/af/c/click?a_id=2612475&amp;p_id=1555&amp;pc_id=2816&amp;pl_id=22706&amp;url=https%3a%2f%2ftechacademy.jp%2fhtmlcss-trial%3futm_source%3dmoshimo%26utm_medium%3daffiliate%26utm_campaign%3dtextad)
 - [オンラインスクール dmm webcamp pro](//af.moshimo.com/af/c/click?a_id=2612482&amp;p_id=1363&amp;pc_id=2297&amp;pl_id=39999&amp;guid=on)
 - [レバテックカレッジ｜大学生向け 無料説明会](//af.moshimo.com/af/c/click?a_id=4071793&p_id=3198&pc_id=7488&pl_id=41848)
-
