@@ -1,9 +1,10 @@
 <!--
-title: 【暗号資産マイニング】マイニングリグの構築と最適化：ハードウェアと冷却対策
-tags: crypt,mining
-id: 
+title:   【暗号資産マイニング】マイニングリグの構築と最適化：ハードウェアと冷却対策
+tags:    crypt,mining
+id:      c8e24255c04cf1ef8a01
 private: false
 -->
+
 
 ## マイニングリグの選び方と構成要素
 
@@ -150,20 +151,19 @@ private: false
 
 今回は、暗号資産マイニングについて初心者エンジニアに向けて、マイニングリグの構築と最適化について解説しました。マイニングリグの選び方や構成要素、組み立て手順、冷却方法、電力管理、省エネ対策、最適化の方法などについて紹介しました。これらの情報を参考にして、効率的かつ安定したマイニングを行うことができるようになります。
 
-　
+
 
 ## 【暗号資産マイニング】関連のまとめ
 https://hack-note.com/summary/crypt-mining-summary/
 
-　
+
 
 ## オンラインスクールを講師として活用する！
 https://hack-note.com/programming-schools/
 
-　
+
 
 ## 0円でプログラミングを学ぶという選択
 - [techacademyの無料体験](//af.moshimo.com/af/c/click?a_id=2612475&amp;p_id=1555&amp;pc_id=2816&amp;pl_id=22706&amp;url=https%3a%2f%2ftechacademy.jp%2fhtmlcss-trial%3futm_source%3dmoshimo%26utm_medium%3daffiliate%26utm_campaign%3dtextad)
 - [オンラインスクール dmm webcamp pro](//af.moshimo.com/af/c/click?a_id=2612482&amp;p_id=1363&amp;pc_id=2297&amp;pl_id=39999&amp;guid=on)
 - [レバテックカレッジ｜大学生向け 無料説明会](//af.moshimo.com/af/c/click?a_id=4071793&p_id=3198&pc_id=7488&pl_id=41848)
-
