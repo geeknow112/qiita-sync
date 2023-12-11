@@ -1,9 +1,10 @@
 <!--
-title: 【tradingview】pineスクリプトのカスタムインジケーター作成入門
-tags: tradingview,pine
-id: 
+title:   【tradingview】pineスクリプトのカスタムインジケーター作成入門
+tags:    TradingView,pine
+id:      5c5c85c96512fe42150e
 private: false
 -->
+
 
 ## 【tradingview】pineスクリプトのカスタムインジケーター作成入門
 
@@ -154,20 +155,19 @@ pineスクリプトの基本構造やデータ操作、算術演算子の活用�
 
 トレーディングビューでのインジケーター作成は、pineスクリプトを使用することで簡単に行うことができます。ぜひ、これらの知識を活用して自分だけのオリジナルなインジケーターやトレード戦略を作成してみてください。
 
-　
+
 
 ## 【TradingView】Pine Script関連のまとめ
 https://hack-note.com/summary/tradingview-pine-summary/
 
-　
+
 
 ## オンラインスクールを講師として活用する！
 https://hack-note.com/programming-schools/
 
-　
+
 
 ## 0円でプログラミングを学ぶという選択
 - [techacademyの無料体験](//af.moshimo.com/af/c/click?a_id=2612475&amp;p_id=1555&amp;pc_id=2816&amp;pl_id=22706&amp;url=https%3a%2f%2ftechacademy.jp%2fhtmlcss-trial%3futm_source%3dmoshimo%26utm_medium%3daffiliate%26utm_campaign%3dtextad)
 - [オンラインスクール dmm webcamp pro](//af.moshimo.com/af/c/click?a_id=2612482&amp;p_id=1363&amp;pc_id=2297&amp;pl_id=39999&amp;guid=on)
 - [レバテックカレッジ｜大学生向け 無料説明会](//af.moshimo.com/af/c/click?a_id=4071793&p_id=3198&pc_id=7488&pl_id=41848)
-
