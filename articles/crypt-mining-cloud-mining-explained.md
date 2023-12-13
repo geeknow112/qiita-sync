@@ -1,9 +1,10 @@
 <!--
-title: 【暗号資産マイニング】クラウドマイニングとは：メリットと注意点
-tags: crypt,mining
-id: 
+title:   【暗号資産マイニング】クラウドマイニングとは：メリットと注意点
+tags:    crypt,mining
+id:      0d1c2a5acca00e132cf6
 private: false
 -->
+
 
 ## クラウドマイニングの基礎知識と仕組み
 
@@ -49,7 +50,7 @@ def join_cloud_mining():
     }
 
     response = requests.post('https://cloudminingprovider.com/register', data=registration_data)
-    
+
     if response.status_code == 200:
         print('successfully joined the cloud mining service!')
     else:
@@ -70,7 +71,7 @@ def adjust_hashpower(new_power):
     }
 
     response = requests.put('https://cloudminingprovider.com/settings', data=data)
-    
+
     if response.status_code == 200:
         print('successfully adjusted the hashpower!')
     else:
@@ -146,20 +147,19 @@ print(f'total cost for cooling and maintaining the mining machine: {total_cost}'
 
 以上が、初心者エンジニアを対象にしたクラウドマイニングの基礎知識と利点、プロバイダの選び方、注意点、そして収益性と投資回収期間の評価についての解説です。クラウドマイニングの利点を活かしながら、安定して暗号通貨を獲得するために、十分な情報収集と慎重な検討が必要です。
 
-　
+
 
 ## 【暗号資産マイニング】関連のまとめ
 https://hack-note.com/summary/crypt-mining-summary/
 
-　
+
 
 ## オンラインスクールを講師として活用する！
 https://hack-note.com/programming-schools/
 
-　
+
 
 ## 0円でプログラミングを学ぶという選択
 - [techacademyの無料体験](//af.moshimo.com/af/c/click?a_id=2612475&amp;p_id=1555&amp;pc_id=2816&amp;pl_id=22706&amp;url=https%3a%2f%2ftechacademy.jp%2fhtmlcss-trial%3futm_source%3dmoshimo%26utm_medium%3daffiliate%26utm_campaign%3dtextad)
 - [オンラインスクール dmm webcamp pro](//af.moshimo.com/af/c/click?a_id=2612482&amp;p_id=1363&amp;pc_id=2297&amp;pl_id=39999&amp;guid=on)
 - [レバテックカレッジ｜大学生向け 無料説明会](//af.moshimo.com/af/c/click?a_id=4071793&p_id=3198&pc_id=7488&pl_id=41848)
-
