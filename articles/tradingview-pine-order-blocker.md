@@ -1,9 +1,10 @@
 <!--
-title: 【tradingview】pineスクリプトによるオーダーブロッカーの実装方法
-tags: tradingview,pine
-id: 
+title:   【tradingview】pineスクリプトによるオーダーブロッカーの実装方法
+tags:    TradingView,pine
+id:      475ac0da13fcae0053ad
 private: false
 -->
+
 
 ## オーダーブロッカーの基本原理と概要
 オーダーブロッカーは、トレーダーが特定の条件を指定して取引の制御をするためのツールです。これにより、エントリーやエグジットのタイミングを制御したり、トレードの条件をカスタマイズしたりすることができます。tradingviewのpineスクリプトを使用することで、オーダーブロッカーを実装することができます。
@@ -109,20 +110,19 @@ pineスクリプトを使用してオーダーブロッカーを作成する際�
 - [creating a simple indicator in tradingview](https://www.tradingview.com/script/h5scyxht-creating-a-simple-indicator-in-tradingview/)
 - [implementing a custom backtester in tradingview](https://www.tradingview.com/script/xbcg9ggo-implementing-a-custom-backtester-in-tradingview/)
 
-　
+
 
 ## 【TradingView】Pine Script関連のまとめ
 https://hack-note.com/summary/tradingview-pine-summary/
 
-　
+
 
 ## オンラインスクールを講師として活用する！
 https://hack-note.com/programming-schools/
 
-　
+
 
 ## 0円でプログラミングを学ぶという選択
 - [techacademyの無料体験](//af.moshimo.com/af/c/click?a_id=2612475&amp;p_id=1555&amp;pc_id=2816&amp;pl_id=22706&amp;url=https%3a%2f%2ftechacademy.jp%2fhtmlcss-trial%3futm_source%3dmoshimo%26utm_medium%3daffiliate%26utm_campaign%3dtextad)
 - [オンラインスクール dmm webcamp pro](//af.moshimo.com/af/c/click?a_id=2612482&amp;p_id=1363&amp;pc_id=2297&amp;pl_id=39999&amp;guid=on)
 - [レバテックカレッジ｜大学生向け 無料説明会](//af.moshimo.com/af/c/click?a_id=4071793&p_id=3198&pc_id=7488&pl_id=41848)
-
