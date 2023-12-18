@@ -1,9 +1,10 @@
 <!--
-title: 【tradingview】pineスクリプト：変数とデータ型
-tags: tradingview,pine
-id: 
+title:   【tradingview】pineスクリプト：変数とデータ型
+tags:    TradingView,pine
+id:      3880179a715fd5ccfa65
 private: false
 -->
+
 
 こんにちは。今回は、tradingview pine scriptについて初心者エンジニアに向けて、変数とデータ型について解説していきたいと思います。
 
@@ -155,20 +156,19 @@ plot(value3, color=color.blue)
 
 以上が、tradingview pine scriptについて初心者エンジニア向けの変数とデータ型の解説でした。各項目では、変数の宣言と初期化方法、数値型データの利用方法、文字列型変数の操作テクニック、ブール型と条件文の活用法、配列とリストの操作手法について解説しました。これらの基本的な知識を身につけることで、より高度なpineスクリプトの作成が可能になります。是非、実際のプロジェクトで活用してみてください。
 
-　
+
 
 ## 【TradingView】Pine Script関連のまとめ
 https://hack-note.com/summary/tradingview-pine-summary/
 
-　
+
 
 ## オンラインスクールを講師として活用する！
 https://hack-note.com/programming-schools/
 
-　
+
 
 ## 0円でプログラミングを学ぶという選択
 - [techacademyの無料体験](//af.moshimo.com/af/c/click?a_id=2612475&amp;p_id=1555&amp;pc_id=2816&amp;pl_id=22706&amp;url=https%3a%2f%2ftechacademy.jp%2fhtmlcss-trial%3futm_source%3dmoshimo%26utm_medium%3daffiliate%26utm_campaign%3dtextad)
 - [オンラインスクール dmm webcamp pro](//af.moshimo.com/af/c/click?a_id=2612482&amp;p_id=1363&amp;pc_id=2297&amp;pl_id=39999&amp;guid=on)
 - [レバテックカレッジ｜大学生向け 無料説明会](//af.moshimo.com/af/c/click?a_id=4071793&p_id=3198&pc_id=7488&pl_id=41848)
-
