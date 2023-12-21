@@ -1,9 +1,10 @@
 <!--
-title: 【tradingview】pineスクリプト：算術演算子と比較演算子
-tags: tradingview,pine
-id: 
+title:   【tradingview】pineスクリプト：算術演算子と比較演算子
+tags:    TradingView,pine
+id:      5f7d2c629abf04309f1e
 private: false
 -->
+
 
 ## tradingview pine scriptについて初心者エンジニアに向けて
 
@@ -94,7 +95,7 @@ ratio = data1 / data2
 - 等しくない：!=
 - 大なり：>
 - 大なりイコール：>=
-- 小なり：< 
+- 小なり：<
 - 小なりイコール：<=
 
 例えば、変数xが10よりも大きい場合に条件を満たすためには、以下のようなコードを書くことができます。
@@ -135,20 +136,19 @@ if x > 10 and y < 20
 - [tradingviewで出来ることが凄い！最強のチャートツール【pine script】](https://asukainfo.com/%e6%9c%aa%e5%88%86%e9%a1%9e/tradingview%e3%81%a7%e5%87%ba%e6%9d%a5%e3%82%8b%e3%81%93%e3%81%a8%e3%81%8c%e5%87%84%e3%81%84%ef%bc%81%e6%9c%80%e5%bc%b7%e3%81%ae%e3%83%81%e3%83%a3%e3%83%bc%e3%83%88%e3%83%84/)
 - [tradingview(pineスクリプト) 基本+α](https://qiita.com/tanromu/items/62ad5227f053950a12f5)
 
-　
+
 
 ## 【TradingView】Pine Script関連のまとめ
 https://hack-note.com/summary/tradingview-pine-summary/
 
-　
+
 
 ## オンラインスクールを講師として活用する！
 https://hack-note.com/programming-schools/
 
-　
+
 
 ## 0円でプログラミングを学ぶという選択
 - [techacademyの無料体験](//af.moshimo.com/af/c/click?a_id=2612475&amp;p_id=1555&amp;pc_id=2816&amp;pl_id=22706&amp;url=https%3a%2f%2ftechacademy.jp%2fhtmlcss-trial%3futm_source%3dmoshimo%26utm_medium%3daffiliate%26utm_campaign%3dtextad)
 - [オンラインスクール dmm webcamp pro](//af.moshimo.com/af/c/click?a_id=2612482&amp;p_id=1363&amp;pc_id=2297&amp;pl_id=39999&amp;guid=on)
 - [レバテックカレッジ｜大学生向け 無料説明会](//af.moshimo.com/af/c/click?a_id=4071793&p_id=3198&pc_id=7488&pl_id=41848)
-
