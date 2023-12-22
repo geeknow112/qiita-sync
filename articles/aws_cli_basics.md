@@ -1,9 +1,10 @@
 <!--
-title: 【aws cli】基本コマンドと使い方
-tags: aws,cli
-id: 
+title:   【aws cli】基本コマンドと使い方
+tags:    AWS,CLI
+id:      030ab545ea2ae219dd87
 private: false
 -->
+
 
 ## aws cliの基本コマンドと使い方
 
@@ -101,20 +102,19 @@ $ aws rds create-db-instance --db-instance-identifier my-db --engine mysql --all
 - [https://qiita.com/tukiyo3/items/c6a1416e926a2be5ae7f](https://qiita.com/tukiyo3/items/c6a1416e926a2be5ae7f)
 - [https://dev.classmethod.jp/articles/aws/aws-cli-getting-started/](https://dev.classmethod.jp/articles/aws/aws-cli-getting-started/)
 
-　
+
 
 ## 【AWS CLI】関連のまとめ
 https://hack-note.com/summary/aws-cli-summary/
 
-　
+
 
 ## オンラインスクールを講師として活用する！
 https://hack-note.com/programming-schools/
 
-　
+
 
 ## 0円でプログラミングを学ぶという選択
 - [techacademyの無料体験](//af.moshimo.com/af/c/click?a_id=2612475&amp;p_id=1555&amp;pc_id=2816&amp;pl_id=22706&amp;url=https%3a%2f%2ftechacademy.jp%2fhtmlcss-trial%3futm_source%3dmoshimo%26utm_medium%3daffiliate%26utm_campaign%3dtextad)
 - [オンラインスクール dmm webcamp pro](//af.moshimo.com/af/c/click?a_id=2612482&amp;p_id=1363&amp;pc_id=2297&amp;pl_id=39999&amp;guid=on)
 - [レバテックカレッジ｜大学生向け 無料説明会](//af.moshimo.com/af/c/click?a_id=4071793&p_id=3198&pc_id=7488&pl_id=41848)
-
