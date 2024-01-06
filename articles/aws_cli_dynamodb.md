@@ -1,9 +1,10 @@
 <!--
-title: 【aws cli】dynamodbテーブルの作成とクエリ
-tags: aws,cli
-id: 
+title:   【aws cli】dynamodbテーブルの作成とクエリ
+tags:    AWS,CLI
+id:      1aa3f61877baac8fbe40
 private: false
 -->
+
 
 ## aws cliを使用したdynamodbテーブルの作成手順
 
@@ -21,9 +22,9 @@ aws cliを使用するには、awsの認証情報を設定する必要があり�
 
 ```bash
 $ aws configure
-aws access key id [****************]: 
-aws secret access key [****************]: 
-default region name [us-west-2]: 
+aws access key id [****************]:
+aws secret access key [****************]:
+default region name [us-west-2]:
 default output format [none]:
 ```
 
@@ -188,20 +189,19 @@ $ aws dynamodb update-table \
 参考ブログ記事:
 - [aws cliを使ったdynamodbテーブルのインデックスとパーティションキーの設定](https://sampleblog.com/article5)
 
-　
+
 
 ## 【aws cli】関連のまとめ
 https://hack-note.com/summary/aws-cli-summary/
 
-　
+
 
 ## オンラインスクールを講師として活用する！
 https://hack-note.com/programming-schools/
 
-　
+
 
 ## 0円でプログラミングを学ぶという選択
 - [techacademyの無料体験](//af.moshimo.com/af/c/click?a_id=2612475&amp;p_id=1555&amp;pc_id=2816&amp;pl_id=22706&amp;url=https%3a%2f%2ftechacademy.jp%2fhtmlcss-trial%3futm_source%3dmoshimo%26utm_medium%3daffiliate%26utm_campaign%3dtextad)
 - [オンラインスクール dmm webcamp pro](//af.moshimo.com/af/c/click?a_id=2612482&amp;p_id=1363&amp;pc_id=2297&amp;pl_id=39999&amp;guid=on)
 - [レバテックカレッジ｜大学生向け 無料説明会](//af.moshimo.com/af/c/click?a_id=4071793&p_id=3198&pc_id=7488&pl_id=41848)
-
