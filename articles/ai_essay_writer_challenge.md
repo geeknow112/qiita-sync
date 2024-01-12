@@ -1,9 +1,10 @@
 <!--
-title: 【ai】自動エッセイ生成の可能性：aiが新たな文章の領域に挑戦
-tags: ai,human,text
-id: 
+title:   【ai】自動エッセイ生成の可能性：aiが新たな文章の領域に挑戦
+tags:    AI,Human,text
+id:      fdedd089079f0f35a744
 private: false
 -->
+
 
 ## 自動エッセイ生成の進化：aiが文学の新たな扉を開く
 
@@ -63,20 +64,19 @@ aiの技術が進化する中で、人間とaiの共存が重要なテーマと�
 
 自動エッセイ生成は、aiの持つ情報処理能力と人間の創造力を組み合わせることで成り立っています。aiは大量の文章データを学習し、そのパターンや文法を理解することで文章を生成します。一方で、人間は情報や経験に基づいて独自
 
-　
+
 
 ## 【ai】関連のまとめ
 https://hack-note.com/summary/ai-summary/
 
-　
+
 
 ## オンラインスクールを講師として活用する！
 https://hack-note.com/programming-schools/
 
-　
+
 
 ## 0円でプログラミングを学ぶという選択
 - [techacademyの無料体験](//af.moshimo.com/af/c/click?a_id=2612475&amp;p_id=1555&amp;pc_id=2816&amp;pl_id=22706&amp;url=https%3a%2f%2ftechacademy.jp%2fhtmlcss-trial%3futm_source%3dmoshimo%26utm_medium%3daffiliate%26utm_campaign%3dtextad)
 - [オンラインスクール dmm webcamp pro](//af.moshimo.com/af/c/click?a_id=2612482&amp;p_id=1363&amp;pc_id=2297&amp;pl_id=39999&amp;guid=on)
 - [レバテックカレッジ｜大学生向け 無料説明会](//af.moshimo.com/af/c/click?a_id=4071793&p_id=3198&pc_id=7488&pl_id=41848)
-
