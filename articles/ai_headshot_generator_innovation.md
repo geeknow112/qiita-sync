@@ -1,9 +1,10 @@
 <!--
-title: 【ai】自動ヘッドショット生成の革新：aiが新たなビジュアル表現を開拓
-tags: ai,human,text
-id: 
+title:   【ai】自動ヘッドショット生成の革新：aiが新たなビジュアル表現を開拓
+tags:    AI,Human,text
+id:      f51ed02ec9ed7ec0b544
 private: false
 -->
+
 
 ## aiによる次世代ヘッドショット技術の登場
 
@@ -31,7 +32,7 @@ def build_headshot_generator():
         tf.keras.layers.dense(4096, activation='relu'),
         tf.keras.layers.dense(12288, activation='tanh')
     ])
-    
+
     return model
 
 # ヘッドショット生成のためのaiモデルを学習する関数
@@ -54,20 +55,19 @@ aiによるヘッドショット生成は、今後ますます進化していく
 - [機械学習の基礎と応用 - ウォーハンマーを描くai](https://www.creativeai.net/posts/i1oo0qgyng3ahcdkba_ea)
 - [ディープラーニングの基本と応用 - 画像生成のaiモデルの構築方法](https://www.creativeai.net/posts/1q1n0qgyng3ahcdkba_ea)
 
-　
+
 
 ## 【ai】関連のまとめ
 https://hack-note.com/summary/ai-summary/
 
-　
+
 
 ## オンラインスクールを講師として活用する！
 https://hack-note.com/programming-schools/
 
-　
+
 
 ## 0円でプログラミングを学ぶという選択
 - [techacademyの無料体験](//af.moshimo.com/af/c/click?a_id=2612475&amp;p_id=1555&amp;pc_id=2816&amp;pl_id=22706&amp;url=https%3a%2f%2ftechacademy.jp%2fhtmlcss-trial%3futm_source%3dmoshimo%26utm_medium%3daffiliate%26utm_campaign%3dtextad)
 - [オンラインスクール dmm webcamp pro](//af.moshimo.com/af/c/click?a_id=2612482&amp;p_id=1363&amp;pc_id=2297&amp;pl_id=39999&amp;guid=on)
 - [レバテックカレッジ｜大学生向け 無料説明会](//af.moshimo.com/af/c/click?a_id=4071793&p_id=3198&pc_id=7488&pl_id=41848)
-
