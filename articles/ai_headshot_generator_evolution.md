@@ -1,9 +1,10 @@
 <!--
-title: 【ai】未来のプロフィール写真：ai headshot generatorの進化と魅力
-tags: ai,human,text
-id: 
+title:   【ai】未来のプロフィール写真：ai headshot generatorの進化と魅力
+tags:    AI,Human,text
+id:      d7e1f1a9ac68514c73c3
 private: false
 -->
+
 
 ## ai headshot generatorの魅力：個性的なプロフィール写真の創造
 
@@ -63,20 +64,19 @@ aiを活用することで、従来のプロフィール写真に制約される
 1. [the future of profile pictures: ai generated headshots](https://towardsdatascience.com/the-future-of-profile-pictures-ai-generated-headshots-dfb2380ff3e6)
 2. [ai-generated faces: making fantasy a reality](https://towardsdatascience.com/ai-generated-faces-making-fantasy-a-reality-50794c1bcdc4)
 
-　
+
 
 ## 【ai】関連のまとめ
 https://hack-note.com/summary/ai-summary/
 
-　
+
 
 ## オンラインスクールを講師として活用する！
 https://hack-note.com/programming-schools/
 
-　
+
 
 ## 0円でプログラミングを学ぶという選択
 - [techacademyの無料体験](//af.moshimo.com/af/c/click?a_id=2612475&amp;p_id=1555&amp;pc_id=2816&amp;pl_id=22706&amp;url=https%3a%2f%2ftechacademy.jp%2fhtmlcss-trial%3futm_source%3dmoshimo%26utm_medium%3daffiliate%26utm_campaign%3dtextad)
 - [オンラインスクール dmm webcamp pro](//af.moshimo.com/af/c/click?a_id=2612482&amp;p_id=1363&amp;pc_id=2297&amp;pl_id=39999&amp;guid=on)
 - [レバテックカレッジ｜大学生向け 無料説明会](//af.moshimo.com/af/c/click?a_id=4071793&p_id=3198&pc_id=7488&pl_id=41848)
-
