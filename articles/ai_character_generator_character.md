@@ -1,9 +1,10 @@
 <!--
-title: 【ai】未来のフィクション：aiが生み出す魅力的なキャラクターたち
-tags: ai,human,text
-id: 
+title:   【ai】未来のフィクション：aiが生み出す魅力的なキャラクターたち
+tags:    AI,Human,text
+id:      c0472eb368f65d9f28eb
 private: false
 -->
+
 
 ## aiが描く未来のヒーローとヒロイン
 
@@ -146,20 +147,19 @@ character1.tell_story()
 - [can ai generate better fictional characters than humans?](https://towardsdatascience.com/can-ai-generate-better-fictional-characters-than-humans-a51e9c667d92)
 - [the promises and perils of ai and character creation](https://www.blurb.com/blog/the-promises-and-perils-of-ai-and-character-creation/)
 
-　
+
 
 ## 【ai】関連のまとめ
 https://hack-note.com/summary/ai-summary/
 
-　
+
 
 ## オンラインスクールを講師として活用する！
 https://hack-note.com/programming-schools/
 
-　
+
 
 ## 0円でプログラミングを学ぶという選択
 - [techacademyの無料体験](//af.moshimo.com/af/c/click?a_id=2612475&amp;p_id=1555&amp;pc_id=2816&amp;pl_id=22706&amp;url=https%3a%2f%2ftechacademy.jp%2fhtmlcss-trial%3futm_source%3dmoshimo%26utm_medium%3daffiliate%26utm_campaign%3dtextad)
 - [オンラインスクール dmm webcamp pro](//af.moshimo.com/af/c/click?a_id=2612482&amp;p_id=1363&amp;pc_id=2297&amp;pl_id=39999&amp;guid=on)
 - [レバテックカレッジ｜大学生向け 無料説明会](//af.moshimo.com/af/c/click?a_id=4071793&p_id=3198&pc_id=7488&pl_id=41848)
-
