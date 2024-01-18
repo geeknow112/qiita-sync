@@ -1,9 +1,10 @@
 <!--
-title: 【ai】aiによる驚異的な顔交換技術の登場
-tags: ai,human,text
-id: 
+title:   【ai】aiによる驚異的な顔交換技術の登場
+tags:    AI,Human,text
+id:      52306c35b5f84eb21f2c
 private: false
 -->
+
 
 こんにちは。今回は、aiについて初心者エンジニアに向けて、aiがもたらす驚異的な顔交換技術についてお伝えします。
 
@@ -53,18 +54,18 @@ faces = detector(gray)
 for face in faces:
     # 特徴点検出
     landmarks = predictor(image, face)
-    
+
     # 目の部分の特徴点を取得
     left_eye_landmarks = landmarks.parts()[36:42]
     right_eye_landmarks = landmarks.parts()[42:48]
-    
+
     # 特徴点の座標を取得
     left_eye_coordinates = np.array([[p.x, p.y] for p in left_eye_landmarks])
     right_eye_coordinates = np.array([[p.x, p.y] for p in right_eye_landmarks])
-    
+
     # 顔の中心を取得
     face_center = np.mean([left_eye_coordinates.mean(axis=0), right_eye_coordinates.mean(axis=0)], axis=0)
-    
+
     # 顔の中心を基準に画像を回転
     # ...
 
@@ -113,21 +114,21 @@ async function onplay() {
     // 目の部分の特徴点を取得
     const lefteye = landmarks.getlefteye();
     const righteye = landmarks.getrighteye();
-    
+
     // 特徴点の座標を取得
     const lefteyecoordinates = lefteye.map((p) => [p.x, p.y]);
     const righteyecoordinates = righteye.map((p) => [p.x, p.y]);
-    
+
     // 顔の中心を取得
     const facecenter = [
       (lefteyecoordinates[0][0] + righteyecoordinates[3][0]) / 2,
       (lefteyecoordinates[0][1] + righteyecoordinates[3][1]) / 2,
     ];
-    
+
     // 顔の中心を基準に画像を回転
     // ...
   });
-  
+
   // 一定間隔でフレームを処理
   settimeout(() => onplay(), 1000 / 30);
 }
@@ -171,24 +172,24 @@ faces = detector(gray)
 for face in faces:
     # 特徴点検出
     landmarks = predictor(image, face)
-    
+
     # 目の部分の特徴点を取得
     left_eye_landmarks = landmarks.parts()[36:42]
     right_eye_landmarks = landmarks.parts()[42:48]
-    
+
     # 特徴点の座標を取得
     left_eye_coordinates = [(p.x, p.y) for p in left_eye_landmarks]
     right_eye_coordinates = [(p.x, p.y) for p in right_eye_landmarks]
-    
+
     # 特徴点を変換
     for (x, y) in left_eye_coordinates:
         # 目の位置をずらす
         # ...
-        
+
     for (x, y) in right_eye_coordinates:
         # 目の位置をずらす
         # ...
-        
+
     # 画像を変形
     # ...
 ```
@@ -210,20 +211,19 @@ const canvas = document.getelementbyid("canvas");
 const ctx = canvas.getcontext("2d");
 ```
 
-　
+
 
 ## 【ai】関連のまとめ
 https://hack-note.com/summary/ai-summary/
 
-　
+
 
 ## オンラインスクールを講師として活用する！
 https://hack-note.com/programming-schools/
 
-　
+
 
 ## 0円でプログラミングを学ぶという選択
 - [techacademyの無料体験](//af.moshimo.com/af/c/click?a_id=2612475&amp;p_id=1555&amp;pc_id=2816&amp;pl_id=22706&amp;url=https%3a%2f%2ftechacademy.jp%2fhtmlcss-trial%3futm_source%3dmoshimo%26utm_medium%3daffiliate%26utm_campaign%3dtextad)
 - [オンラインスクール dmm webcamp pro](//af.moshimo.com/af/c/click?a_id=2612482&amp;p_id=1363&amp;pc_id=2297&amp;pl_id=39999&amp;guid=on)
 - [レバテックカレッジ｜大学生向け 無料説明会](//af.moshimo.com/af/c/click?a_id=4071793&p_id=3198&pc_id=7488&pl_id=41848)
-
