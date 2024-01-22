@@ -1,9 +1,10 @@
 <!--
-title: 【ai】aiキャラクタージェネレーター：創造性とデジタルエンターテイメントの融合
-tags: ai,human,text
-id: 
+title:   【ai】aiキャラクタージェネレーター：創造性とデジタルエンターテイメントの融合
+tags:    AI,Human,text
+id:      9374f0e0e1aa3aa8aa4b
 private: false
 -->
+
 
 ## aiが創り出す魅力的なキャラクターの世界
 
@@ -131,20 +132,19 @@ aiキャラクタージェネレーターは、創造性とデジタルエンタ
 1. [aiでキャラクターを生成する技術、進化の歴史](https://www.itmedia.co.jp/news/articles/2108/16/news028.html)
 2. [aiキャラクターエンジン「glyph」が特許を取得、人物のデザイン支援やライバーマテリアルの合成が可能に](https://prtimes.jp/main/html/rd/p/000000002.000078016.html)
 
-　
+
 
 ## 【ai】関連のまとめ
 https://hack-note.com/summary/ai-summary/
 
-　
+
 
 ## オンラインスクールを講師として活用する！
 https://hack-note.com/programming-schools/
 
-　
+
 
 ## 0円でプログラミングを学ぶという選択
 - [techacademyの無料体験](//af.moshimo.com/af/c/click?a_id=2612475&amp;p_id=1555&amp;pc_id=2816&amp;pl_id=22706&amp;url=https%3a%2f%2ftechacademy.jp%2fhtmlcss-trial%3futm_source%3dmoshimo%26utm_medium%3daffiliate%26utm_campaign%3dtextad)
 - [オンラインスクール dmm webcamp pro](//af.moshimo.com/af/c/click?a_id=2612482&amp;p_id=1363&amp;pc_id=2297&amp;pl_id=39999&amp;guid=on)
 - [レバテックカレッジ｜大学生向け 無料説明会](//af.moshimo.com/af/c/click?a_id=4071793&p_id=3198&pc_id=7488&pl_id=41848)
-
