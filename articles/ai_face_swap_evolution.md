@@ -1,9 +1,10 @@
 <!--
-title: 【ai】aiがもたらす面白さと驚き―顔交換技術の進化
-tags: ai,human,text
-id: 
+title:   【ai】aiがもたらす面白さと驚き―顔交換技術の進化
+tags:    AI,Human,text
+id:      6436ebf82500798746aa
 private: false
 -->
+
 
 ## aiフェイススワップの進化：笑いと驚きの連続
 
@@ -67,7 +68,7 @@ def detect_face_landmarks(image, predictor):
     for face in faces:
         shape = predictor(image, face)
         landmarks.append(shape)
-    
+
     return landmarks
 
 def apply_face_swap(input_image, input_face_landmarks, model):
@@ -114,7 +115,7 @@ def preprocess_face(face):
     # 画像をモデルの入力形式に変換
     face = np.expand_dims(face, axis=0)
     face = face.astype(np.float32) / 255.0
-    
+
     return face
 
 def blend_faces(input_image, input_face_landmarks, output_face):
@@ -249,20 +250,19 @@ aiによる顔交換技術はまだ始まったばかりであり、今後もさ
 
 aiが引き出す新たな面白さの探求は、私たちエンジニアにとっても非常に興味深い課題です。
 
-　
+
 
 ## 【ai】関連のまとめ
 https://hack-note.com/summary/ai-summary/
 
-　
+
 
 ## オンラインスクールを講師として活用する！
 https://hack-note.com/programming-schools/
 
-　
+
 
 ## 0円でプログラミングを学ぶという選択
 - [techacademyの無料体験](//af.moshimo.com/af/c/click?a_id=2612475&amp;p_id=1555&amp;pc_id=2816&amp;pl_id=22706&amp;url=https%3a%2f%2ftechacademy.jp%2fhtmlcss-trial%3futm_source%3dmoshimo%26utm_medium%3daffiliate%26utm_campaign%3dtextad)
 - [オンラインスクール dmm webcamp pro](//af.moshimo.com/af/c/click?a_id=2612482&amp;p_id=1363&amp;pc_id=2297&amp;pl_id=39999&amp;guid=on)
 - [レバテックカレッジ｜大学生向け 無料説明会](//af.moshimo.com/af/c/click?a_id=4071793&p_id=3198&pc_id=7488&pl_id=41848)
-
