@@ -1,9 +1,10 @@
 <!--
-title: 【ai】文字認識の未来：aiがもたらす効率的なocr技術とその応用
-tags: ai,ocr
-id: 
+title:   【ai】文字認識の未来：aiがもたらす効率的なocr技術とその応用
+tags:    AI,OCR
+id:      2d13aa9258eca793ad51
 private: false
 -->
+
 
 ## ai ocrの進化と革新：文字認識技術の未来展望
 
@@ -261,20 +262,19 @@ ocr_multilingual(image, 'eng')
 
 ai ocrの次世代では、ウォーターマークの除去や多言語のocrに加えて、さまざまな新機能が追加されることが期待されています。これにより、より便利で高度な文字認識が可能となります。
 
-　
+
 
 ## 【ai】関連のまとめ
 https://hack-note.com/summary/ai-summary/
 
-　
+
 
 ## オンラインスクールを講師として活用する！
 https://hack-note.com/programming-schools/
 
-　
+
 
 ## 0円でプログラミングを学ぶという選択
 - [techacademyの無料体験](//af.moshimo.com/af/c/click?a_id=2612475&amp;p_id=1555&amp;pc_id=2816&amp;pl_id=22706&amp;url=https%3a%2f%2ftechacademy.jp%2fhtmlcss-trial%3futm_source%3dmoshimo%26utm_medium%3daffiliate%26utm_campaign%3dtextad)
 - [オンラインスクール dmm webcamp pro](//af.moshimo.com/af/c/click?a_id=2612482&amp;p_id=1363&amp;pc_id=2297&amp;pl_id=39999&amp;guid=on)
 - [レバテックカレッジ｜大学生向け 無料説明会](//af.moshimo.com/af/c/click?a_id=4071793&p_id=3198&pc_id=7488&pl_id=41848)
-
